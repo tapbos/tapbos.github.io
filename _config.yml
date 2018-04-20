@@ -19,7 +19,7 @@ name: TAP-Boston
 description: >- # this means to ignore newlines until "baseurl:"
   TAP-Boston lower description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.tap-boston.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.beta.tap-boston.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Tap-boston filler twitter
 github_username:  Tap-boston filler github
 comments: false
