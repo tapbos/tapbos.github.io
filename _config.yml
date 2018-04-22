@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TAP-Boston beta site
-email: your-email@example.com
+email: tap.boston.email@filler.com
 name: TAP-Boston
 description: >- # this means to ignore newlines until "baseurl:"
   TAP-Boston lower description
