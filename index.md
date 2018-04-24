@@ -3,10 +3,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-### Logo could go here.
-## Taiwanese American Professionals - Boston
-
 <center>
+  <h3>Logo could go here</h3>
+  <h2>Taiwanese American Professionals - Boston</h2>
   <h1>OUR MISSION</h1>
 </center>
 
