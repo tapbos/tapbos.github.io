@@ -4,7 +4,7 @@
 layout: home
 ---
 <center>
-  <h3>Logo could go here</h3>
+  ![tap-boston logo here](/wp-content/TAPLogo200.png)
   <h2>Taiwanese American Professionals - Boston</h2>
   <h1>OUR MISSION</h1>
 </center>
