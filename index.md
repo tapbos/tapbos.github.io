@@ -3,8 +3,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+![tap-boston logo here](/wp-content/TAPLogo200.png)
+
 <center>
-  ![tap-boston logo here](/wp-content/TAPLogo200.png)
   <h2>Taiwanese American Professionals - Boston</h2>
   <h1>OUR MISSION</h1>
 </center>
