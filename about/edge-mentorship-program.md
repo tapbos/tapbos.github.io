@@ -1,6 +1,5 @@
 ---
 id: 42
-title: EDGE Mentorship Program
 date: 2016-07-02T18:16:13+00:00
 author: tapboston
 layout: page

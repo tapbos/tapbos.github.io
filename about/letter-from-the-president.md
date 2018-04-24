@@ -1,6 +1,5 @@
 ---
 id: 700
-title: Letter from the President
 date: 2018-01-07T18:27:14+00:00
 author: tapboston
 layout: page

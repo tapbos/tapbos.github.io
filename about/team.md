@@ -1,6 +1,5 @@
 ---
 id: 26
-title: Team
 date: 2016-07-02T18:09:46+00:00
 author: tapboston
 layout: page

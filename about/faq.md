@@ -1,6 +1,5 @@
 ---
 id: 14
-title: FAQ
 date: 2016-06-28T05:44:19+00:00
 author: tapboston
 layout: page
