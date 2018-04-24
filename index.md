@@ -3,12 +3,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<p style="text-align: center;">
-## Logo could go here.
+### Logo could go here.
 ## Taiwanese American Professionals - Boston
 
+<center>
+  <h1>OUR MISSION</h1>
+</center>
+
 <p style="text-align: center;">
-# OUR MISSION
 
 TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage to develop as leaders and to serve Greater Boston. We provide a supportive environment where members can reflect, grow, and build meaningful relationships.
 
