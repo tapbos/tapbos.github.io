@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TAP-Boston beta site
-email: tap.boston.email@filler.com
+title: TAP-Boston
+email: info@tap-boston.org
 name: TAP-Boston
 description: >- # this means to ignore newlines until "baseurl:"
-  TAP-Boston lower description
+  © 2017 TAP-Boston. All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.beta.tap-boston.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Tap-boston filler twitter
-github_username:  Tap-boston filler github
+twitter_username: TAP_BOS
+github_username:  tapbos-github-filler
 comments: false
 
 # Build settings
