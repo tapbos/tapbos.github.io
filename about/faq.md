@@ -3,6 +3,7 @@ id: 14
 date: 2016-06-28T05:44:19+00:00
 author: tapboston
 layout: page
+exclude: true
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=14
 ---
 <h2 style="text-align: left;">

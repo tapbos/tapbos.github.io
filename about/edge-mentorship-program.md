@@ -5,10 +5,6 @@ author: tapboston
 layout: page
 exclude: true
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=42
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
 ---
 ## What is EDGE?
 
