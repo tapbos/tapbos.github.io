@@ -7,10 +7,10 @@ layout: page
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
 ---
 <div class="ezcol ezcol-one-half">
-  <a href="https://www.redfin.com/city/1826/MA/Boston"></p> 
+  <a href="https://www.redfin.com/city/1826/MA/Boston">
   
   <div style="padding: 1em; background-color: #fff; color: #333;">
-    <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/sponsorRedfin.png" width="815" height="177" /></p> 
+    <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/sponsorRedfin.png" width="815" height="177" />
     
     <div style="font-size: 14px; text-align: center;">
       <span style="color: #808080;">56 Roland St #300, Charlestown, MA 02129</span>
@@ -20,36 +20,36 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
       More than 10,000 customers buy or sell a home with us each year. We’re full-service, local agents who get to know you over coffee and on home tours, and we use online tools to make you smarter and faster.
     </p>
   </div>
-  
+	
   <p>
-    </a><br /> </div> 
+    <br/>
     
     <div class="ezcol ezcol-one-half ezcol-last">
-      <a href="https://www.libertymutual.com/"></p> 
+      <a href="https://www.libertymutual.com/">
       
       <div style="padding: 1em; background-color: #fff; color: #333;">
-        <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorLiberty.png" width="815" height="177" /></p> 
+        <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorLiberty.png" width="815" height="177" />
         
         <div style="font-size: 14px; text-align: center;">
           <span style="color: #808080;"></span>
         </div>
         
         <p>
-          ​​​​​​​​​​​​​​​​​​​​​Liberty Mutual Insurance helps people preserve and protect what they earn, build, own, and cherish. Keeping this promise means we are there when our customers need us most. Throughout our operations around the world, we are committed to providing insurance products and services to meet the needs of individuals, families, and businesses; offering a diverse and dynamic work environment for our employees; and supporting our communities.​
+          Liberty Mutual Insurance helps people preserve and protect what they earn, build, own, and cherish. Keeping this promise means we are there when our customers need us most. Throughout our operations around the world, we are committed to providing insurance products and services to meet the needs of individuals, families, and businesses; offering a diverse and dynamic work environment for our employees; and supporting our communities.
         </p>
       </div>
       
       <p>
-        </a><br /> </div>
+        <br />
         
         <div class="ezcol-divider">
         </div>
         
         <div class="ezcol ezcol-one-half">
-          <a href="http://www.neacp.com/home.html"></p> 
+          <a href="http://www.neacp.com/home.html">
           
           <div style="padding: 1em; background-color: #fff; color: #333;">
-            <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/02/SponsorNEACP.png" width="815" height="177" /></p> 
+            <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/02/SponsorNEACP.png" width="815" height="177" />
             
             <div style="font-size: 14px; text-align: center;">
               <span style="color: #808080;"></span>
@@ -61,13 +61,13 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
           </div>
           
           <p>
-            </a><br /> </div> 
+            <br />
             
             <div class="ezcol ezcol-one-half ezcol-last">
-              <a href="http://http://bcnc.net/"></p> 
+              <a href="http://http://bcnc.net/">
               
               <div style="padding: 1em; background-color: #fff; color: #333;">
-                <img class="aligncenter wp-image-298 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/sponsorBCNC.png" width="815" height="177" /></p> 
+                <img class="aligncenter wp-image-298 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/sponsorBCNC.png" width="815" height="177" />
                 
                 <div style="font-size: 14px; text-align: center;">
                   <span style="color: #808080;">38 Ash St, Boston, MA 02111</span>
@@ -79,16 +79,16 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
               </div>
               
               <p>
-                </a><br /> </div>
+                <br />
                 
                 <div class="ezcol-divider">
                 </div>
                 
                 <div class="ezcol ezcol-one-half">
-                  <a href="http://www.erc-group.com.tw/front/bin/home.phtml"></p> 
+                  <a href="http://www.erc-group.com.tw/front/bin/home.phtml">
                   
                   <div style="padding: 1em; background-color: #fff; color: #333;">
-                    <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorERC2.png" width="815" height="177" /></p> 
+                    <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorERC2.png" width="815" height="177" />
                     
                     <div style="font-size: 14px; text-align: center;">
                       <span style="color: #808080;"></span>
@@ -96,13 +96,13 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
                   </div>
                   
                   <p>
-                    </a><br /> </div> 
+                    <br />
                     
                     <div class="ezcol ezcol-one-half ezcol-last">
-                      <a href="http://www.ufslogistics.com"></p> 
+                      <a href="http://www.ufslogistics.com">
                       
                       <div style="padding: 1em; background-color: #fff; color: #333;">
-                        <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorUFS.png" width="815" height="177" /></p> 
+                        <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorUFS.png" width="815" height="177" />
                         
                         <div style="font-size: 14px; text-align: center;">
                           <span style="color: #808080;"></span>
@@ -114,16 +114,16 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
                       </div>
                       
                       <p>
-                        </a><br /> </div>
+                        <br />
                         
                         <div class="ezcol-divider">
                         </div>
                         
                         <div class="ezcol ezcol-one-half">
-                          <a href="http://www.roc-taiwan.org/usbos_en/index.html"></p> 
+                          <a href="http://www.roc-taiwan.org/usbos_en/index.html">
                           
                           <div style="padding: 1em; background-color: #fff; color: #333;">
-                            <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorTeco.png" width="815" height="177" /></p> 
+                            <img class="aligncenter wp-image-299 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/04/sponsorTeco.png" width="815" height="177" />
                             
                             <div style="font-size: 14px; text-align: center;">
                               <span style="color: #808080;"></span>
@@ -132,40 +132,12 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
                             <p>
                               TECO-Boston represents the interests of the Republic of China (Taiwan) in New England. Its service areas cover five New England states: Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont.
                             </p>
+
+			    <p>
+			    Thomas M. Tseng, D.O., M.P.H. and Donna Chan
+			    </p>
+
+			    <p>
+			    Terry M. Lee, M.D.
+			    </p>
                           </div>
-                          
-                          <p>
-                            </a><br /> </div> 
-                            
-                            <div class="ezcol ezcol-one-half ezcol-last">
-                              <div style="padding: 1em; background-color: #fff; color: #333;">
-                                <div style="font-size: 14px; text-align: center;">
-                                  <span style="color: #808080;"></span>
-                                </div>
-                                
-                                <p>
-                                  Thomas M. Tseng, D.O., M.P.H. and Donna Chan
-                                </p>
-                              </div>
-                            </div>
-                            
-                            <div class="ezcol-divider">
-                            </div>
-                            
-                            <div class="ezcol ezcol-one-half">
-                              <div style="padding: 1em; background-color: #fff; color: #333;">
-                                <div style="font-size: 14px; text-align: center;">
-                                  <span style="color: #808080;"></span>
-                                </div>
-                                
-                                <p>
-                                  Terry M. Lee, M.D.
-                                </p>
-                              </div>
-                            </div>
-                            
-                            <div class="ezcol ezcol-one-half ezcol-last">
-                            </div>
-                            
-                            <div class="ezcol-divider">
-                            </div>
