@@ -15,11 +15,11 @@ hefo_after:
 Ever wondered how people spend their days for different industries? What are our favorite or most difficult part of our jobs? Find out here, compiled from responses provided by our EDGE Mentorship Program mentors.
 
 <div class="ezcol ezcol-one-half">
-  <a href="http://www.tap-boston.org/resources/a-day-in-the-life-business-law/">Business / Law</a></p> 
+  <a href="http://www.tap-boston.org/resources/a-day-in-the-life-business-law/">Business / Law</a>
   
   <p>
     <a href="http://www.tap-boston.org/resources/a-day-in-the-life-healthcare/">Healthcare</a>
   </p>
   
   <p>
-    <a href="http://www.tap-boston.org/resources/a-day-in-the-life-healthcare-2/">STEM (Science, Technology, Engineering, Mathematics)</a><br /> </div>
+    <a href="http://www.tap-boston.org/resources/a-day-in-the-life-healthcare-2/">STEM (Science, Technology, Engineering, Mathematics)</a><br />

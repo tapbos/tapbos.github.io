@@ -6,4 +6,5 @@ author: tapboston
 layout: page
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=56
 ---
-[srizonfbgallery id=1]
+
+Array of photos placeholder
