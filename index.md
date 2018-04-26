@@ -3,15 +3,29 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-![tap-boston logo here](/wp-content/TAPLogo200.png)
+<p align="center">
+   <img src="/images/tap-logo.png" align="middle">
+</p>
 
 <center>
   <h2>Taiwanese American Professionals - Boston</h2>
   <h1>OUR MISSION</h1>
 </center>
 
-<p style="text-align: center;">
-
+<p align="center">
 TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage to develop as leaders and to serve Greater Boston. We provide a supportive environment where members can reflect, grow, and build meaningful relationships.
+</p>
 
+<p align="center">
 We are driven by the ideals of continuous self-improvement and the moral obligation to help others.
+</p>
+
+<center>
+  <h3>Subscribe to our monthly newsletter</h3>
+  "Join us!" img mailmunch link
+</center>
+
+<center>
+<h4>Donate to us</h4>
+"Donate" img paypal link
+</center>
