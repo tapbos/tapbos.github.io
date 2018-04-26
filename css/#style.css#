@@ -4,13 +4,13 @@ body{
     font-family: Arial;
 }
 
-ul.main-nav-bar{
+ul.navbar{
     margin: 0px;
     padding: 0px;
     list-style: none;
 }
 
-ul.main-nav-bar li{
+ul.navbar li{
     float: left;
     width: 120px;
     height: 40px;
@@ -21,20 +21,20 @@ ul.main-nav-bar li{
     font-size: 30;
 }
 
-ul.main-nav-bar li a{
+ul.navbar li a{
     text-decoration: none;
     color: black;
     display: block;
 }
 
-ul.main-nav-bar li a:hover{
+ul li a:hover{
     background-color: teal;
 }
 
-ul.main-nav-bar li ul li{
+ul li ul li{
     display: none;
 }
 
-ul.main-nav-bar li:hover ul li{
+ul li:hover ul li{
     display: block;
 }
