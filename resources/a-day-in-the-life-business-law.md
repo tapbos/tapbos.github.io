@@ -1,8 +1,8 @@
 ---
-title: A Day in the Life - Business / Law
+title: A Day in the Life: Business / Law
 author: tapboston
 layout: default
-permalink: /about/a-day-in-the-life-business-law/
+permalink: /resources/a-day-in-the-life-business-law/
 ---
 
 <h2><a href="#Asset-Management-Private-Equity">Asset Management/Private Equity</a></h2>

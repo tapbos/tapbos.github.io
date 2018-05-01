@@ -1,8 +1,8 @@
 ---
-title: A Day in the Life - Science / Technology/ Engineering / Mathematics
+title: A Day in the Life: Science / Technology/ Engineering / Mathematics
 author: tapboston
 layout: default
-permalink: /about/a-day-in-the-life-stem/
+permalink: /resources/a-day-in-the-life-stem/
 ---
 
 <h2><a href="#Systems-Engineer"><strong>Systems Engineer</strong></a></h2>

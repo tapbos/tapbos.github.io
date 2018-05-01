@@ -1,8 +1,8 @@
 ---
-title: A Day in the Life - Healthcare
+title: A Day in the Life: Healthcare
 author: tapboston
 layout: default
-permalink: /about/a-day-in-the-life-healthcare/
+permalink: /resources/a-day-in-the-life-healthcare/
 ---
 
 <h2><strong>Week in the Life: Pain Fellow</strong></h2>
