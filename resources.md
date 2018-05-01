@@ -13,6 +13,8 @@ hefo_after:
 
 Ever wondered how people spend their days for different industries? What are our favorite or most difficult part of our jobs? Find out here, compiled from responses provided by our EDGE Mentorship Program mentors.
 
+***
+
 <div>
   <p>
     <a href="/resources/a-day-in-the-life-business-law">Business / Law</a>
