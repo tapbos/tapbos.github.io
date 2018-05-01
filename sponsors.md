@@ -1,11 +1,8 @@
 ---
-id: 17
 title: Sponsors
 date: 2016-07-02T17:54:22+00:00
-author: tapboston
 layout: default
 permalink: /sponsors/
-guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
 ---
 <div class="ezcol ezcol-one-half">
   <a href="https://www.redfin.com/city/1826/MA/Boston">
@@ -129,16 +126,20 @@ guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=17
                             <div style="font-size: 14px; text-align: center;">
                               <span style="color: #808080;"></span>
                             </div>
-                            
-                            <p>
-                              TECO-Boston represents the interests of the Republic of China (Taiwan) in New England. Its service areas cover five New England states: Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont.
-                            </p>
-			    
-			    <p>
-			    Thomas M. Tseng, D.O., M.P.H. and Donna Chan
-			    </p>
 
 			    <p>
-			    Terry M. Lee, M.D.
-			    </p>
-                          </div>
+                              TECO-Boston represents the interests of the Republic of China (Taiwan) in New England. Its service areas cover five New England states: Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont.
+                            </p>
+			  </div>
+			  </a>
+			</div>
+
+			<div class="ezcol-divider">
+			  <p>
+  			  Thomas M. Tseng, D.O., M.P.H. and Donna Chan
+			  </p>
+
+			  <p>
+			  Terry M. Lee, M.D.
+			  </p>  
+                        </div>
