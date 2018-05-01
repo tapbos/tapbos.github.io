@@ -21,7 +21,7 @@ Ever wondered how people spend their days for different industries? What are our
   </p>
   
   <p>
-    <a href="/resources/a-day-in-the-life-business-law">Healthcare</a>
+    <a href="/resources/a-day-in-the-life-healthcare">Healthcare</a>
   </p>
   
   <p>

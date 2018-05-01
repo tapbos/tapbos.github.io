@@ -20,6 +20,8 @@ TAP-Boston is a springboard for driven and passionate individuals interested in 
 We are driven by the ideals of continuous self-improvement and the moral obligation to help others.
 </p>
 
+***
+
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
   <a href="#mailmunch-pop-121032">"Join us!"</a> img
