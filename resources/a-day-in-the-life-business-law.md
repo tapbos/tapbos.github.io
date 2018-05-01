@@ -12,7 +12,7 @@ permalink: /resources/a-day-in-the-life-business-law/
 <h2><a href="#Corporate-Paralegal"><strong>Corporate Paralegal</strong></a></h2>
 &nbsp;
 
-<hr />
+<hr/>
 
 &nbsp;
 <h2 id="Asset-Management-Private-Equity"><strong>Week in the Life: Asset Management/Private Equity</strong></h2>
@@ -229,3 +229,9 @@ Okay so here goes a random day in the life of a corporate paralegal…
 [ezcol_1fifth]5:00 – 10:00pm[/ezcol_1fifth][ezcol_4fifth_end]Me time; when I was preparing for the LSAT/working on law school apps, this was mostly LSAT/law school app time; do some sort of workout; catch up with friends; watch some drama/shows; read; etc.[/ezcol_4fifth_end]
 
 [ezcol_1fifth]10:00 – 11:00pm[/ezcol_1fifth][ezcol_4fifth_end]Usually in bed by now; reading random things and doing other mindless activities; and then falling asleep[/ezcol_4fifth_end]
+
+| -------------:|:------------- |
+| 9:00am | Table test line |
+| 12:00pm – 2:00pm | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa zzz |
+| 2:00pm – 10:00pm | Another table test line |
+| 11:30pm | Last line of the table |
