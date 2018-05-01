@@ -19,8 +19,21 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
 	</head>
+	{% if page.url == "/index.html" %}
+	<!-- Banner -->
+	<body class="landing">
+	  <section id="banner">
+	    <h2>Alpha</h2>
+	    <p>Another fine responsive site template freebie by HTML5 UP.</p>
+	    <ul class="actions">
+	      <li><a href="#" class="button special">Sign Up</a></li>
+	      <li><a href="#" class="button">Learn More</a></li>
+	    </ul>
+	  </section>
+	  {% else %}
 	<body>
 	  <section id="banner"></section>
+	          {% endif %}
 	{% include nav.html %}
 	<!-- Main -->
 	<section id="main" class="container">

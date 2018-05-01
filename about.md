@@ -3,7 +3,8 @@ id: 8
 title: About
 date: 2016-06-28T05:38:58+00:00
 author: tapboston
-layout: page
+layout: default
+permalink: /about/
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=8
 hefo_before:
   - "0"

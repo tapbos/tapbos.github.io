@@ -3,7 +3,8 @@ id: 131
 title: Resources
 date: 2016-09-24T16:50:20+00:00
 author: tapboston
-layout: page
+layout: default
+permalink: /resources/
 guid: http://www.tap-boston.org/?page_id=131
 hefo_before:
   - "0"
