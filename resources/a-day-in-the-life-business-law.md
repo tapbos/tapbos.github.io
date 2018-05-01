@@ -20,13 +20,11 @@ I am an Associate at a holding company for seven asset management firms. These f
 
 My job focuses on portfolio management, or the oversight of our existing companies. I am still new here (6 months in) and working on establishing myself both internally – with my colleagues – and externally – with the management teams of our portfolio companies. This job revolves around meetings and the prep involved beforehand. I have chosen to share three days during the week of December 15<sup>th</sup>, 2014. Monday is a busy day of meetings, Wednesday is a busy day of meeting prep and Friday is a relaxed day.
 <h3><strong>Monday</strong><strong> </strong></h3>
-[ezcol_1fifth]7:30am[/ezcol_1fifth][ezcol_4fifth_end]Wake and make breakfast (bacon and eggs). Scramble to get dressed and pack a carry-on – I am traveling to attend a board meeting at one of our portfolio companies today.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]9:00am[/ezcol_1fifth][ezcol_4fifth_end]Get into the office and begin preparing for the on-site visit. I print and review all the data related to the company (financials, investment performance, org charts, strategic plan) and make a list of questions. It is very important for me to be active in discussions with our portfolio companies and prove that I can add value. I should have been better prepared but didn’t want to spend too much time in the office during the weekend.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]11:00am[/ezcol_1fifth][ezcol_4fifth_end]Pack up and leave for the airport. Get lunch at the terminal (bbq chicken salad). Meet my manager at the gate and chat about weekend before boarding the flight to Virginia.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]2:30pm[/ezcol_1fifth][ezcol_4fifth_end]Arrive at the portfolio company’s offices – it’s in a very suburban office park. The head of my group also arrives and we catch up.[/ezcol_4fifth_end]
+| -------------:|:------------- |
+| 7:30am | Wake and make breakfast (bacon and eggs). Scramble to get dressed and pack a carry-on – I am traveling to attend a board meeting at one of our portfolio companies today. |
+| 9:00am | Get into the office and begin preparing for the on-site visit. I print and review all the data related to the company (financials, investment performance, org charts, strategic plan) and make a list of questions. It is very important for me to be active in discussions with our portfolio companies and prove that I can add value. I should have been better prepared but didn’t want to spend too much time in the office during the weekend. |
+| 11:00am | Pack up and leave for the airport. Get lunch at the terminal (bbq chicken salad). Meet my manager at the gate and chat about weekend before boarding the flight to Virginia. |
+| 2:30pm | Arrive at the portfolio company’s offices – it’s in a very suburban office park. The head of my group also arrives and we catch up. |
 
 [ezcol_1fifth]3:00pm[/ezcol_1fifth][ezcol_4fifth_end]The board meeting begins – this company has a larger board so there are 10 people around the table. Thankfully, this is one of the board meetings where I don’t have to take minutes so I can actually think and digest what people are saying. The company’s management team updates us on the quarter. They grew tremendously in 2014 so the conversation revolved around supporting the new scale of the business – things like new hires, compensation for top performers and office space needs. I get in two or three questions and am pleased with how the meeting goes. My manager is fairly vocal during the meeting (she needs to show that she can lead these), and I think she does a very good job. After the meeting concludes, we take a short break before the board dinner.[/ezcol_4fifth_end]
 
@@ -229,9 +227,3 @@ Okay so here goes a random day in the life of a corporate paralegal…
 [ezcol_1fifth]5:00 – 10:00pm[/ezcol_1fifth][ezcol_4fifth_end]Me time; when I was preparing for the LSAT/working on law school apps, this was mostly LSAT/law school app time; do some sort of workout; catch up with friends; watch some drama/shows; read; etc.[/ezcol_4fifth_end]
 
 [ezcol_1fifth]10:00 – 11:00pm[/ezcol_1fifth][ezcol_4fifth_end]Usually in bed by now; reading random things and doing other mindless activities; and then falling asleep[/ezcol_4fifth_end]
-
-| -------------:|:------------- |
-| 9:00am | Table test line |
-| 12:00pm – 2:00pm | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa zzz |
-| 2:00pm – 10:00pm | Another table test line |
-| 11:30pm | Last line of the table |
