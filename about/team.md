@@ -1,10 +1,8 @@
 ---
-id: 26
 date: 2016-07-02T18:09:46+00:00
 author: tapboston
 layout: default
-exclude: true
-guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=26
+permalink: /about/team/
 hefo_before:
   - "0"
 hefo_after:

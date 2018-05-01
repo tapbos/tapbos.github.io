@@ -27,5 +27,5 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
 <h4>Donate to us</h4>
-"Donate" img paypal link
+<a href="paypal.me/tapbos">"Donate" img paypal link</a>
 </center>
