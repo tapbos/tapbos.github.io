@@ -19,7 +19,12 @@ permalink: /resources/a-day-in-the-life-business-law/
 I am an Associate at a holding company for seven asset management firms. These firms, our portfolio companies, manage hundreds of billions of dollars for pension plans, universities, sovereign wealth funds and other institutional investors. Each of our firms has specialties, such as small cap equities, real estate private equity, or even timber. They make money by charging fees to their clients (based on account size and performance). After operating expenses are paid (namely compensation related), the proceeds flow to us at the holding company. Our mission is to help our portfolio companies grow and to acquire new companies.
 
 My job focuses on portfolio management, or the oversight of our existing companies. I am still new here (6 months in) and working on establishing myself both internally – with my colleagues – and externally – with the management teams of our portfolio companies. This job revolves around meetings and the prep involved beforehand. I have chosen to share three days during the week of December 15<sup>th</sup>, 2014. Monday is a busy day of meetings, Wednesday is a busy day of meeting prep and Friday is a relaxed day.
-<h3><strong>Monday</strong><strong> </strong></h3>
+<h3><strong>Monday</strong></h3>
+
+| -------------:|:------------- |
+| 7:30am | test table |
+| 9:00am | other test line |
+
 | -------------:|:------------- |
 | 7:30am | Wake and make breakfast (bacon and eggs). Scramble to get dressed and pack a carry-on – I am traveling to attend a board meeting at one of our portfolio companies today. |
 | 9:00am | Get into the office and begin preparing for the on-site visit. I print and review all the data related to the company (financials, investment performance, org charts, strategic plan) and make a list of questions. It is very important for me to be active in discussions with our portfolio companies and prove that I can add value. I should have been better prepared but didn’t want to spend too much time in the office during the weekend. |
