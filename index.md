@@ -22,10 +22,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
-  "Join us!" img mailmunch link
+  <a href="#mailmunch-pop-121032">"Join us!"</a> img
 </center>
 
 <center>
 <h4>Donate to us</h4>
-<a href="https://www.paypal.me/tapbos">"Donate" img paypal link</a>
+<a href="https://www.paypal.me/tapbos">"Donate"</a> img
 </center>
