@@ -135,15 +135,11 @@ permalink: /sponsors/
 			</div>
 
 			<br/>
-			<div class="ezcol-one-half">
+			<div>
 			  <p>
   			  Thomas M. Tseng, D.O., M.P.H. and Donna Chan
 			  </p>
-			</div>
-
-			<br/>
-			<div class="ezcol-one-half">
 			  <p>
 			  Terry M. Lee, M.D.
-			  </p>  
-                        </div>
+			  </p>
+			</div>
