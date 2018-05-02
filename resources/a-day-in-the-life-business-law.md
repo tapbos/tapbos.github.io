@@ -19,47 +19,34 @@ permalink: /resources/a-day-in-the-life-business-law/
 I am an Associate at a holding company for seven asset management firms. These firms, our portfolio companies, manage hundreds of billions of dollars for pension plans, universities, sovereign wealth funds and other institutional investors. Each of our firms has specialties, such as small cap equities, real estate private equity, or even timber. They make money by charging fees to their clients (based on account size and performance). After operating expenses are paid (namely compensation related), the proceeds flow to us at the holding company. Our mission is to help our portfolio companies grow and to acquire new companies.
 
 My job focuses on portfolio management, or the oversight of our existing companies. I am still new here (6 months in) and working on establishing myself both internally – with my colleagues – and externally – with the management teams of our portfolio companies. This job revolves around meetings and the prep involved beforehand. I have chosen to share three days during the week of December 15<sup>th</sup>, 2014. Monday is a busy day of meetings, Wednesday is a busy day of meeting prep and Friday is a relaxed day.
-<h3><strong>Monday</strong></h3>
 
-| -------------:|:------------- |
-| 7:30am | test table |
-| 9:00am | other test line |
+<h3><strong>Monday</strong></h3>
 
 | -------------:|:------------- |
 | 7:30am | Wake and make breakfast (bacon and eggs). Scramble to get dressed and pack a carry-on – I am traveling to attend a board meeting at one of our portfolio companies today. |
 | 9:00am | Get into the office and begin preparing for the on-site visit. I print and review all the data related to the company (financials, investment performance, org charts, strategic plan) and make a list of questions. It is very important for me to be active in discussions with our portfolio companies and prove that I can add value. I should have been better prepared but didn’t want to spend too much time in the office during the weekend. |
 | 11:00am | Pack up and leave for the airport. Get lunch at the terminal (bbq chicken salad). Meet my manager at the gate and chat about weekend before boarding the flight to Virginia. |
 | 2:30pm | Arrive at the portfolio company’s offices – it’s in a very suburban office park. The head of my group also arrives and we catch up. |
+| 3:00pm | The board meeting begins – this company has a larger board so there are 10 people around the table. Thankfully, this is one of the board meetings where I don’t have to take minutes so I can actually think and digest what people are saying. The company’s management team updates us on the quarter. They grew tremendously in 2014 so the conversation revolved around supporting the new scale of the business – things like new hires, compensation for top performers and office space needs. I get in two or three questions and am pleased with how the meeting goes. My manager is fairly vocal during the meeting (she needs to show that she can lead these), and I think she does a very good job. After the meeting concludes, we take a short break before the board dinner. |
+| 5:00pm | Check in at the hotel and drop off my bags. Relax for 15 minutes before heading to dinner. |
+| 6:00pm | Arrive at the club (the old man version...no dancing here) for dinner. I admit I am still a bit uneasy at these – there is usually a multi-generation gap between myself and the youngest board member, and it is tough to get beyond the usual small talk. You also become the butt of many “young person” jokes. But I make it through without getting put on the spot too many times and generally have a good time. |
+| 8:30pm | Get back to hotel. Everyone is tired and we head back to our rooms. My manager and I have some additional meetings lined up in the morning, while our group head is on the first flight out. I hang out in my room for a bit before passing out around midnight. |
 
-[ezcol_1fifth]3:00pm[/ezcol_1fifth][ezcol_4fifth_end]The board meeting begins – this company has a larger board so there are 10 people around the table. Thankfully, this is one of the board meetings where I don’t have to take minutes so I can actually think and digest what people are saying. The company’s management team updates us on the quarter. They grew tremendously in 2014 so the conversation revolved around supporting the new scale of the business – things like new hires, compensation for top performers and office space needs. I get in two or three questions and am pleased with how the meeting goes. My manager is fairly vocal during the meeting (she needs to show that she can lead these), and I think she does a very good job. After the meeting concludes, we take a short break before the board dinner.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]5:00pm[/ezcol_1fifth][ezcol_4fifth_end]Check in at the hotel and drop off my bags. Relax for 15 minutes before heading to dinner.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]6:00pm[/ezcol_1fifth][ezcol_4fifth_end]Arrive at the club (the old man version...no dancing here) for dinner. I admit I am still a bit uneasy at these – there is usually a multi-generation gap between myself and the youngest board member, and it is tough to get beyond the usual small talk. You also become the butt of many “young person” jokes. But I make it through without getting put on the spot too many times and generally have a good time.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]8:30pm[/ezcol_1fifth][ezcol_4fifth_end]Get back to hotel. Everyone is tired and we head back to our rooms. My manager and I have some additional meetings lined up in the morning, while our group head is on the first flight out. I hang out in my room for a bit before passing out around midnight.[/ezcol_4fifth_end]
 <h3><strong>Wednesday</strong></h3>
-[ezcol_1fifth]7:30am[/ezcol_1fifth][ezcol_4fifth_end]Wake up with a smile after attending a fantastic TAP event at Shojo the night before (TAP events are that awesome). Cook breakfast (salmon filet) and get dressed.[/ezcol_4fifth_end]
 
-[ezcol_1fifth]8:30am[/ezcol_1fifth][ezcol_4fifth_end]Get into the office. This morning will be busy – we are helping one of our portfolio companies launch a new investment product, and my manager and I are preparing a memo and financial model to get our executive team up to speed. I had drafted both over the weekend and need to incorporate her changes to it. The way we work together on big deliverables is an iterative process – I send her a draft, she makes changes, I send her an updated version, she makes new changes and so on – until we have a finished product. I spend the morning updating the memo, which details the investment highlights, risks, competitive landscape, economics and execution plan for the new product.[/ezcol_4fifth_end]
+| -------------:|:------------- |
+| 7:30am | Wake up with a smile after attending a fantastic TAP event at Shojo the night before (TAP events are that awesome). Cook breakfast (salmon filet) and get dressed. |
+| 8:30am | Get into the office. This morning will be busy – we are helping one of our portfolio companies launch a new investment product, and my manager and I are preparing a memo and financial model to get our executive team up to speed. I had drafted both over the weekend and need to incorporate her changes to it. The way we work together on big deliverables is an iterative process – I send her a draft, she makes changes, I send her an updated version, she makes new changes and so on – until we have a finished product. I spend the morning updating the memo, which details the investment highlights, risks, competitive landscape, economics and execution plan for the new product. |
+| 12:00pm | Grab lunch with a former coworker. |
+| 1:00pm | I finish making my manager’s changes to the memo and shoot it to the portfolio company CEO for his comments. I relax for a bit, catching up on the news and chatting with coworkers. |
+| 3:00pm | Attend a meeting with our CEO to discuss a strategic initiative at another portfolio company. This will be one of the largest initiatives in 2015, and although I am excited to be a part of it, my role here is more of a support person – mostly doing research and some project management. I don’t have much to say during the meeting. |
+| 5:00pm | Get on the phone with the portfolio company CEO to discuss his changes to the memo. I send the updated version to my manager who is going to review it tonight. |
+| 6:30pm | Head home for the day. |
+| 7:00pm | Go to the gym. |
+| 8:00pm | Cook dinner (ribeye steak and cauliflower). |
+| 9:00pm | Shower and hang out at home. I am tired but can’t go to sleep until my manager sends out the memo to our executive team. I watch “Marco Polo” on Netflix, which is terrible. |
+| 11:00pm | Email finally goes out and I pass out. |
 
-[ezcol_1fifth]12:00pm[/ezcol_1fifth][ezcol_4fifth_end]Grab lunch with a former coworker.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]1:00pm[/ezcol_1fifth][ezcol_4fifth_end]I finish making my manager’s changes to the memo and shoot it to the portfolio company CEO for his comments. I relax for a bit, catching up on the news and chatting with coworkers.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]3:00pm[/ezcol_1fifth][ezcol_4fifth_end]Attend a meeting with our CEO to discuss a strategic initiative at another portfolio company. This will be one of the largest initiatives in 2015, and although I am excited to be a part of it, my role here is more of a support person – mostly doing research and some project management. I don’t have much to say during the meeting.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]5:00pm[/ezcol_1fifth][ezcol_4fifth_end]Get on the phone with the portfolio company CEO to discuss his changes to the memo. I send the updated version to my manager who is going to review it tonight.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]6:30pm[/ezcol_1fifth][ezcol_4fifth_end]Head home for the day.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]7:00pm[/ezcol_1fifth][ezcol_4fifth_end]Go to the gym.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]8:00pm[/ezcol_1fifth][ezcol_4fifth_end]Cook dinner (ribeye steak and cauliflower).[/ezcol_4fifth_end]
-
-[ezcol_1fifth]9:00pm[/ezcol_1fifth][ezcol_4fifth_end]Shower and hang out at home. I am tired but can’t go to sleep until my manager sends out the memo to our executive team. I watch “Marco Polo” on Netflix, which is terrible.[/ezcol_4fifth_end]
-
-[ezcol_1fifth]11:00pm[/ezcol_1fifth][ezcol_4fifth_end]Email finally goes out and I pass out.[/ezcol_4fifth_end]
 <h3><strong>Friday</strong></h3>
 [ezcol_1fifth]7:45am[/ezcol_1fifth][ezcol_4fifth_end]Wake up. Get dressed and out the door.[/ezcol_4fifth_end]
 
@@ -76,12 +63,13 @@ My job focuses on portfolio management, or the oversight of our existing compani
 [ezcol_1fifth]3:50pm[/ezcol_1fifth][ezcol_4fifth_end]My group head leaves.[/ezcol_4fifth_end]
 
 [ezcol_1fifth]3:52pm[/ezcol_1fifth][ezcol_4fifth_end]I leave.[/ezcol_4fifth_end]
-<h3><strong>What I like about my job:</strong></h3>
-Room for growth – I find my job challenging and know I have a long way to develop before I can become a leader here (but see a path to it). I feel like I am learning and getting better. Lots of
 
-personal interaction – I like dealing with people and figuring out what makes people tick. Work/life balance – I generally know what days/weeks will be super busy (or not) and can plan accordingly.
+<h3><strong>What I like about my job:</strong></h3>
+Room for growth – I find my job challenging and know I have a long way to develop before I can become a leader here (but see a path to it). I feel like I am learning and getting better. Lots of personal interaction – I like dealing with people and figuring out what makes people tick. Work/life balance – I generally know what days/weeks will be super busy (or not) and can plan accordingly.
+
 <h3><strong>What I don’t like about my job:</strong></h3>
 My role is fairly reactive, and there is less room, at least at my level, for creative thought and idea generation. It is a smaller firm and there are only a few people my age to hang out with.
+
 <h3><strong>What this synopsis misses:</strong></h3>
 Every month I have some tedious reporting work – analyzing the monthly financials and performance of our portfolio companies and summarizing it for the team. Our firm is fairly social and we have a lot of company outings/excuses to drink together.
 
