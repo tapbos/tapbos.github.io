@@ -150,8 +150,10 @@ As a fifth year, I don’t have any more classes and I am finishing up my last e
 | 1:00am |  Go to bed. |
 
 <h3><strong>Next Tuesday</strong></h3>
+
+| -------------:|:------------- |
 | 10:00am |  Wake up. Went to bed a little later last night. Eat cereal. Working from home today because I need to crank out my thesis draft. Get to work! |
-| 1:00pm |  Getting hungry,  go out and grab some food. Watch some YouTube as I eat. |
+| 1:00pm |  Getting hungry, go out and grab some food. Watch some YouTube as I eat. |
 | 2:00pm |  Back to making figures and writing! |
 | 6:30pm |  Go out and get dinner. Watch some YouTube and play silly iPhone game as I eat. |
 | 7:30pm |  Back to making figures and writing! |
@@ -160,9 +162,12 @@ As a fifth year, I don’t have any more classes and I am finishing up my last e
 
 <h3><strong>What I like about my job:</strong></h3>
 I like having full control of my time and schedule, and I really only work on things that I want to work on. It is challenging in many ways, both intellectually and not, and it is a safe environment to continually fail (most parts of most projects don’t work most of the time). I have full ownership over my project. I like making (and breaking) things. I went into the program knowing absolutely nothing about the field I am in now, and that was completely okay. Graduate school is a good place to change fields or directions.
+
 <h3><strong>What I don’t like about my job:</strong></h3>
 Having complete freedom is a double-edged sword. It’s hard for me to solicit feedback from my professors. Academia is painfully slow to me. I like getting things done, and often in academia things drag on and on and on (my advisor spent over a year “reading” my paper draft). Because graduate students need their own project, it can be isolating at times. I used to spend almost all my days at home when I was working heavily on simulations only to realize that I needed to work in the office just to see people.
+
 <h3><strong>What this synopsis misses: </strong></h3>
 There are some days when I do absolutely nothing, and some days when I’m working late into the night. Sometimes grad school involves really silly things since you have to do most things yourself. For example, every once in a while I have to carry this really heavy apparatus across campus to do my experiment. 3D printed materials come out of the printer with a layer of support material that needs to be removed, so I also spend a good amount of time cleaning 3D printed samples with a razor.
+
 <h3><strong>The part of graduate school that no one talks about:</strong></h3>
 I have to say everyone has a VERY different experience in graduate school that is largely influenced by your advisor, so if you are considering graduate school, think about what lifestyle and managing style you prefer and what your advisor is like.
