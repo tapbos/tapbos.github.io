@@ -138,7 +138,8 @@ permalink: /sponsors/
 			<div style="padding: 1em; background-color: #fff; color: #333;">
   			  Thomas M. Tseng, D.O., M.P.H. and Donna Chan
 			</div>
-
+			<br/>
+			
 			<div style="padding: 1em; background-color: #fff; color: #333;">
 			  Terry M. Lee, M.D.
 			</div>
