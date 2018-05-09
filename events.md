@@ -6,4 +6,13 @@ layout: default
 permalink: /events/
 ---
 
-<h1>try eventbrite api</h1>
+<h1>eventbrite api</h1>
+
+<h2>Posts</h2>
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
