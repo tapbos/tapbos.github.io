@@ -9,6 +9,13 @@ layout: default
 
 <center>
   <h2>Taiwanese American Professionals - Boston</h2>
+  <br/>
+  <br/>
+</center>
+
+***
+
+<center>
   <h1>OUR MISSION</h1>
 </center>
 
@@ -29,8 +36,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   </a>
 </center>
 
+***
+
 <center>
-  <h4>Donate to us</h4>
+  <h3>Donate to us</h3>
     <a href="https://www.paypal.me/tapbos">
       <img src="/assets/images/donate-button.png">
     </a>
