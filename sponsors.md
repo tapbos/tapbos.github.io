@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 date: 2016-07-02T17:54:22+00:00
-layout: default
+layout: default-title
 permalink: /sponsors/
 ---
 <div class="ezcol ezcol-one-half">
