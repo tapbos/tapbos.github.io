@@ -8,6 +8,9 @@ hefo_before:
 hefo_after:
   - "0"
 ---
+
+## {{ page.title }}
+
 <div style="width:850px; margin:0 auto; color:white;">
   <p>
     Dear TAP Boston,

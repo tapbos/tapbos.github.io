@@ -1,9 +1,12 @@
 ---
 title: Sponsors
 date: 2016-07-02T17:54:22+00:00
-layout: default-title
+layout: default
 permalink: /sponsors/
 ---
+
+## {{ page.title }}
+
 <div class="ezcol ezcol-one-half">
   <a href="https://www.redfin.com/city/1826/MA/Boston">
   

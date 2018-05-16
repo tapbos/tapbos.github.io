@@ -8,6 +8,9 @@ hefo_before:
 hefo_after:
   - "0"
 ---
+
+## {{ page.title }}
+
 <div class="ezcol ezcol-one-third">
   <p>
     <img class="aligncenter wp-image-33" src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioChyiShin.png" width="200" height="200" />

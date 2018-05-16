@@ -1,7 +1,5 @@
 ---
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: default-index
 ---
 <p align="center">
    <img src="assets/images/tap-logo.png" align="middle">

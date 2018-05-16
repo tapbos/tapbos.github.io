@@ -3,7 +3,7 @@ id: 8
 title: About
 date: 2016-06-28T05:38:58+00:00
 author: tapboston
-layout: default-title
+layout: default
 permalink: /about/
 guid: http://ec2-52-40-245-133.us-west-2.compute.amazonaws.com/?page_id=8
 hefo_before:
@@ -11,6 +11,8 @@ hefo_before:
 hefo_after:
   - "0"
 ---
+
+## {{ page.title }}
 		  
 Founded in 2012, Taiwanese American Professionals (TAP) -Boston is a chapter of the largest network of young Taiwanese American professionals in the United States. TAP chapters serve as the official chapters of the [Taiwanese American Citizens League](http://www.tacl.org/) (TACL), representing the voice and leadership of TACL in each region of the country.
 
