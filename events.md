@@ -8,14 +8,7 @@ permalink: /events/
 
 <h1>eventbrite api</h1>
 
-<h2>Posts</h2>
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<a href="/pages/old-posts">Old Posts</a>
 
 <h2>Meetup Events</h2>
 <blockquote class="embedly-card">
@@ -37,5 +30,3 @@ permalink: /events/
   </p>
 </blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-<a href="/pages/old_posts">Old Posts</a>
