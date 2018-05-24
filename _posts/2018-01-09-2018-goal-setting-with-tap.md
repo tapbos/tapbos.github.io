@@ -4,4 +4,15 @@ date: 2018-01-09 02:51:05 +0000
 layout: post
 ---
 
-<img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39370790%2F59649190843%2F1%2Foriginal.jpg?w=800&rect=1%2C0%2C892%2C446&s=1d79551100c1b309b87cb0fde54018be"><div style="font-size: 18px; color: black; padding:5px 25px;"><p>2018 has arrived! Have you created your New Year resolutions yet? Instead of writing down or mentally noting some general resolutions that often get pushed to the wayside as the year progresses, spend some time learning about goal setting and then create a real plan with achievable goals that will bring real change to your life!Join us for the 2018 Goal Setting Workshop! The workshop will be broken into two parts:1) Learning about goal-setting2) Goal planning the first half of 2018We will be providing frameworks on how to think about goal setting in a meaningful way. At the end of this workshop, you'll have an actionable plan to achieve your goals through incremental and measurable steps. 2018 will be a big year so start it off right!</p></div><div style="width: 100%; text-align: left;"><p><iframe src="//eventbrite.com/tickets-external?eid=41984382418&amp;ref=etckt" width="100%" height="275" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe></p><div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" href="http://www.eventbrite.com/" target="_blank" rel="noopener">Powered by Eventbrite</a></div>
+<img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39370790%2F59649190843%2F1%2Foriginal.jpg?w=800&rect=1%2C0%2C892%2C446&s=1d79551100c1b309b87cb0fde54018be">
+<div style="font-size: 18px; color: black; padding:5px 25px;">
+<p>2018 has arrived! Have you created your New Year resolutions yet? Instead of writing down or mentally noting some general resolutions that often get pushed to the wayside as the year progresses, spend some time learning about goal setting and then create a real plan with achievable goals that will bring real change to your life!Join us for the 2018 Goal Setting Workshop! The workshop will be broken into two parts:1) Learning about goal-setting2) Goal planning the first half of 2018We will be providing frameworks on how to think about goal setting in a meaningful way. At the end of this workshop, you'll have an actionable plan to achieve your goals through incremental and measurable steps. 2018 will be a big year so start it off right!</p>
+</div>
+<div style="width: 100%; text-align: left;">
+<p>
+<iframe src="//eventbrite.com/tickets-external?eid=41984382418&amp;ref=etckt" width="100%" height="275" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto">
+</iframe>
+</p>
+<div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;">
+<a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" href="http://www.eventbrite.com/" target="_blank" rel="noopener">Powered by Eventbrite</a>
+</div>

@@ -4,4 +4,15 @@ date: 2017-04-05 02:59:56 +0000
 layout: post
 ---
 
-<p>With spring right around the corner, it's time to come out of hibernation and re-connect with your fellow TAP community/board members! There is no better way to do that than over good eats and great conversation. We'll be eating family style Cantonese cuisine at a long-time stalwart restaurant in Chinatown, Jade Garden!</p><p>This is a great opportunity to meet other TAP members, make new connections, and if interested, learn about the TAP board, in particular, the roles of TAP PD and CD chair. We'll be divulging all the secrets so we hope you can join us!</p><p>The $5 will go towards the bill and the dinner bill will be split evenly per person excluding special circumstances (e.g., dietary restrictions).</p><p>Please note: Due to limited space at the venue, in order to attend, you must purchase a ticket prior. Those without tickets will be turned away at the door.</p><div style="width: 100%; text-align: left;"><p><iframe src="//eventbrite.com/tickets-external?eid=33367960468&amp;ref=etckt" width="100%" height="275" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe></p><div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;"><a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" href="http://www.eventbrite.com/" target="_blank">Powered by Eventbrite</a></div>
+<p>With spring right around the corner, it's time to come out of hibernation and re-connect with your fellow TAP community/board members! There is no better way to do that than over good eats and great conversation. We'll be eating family style Cantonese cuisine at a long-time stalwart restaurant in Chinatown, Jade Garden!</p>
+<p>This is a great opportunity to meet other TAP members, make new connections, and if interested, learn about the TAP board, in particular, the roles of TAP PD and CD chair. We'll be divulging all the secrets so we hope you can join us!</p>
+<p>The $5 will go towards the bill and the dinner bill will be split evenly per person excluding special circumstances (e.g., dietary restrictions).</p>
+<p>Please note: Due to limited space at the venue, in order to attend, you must purchase a ticket prior. Those without tickets will be turned away at the door.</p>
+<div style="width: 100%; text-align: left;">
+<p>
+<iframe src="//eventbrite.com/tickets-external?eid=33367960468&amp;ref=etckt" width="100%" height="275" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto">
+</iframe>
+</p>
+<div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 100%; text-align: left;">
+<a class="powered-by-eb" style="color: #adb0b6; text-decoration: none;" href="http://www.eventbrite.com/" target="_blank">Powered by Eventbrite</a>
+</div>
