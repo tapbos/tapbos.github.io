@@ -6,11 +6,13 @@ layout: default
 permalink: /events/
 ---
 
-<h1>eventbrite api</h1>
+## {{ page.title }}
 
-<a href="/pages/old-posts">Old Posts</a>
+eventbrite api
 
-<h2>Meetup Events</h2>
+<a href="/pages/old-posts">Old events</a>
+
+<h1>Meetup Events</h1>
 <blockquote class="embedly-card">
   <h4>
     <a href="https://www.meetup.com/Taiwanese-American-Professionals-Boston/events/249929016/">TAP Boston 6th Annual Spring Gala</a>

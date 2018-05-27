@@ -11,7 +11,4 @@ published: true
 
 ## {{ page.title }}
 
-Array of photos placeholder.
-
-## This line was added from prose.
-## This line was added from local.
+facebook graph api
