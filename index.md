@@ -42,13 +42,3 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
       <img src="/assets/images/donate-button.png">
     </a>
 </center>
-
-***
-
-<h4>Contact</h4>
-
-|                |                |                |                |
-| -------------: | :------------- | -------------: | :------------- |
-| <img src="assets/images/mail-icon-50x50.png"> | <a href="mailto:info@tap-boston.org">info@tap-boston.org</a> |   |   |
-| <img src="assets/images/phone-icon-50x50.png"> | +1 (000) 000-0000 |   |   |
-| <img src="assets/images/address-icon-50x50.png"> | 00 tap street<br/>Boston, MA 02111 |   |   |
