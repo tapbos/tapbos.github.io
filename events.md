@@ -10,7 +10,9 @@ permalink: /events/
 
 eventbrite api
 
-<a href="/pages/old-posts">Old events</a>
+<a href="/events/upcoming-events">Upcoming Events</a><br/>
+<a href="/events/monthly-events">Monthly Events</a><br/>
+<a href="/events/featured-past-events">Featured Past Events</a><br/>
 
 <h1>Meetup Events</h1>
 <blockquote class="embedly-card">

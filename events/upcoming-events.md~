@@ -1,0 +1,7 @@
+---
+title:
+layout: default
+permalink: /events/
+---
+
+## {{ page.title }}

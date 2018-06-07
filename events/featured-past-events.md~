@@ -1,0 +1,9 @@
+---
+title: Featured Past Events
+layout:	default
+permalink: /events/featured-past-events
+---
+
+## {{ page.title }}
+
+featured-past-events-list
