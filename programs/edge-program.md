@@ -1,7 +1,7 @@
 ---
 title: EDGE Program
 layout: default
-permalink: /about/edge-program/
+permalink: /programs/edge-program
 ---
 ## What is EDGE?
 
