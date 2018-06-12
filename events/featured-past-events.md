@@ -5,7 +5,7 @@ permalink: /events/featured-past-events
 ---
 
 {%- if site.posts.size > 0 -%}
-<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+<h2 class="post-list-heading">{{ page.list_title | default: page.title }}</h2>
 <ul class="post-list">
   {%- for post in site.posts -%}
     <li>
@@ -22,6 +22,5 @@ permalink: /events/featured-past-events
 								  </li>
 								    {%- endfor -%}
 								    </ul>
-								    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 								    {%- endif -%}
 								    

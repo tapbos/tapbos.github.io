@@ -70,26 +70,6 @@ TAP EDGE provides a forum for college students to engage with successful young p
 <div class="ezcol-divider">
 </div>
 
-<div class="ezcol ezcol-one-third">
-  <h2>
-      <strong>Events</strong>
-        </h2>
-
-  <p>
-      To be announced!
-        </p>
-	</div>
-
-<div class="ezcol ezcol-one-third">
-  <h2>
-      <strong>Deadlines</strong>
-        </h2>
-
-  <p>
-      Mentors &#038; Mentees: Application Due September 30, 2017 Midnight
-        </p>
-	</div>
-
 <div class="ezcol ezcol-one-third ezcol-last">
   <h2>
       <strong>Sign Up</strong>
