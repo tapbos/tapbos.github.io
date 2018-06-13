@@ -759,7 +759,8 @@
 	}
 
 	table {
-		margin: 0 0 2em 0;
+	        /*margin: 0 0 2em 0;*/
+	        margin: auto;
 		width: 50%;
 	}
 
@@ -768,10 +769,11 @@
 			border-left: 0;
 			border-right: 0;
 		}
-
+		/*
 			table tbody tr:nth-child(2n + 1) {
 				background-color: #f8f8f8;
 			}
+                */
 
 		table td {
 			padding: 0.75em 0.75em;
@@ -1188,8 +1190,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #e89980;
-				color: #ffffff;
+				background: #c3dfd9;
 			}
 
 		.dropotron.level-0 {
@@ -1221,15 +1222,17 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,							fixed;
-		background-color: #666;
 		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-attachment: fixed;
+		/*
+		background-color: #ff69b4;
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
+                */
 	}
 
 		#banner :last-child {
@@ -1287,7 +1290,7 @@
 /* Main */
 
 	#main {
-		padding: 4em 0;
+		padding: 4em 0; /*original 4em 0*/
 	}
 
 		#main > header {
@@ -1309,7 +1312,7 @@
 				padding: 1em 0 1.25em 0;
 			}
 	body #main {
-		margin-top: -26em;
+		margin-top: -26em; /*logo height*/
 	}
 
 	body.landing #main {
