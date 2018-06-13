@@ -3,7 +3,6 @@
 
 
 /* 
-    ok
 	Alpha by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -1222,17 +1221,13 @@
 /* Banner */
 
 	#banner {
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("../images/banner.jpg");
 		background-attachment: fixed;
-		/*
-		background-color: #ff69b4;
-		background-position: top left,						center center;
-		background-repeat: repeat,							no-repeat;
-		background-size: auto,							cover;
+		background-color: transparent;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: auto;
 		color: #fff;
-		padding: 12em 0 20em 0;
-		text-align: center;
-                */
 	}
 
 		#banner :last-child {
