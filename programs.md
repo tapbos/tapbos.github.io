@@ -1,6 +1,6 @@
 ---
 title: Programs
-layout: default
+layout: default-no-bg
 permalink: /programs/
 ---
 

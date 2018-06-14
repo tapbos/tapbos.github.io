@@ -1,6 +1,6 @@
 ---
 title: Support Us
-layout: default
+layout: default-no-bg
 permalink: /support-us/
 ---
 

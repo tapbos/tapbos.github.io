@@ -1,5 +1,5 @@
 ---
-layout: default-index
+layout: default
 ---
 <p align="center">
    <img src="assets/images/tap-logo.png" align="middle">
