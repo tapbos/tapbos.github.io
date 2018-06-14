@@ -6,19 +6,20 @@ layout: default-index
 </p>
 
 <center>
-  <h2>Taiwanese American Professionals - Boston</h2>
+  <h2 style="color:white;">TAIWANESE AMERICAN PROFESSIONALS - BOSTON</h2>
   <br/>
   <br/>
 </center>
 
-***
 
 <center>
-  <h1>OUR MISSION</h1>
+  <h3>Our Mission</h3>
 </center>
 
 <p align="center">
-TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage to develop as leaders and to serve Greater Boston. We provide a supportive environment where members can reflect, grow, and build meaningful relationships.
+TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage<br/>
+to develop as leaders and to serve Greater Boston. We provide a supportive environment where<br/>
+members can reflect, grow, and build meaningful relationships.
 </p>
 
 <p align="center">
@@ -29,8 +30,8 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
-  <a href="#mailmunch-pop-121032">
-    <img src="/assets/images/join-us-button.png">
+  <a href="#mailmunch-pop-121032" class="subscribeButton">
+     <img src="/assets/images/join-us-button.png">
   </a>
 </center>
 

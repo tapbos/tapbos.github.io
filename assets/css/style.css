@@ -821,7 +821,6 @@
 			}
 
 /* Button */
-
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -1221,21 +1220,12 @@
 /* Banner */
 
 	#banner {
-	        /*
-		background-image: url("../images/banner.jpg");
-		background-attachment: fixed;
-		background-color: transparent;
-		background-position: center;
-		background-repeat: no-repeat;
-		background-size: auto;
-		color: #fff;
-	        */
 		background-attachment: scroll,                                                  fixed;
 		background-color: #666;
 		background-image: url("../images/banner.jpg");
 		background-position: top left,                                          center center;
 		background-repeat: repeat,                                                      no-repeat;
-		background-size: auto,                                                  cover;
+		background-size: cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
