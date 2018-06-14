@@ -10,7 +10,8 @@ layout: default-index
   <br/>
   <br/>
 </center>
-
+<br/>
+<br/>
 
 <center>
   <h3>Our Mission</h3>
@@ -38,7 +39,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 ***
 
 <center>
-  <h3>Donate to us</h3>
+  <h3>Support Us</h3>
     <a href="https://www.paypal.me/tapbos">
       <img src="/assets/images/donate-button.png">
     </a>
