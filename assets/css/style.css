@@ -1220,8 +1220,7 @@
 /* Banner */
 
 	#banner {
-	        background-attachment: fixed;
-	        position: static;
+	        background-attachment: scroll;
 		background-color: #666;
 		background-image: url("../images/banner.jpg");
 		background-position: top left,                                          center center;
