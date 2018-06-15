@@ -30,6 +30,18 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 ***
 
 <center>
+  <h3>Meet the Team</h3>
+</center>
+
+<img src="http://tacl.org/wp-content/uploads/2016/07/BioChyiShin.png"/>
+<img src="http://tacl.org/wp-content/uploads/2016/07/BioKarl.png"/>
+<img src="http://tacl.org/wp-content/uploads/2016/07/BioLloyd-1.png"/>
+<img src="http://tacl.org/wp-content/uploads/2016/07/BioLiMing.png"/>
+<img src="http://tacl.org/wp-content/uploads/2016/07/BioAnthony.png"/>
+
+***
+
+<center>
   <h3>Subscribe to our monthly newsletter</h3>
   <a href="#mailmunch-pop-121032" class="subscribeButton">
      <img src="/assets/images/join-us-button.png">
@@ -43,10 +55,4 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     <a href="https://www.paypal.me/tapbos">
       <img src="/assets/images/donate-button.png">
     </a>
-</center>
-
-***
-
-<center>
-  <h3>Meet the Team</h3>
 </center>
