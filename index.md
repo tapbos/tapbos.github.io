@@ -33,11 +33,11 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Meet the Team</h3>
 </center>
 
-<img src="http://tacl.org/wp-content/uploads/2016/07/BioChyiShin.png"/>
-<img src="http://tacl.org/wp-content/uploads/2016/07/BioKarl.png"/>
-<img src="http://tacl.org/wp-content/uploads/2016/07/BioLloyd-1.png"/>
-<img src="http://tacl.org/wp-content/uploads/2016/07/BioLiMing.png"/>
-<img src="http://tacl.org/wp-content/uploads/2016/07/BioAnthony.png"/>
+<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioChyiShin.png"/>
+<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioKarl.png"/>
+<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioLloyd-1.png"/>
+<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioLiMing.png"/>
+<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioAnthony.png"/>
 
 ***
 
