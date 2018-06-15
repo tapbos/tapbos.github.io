@@ -44,3 +44,9 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
       <img src="/assets/images/donate-button.png">
     </a>
 </center>
+
+***
+
+<center>
+  <h3>Meet the Team</h3>
+</center>
