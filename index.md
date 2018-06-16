@@ -33,11 +33,11 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Meet the Team</h3>
 </center>
 
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioChyiShin.png"/>
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioKarl.png"/>
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioLloyd-1.png"/>
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioLiMing.png"/>
-<img src="{{ site.baseurl }}/wp-content/uploads/2016/07/BioAnthony.png"/>
+<img src="{{ site.baseurl }}/assets/images/team/team-chyi-shin.png"/>
+<img src="{{ site.baseurl }}/assets/images/team/team-karl.png"/>
+<img src="{{ site.baseurl }}/assets/images/team/team-lloyd.png"/>
+<img src="{{ site.baseurl }}/assets/images/team/team-li-ming.png"/>
+<img src="{{ site.baseurl }}/assets/images/team/team-anthony.png"/>
 
 ***
 
