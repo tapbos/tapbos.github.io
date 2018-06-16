@@ -53,6 +53,6 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 <center>
   <h3>Support Us</h3>
     <a href="https://www.paypal.me/tapbos">
-      <img src="/assets/images/donate-button.png">
+      <button class="donate-button"></button>
     </a>
 </center>
