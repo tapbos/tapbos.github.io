@@ -6,12 +6,12 @@ layout: default
 </p>
 
 <center>
-  <h2 style="color:white;">TAIWANESE AMERICAN PROFESSIONALS - BOSTON</h2>
+  <h2 style="color:white;">TAIWANESE AMERICAN PROFESSIONALS</h2><br/>
+  <h2 style="color:white;">BOSTON</h2><br/>
+  <br/>
   <br/>
   <br/>
 </center>
-<br/>
-<br/>
 
 <center>
   <h3>Our Mission</h3>
