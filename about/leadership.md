@@ -6,4 +6,6 @@ permalink: /about/leadership
 
 ## {{ page.title }}
 
-leadership contents
+-All board member photos, mini-bios/short quote from each person
+
+-Want to meet the team? Contact _____.
