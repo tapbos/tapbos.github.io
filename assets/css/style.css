@@ -70,6 +70,24 @@
 	    color: white;
 	}
 
+	h2.organization {
+	    font-size: 1.5em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
+	    text-shadow: 1px 1px 15px #888888;
+	}
+	
+	h2.chapter{
+	    font-size: 2em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.2em;
+	    color: white;
+	    text-shadow: 1px 1px 15px #888888;
+	}
+
 	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
@@ -770,11 +788,6 @@
 			border-left: 0;
 			border-right: 0;
 		}
-		/*
-			table tbody tr:nth-child(2n + 1) {
-				background-color: #f8f8f8;
-			}
-                */
 
 		table td {
 			padding: 0.75em 0.75em;
@@ -822,6 +835,21 @@
 				border-top: 0;
 			}
 
+/* donate-button */
+
+			.donate-button {
+			    border: none;
+			    outline: none;
+			    cursor: pointer;
+			    background: url('../images/donate-button-sprite.png') no-repeat top;
+			    width: 250px;
+			    height: 90px;
+			}
+			
+			.donate-button:hover {
+			    background-position: 0 -90px;
+			}
+			
 /* Button */
 	input[type="submit"],
 	input[type="reset"],
@@ -1160,16 +1188,15 @@
 
 	.dropotron {
 		background: #fff;
-		border-radius: 6px;
+		border-radius: 5px;
 		box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.065), inset 0 -1px 0 0 #fff, inset 0 0 0 1px rgba(229, 229, 229, 0.5);
 		list-style: none;
 		margin: calc(-0.5em + 1px) 0 0 1px;
-		padding: 0.5em 0;
-		width: 11em;
+		padding: 0.55em 0;
 	}
 
 		.dropotron li {
-			padding: 0;
+		    padding: 0;
 		}
 
 			.dropotron li a, .dropotron li span {

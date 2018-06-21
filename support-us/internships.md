@@ -1,6 +1,6 @@
 ---
 title: Internships
-layout: default
+layout: default-no-bg
 permalink: /support-us/internships
 ---
 

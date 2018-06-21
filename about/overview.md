@@ -1,6 +1,6 @@
 ---
 title: Overview
-layout: default
+layout: default-no-bg
 permalink: /about/overview
 ---
 

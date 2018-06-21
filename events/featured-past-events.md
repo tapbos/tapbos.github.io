@@ -1,6 +1,6 @@
 ---
 title: Featured Past Events
-layout:	default
+layout:	default-no-bg
 permalink: /events/featured-past-events
 ---
 

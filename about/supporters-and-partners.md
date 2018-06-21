@@ -1,6 +1,6 @@
 ---
 title: Supporters & Partners
-layout: default
+layout: default-no-bg
 permalink: /about/supporters-and-partners
 ---
 

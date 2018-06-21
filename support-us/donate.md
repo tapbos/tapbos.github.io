@@ -1,6 +1,6 @@
 ---
 title: Donate
-layout: default
+layout: default-no-bg
 permalink: /support-us/donate
 ---
 

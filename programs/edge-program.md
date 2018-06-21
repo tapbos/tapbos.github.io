@@ -1,6 +1,6 @@
 ---
 title: EDGE Program
-layout: default
+layout: default-no-bg
 permalink: /programs/edge-program
 ---
 ## What is EDGE?

@@ -6,11 +6,11 @@ layout: default
 </p>
 
 <center>
-  <h2 style="color:white;">TAIWANESE AMERICAN PROFESSIONALS - BOSTON</h2>
+  <h2 class="organization">TAIWANESE AMERICAN PROFESSIONALS</h2>	
+  <h2 class="chapter">BOSTON</h2>
   <br/>
   <br/>
 </center>
-<br/>
 <br/>
 
 <center>
@@ -53,6 +53,6 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 <center>
   <h3>Support Us</h3>
     <a href="https://www.paypal.me/tapbos">
-      <img src="/assets/images/donate-button.png">
+      <button class="donate-button"></button>
     </a>
 </center>

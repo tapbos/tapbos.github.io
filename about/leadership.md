@@ -1,6 +1,6 @@
 ---
 title: Leadership
-layout: default
+layout: default-no-bg
 permalink: /about/leadership
 ---
 

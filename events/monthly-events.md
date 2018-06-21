@@ -1,6 +1,6 @@
 ---
 title: Monthly Events
-layout:	default
+layout:	default-no-bg
 permalink: /events/monthly-events
 ---
 

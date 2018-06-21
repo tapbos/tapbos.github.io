@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-layout: default
+layout: default-no-bg
 permalink: /events/upcoming-events
 ---
 

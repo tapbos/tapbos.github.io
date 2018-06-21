@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-layout: default
+layout: default-no-bg
 permalink: /support-us/volunteer
 ---
 
