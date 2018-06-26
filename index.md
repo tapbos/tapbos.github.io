@@ -57,8 +57,9 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 ***
 
 <center>
-  <h3>Support Us</h3><br/>
+  <h3>Support Us</h3>
   A few words on how this helps, or other ways you can support tapboston.<br/>
+  <br/>
     <a href="https://www.paypal.me/tapbos">
       <button class="donate-button"></button>
     </a>
