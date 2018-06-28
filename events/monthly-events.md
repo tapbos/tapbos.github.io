@@ -4,6 +4,6 @@ layout:	default-no-bg
 permalink: /events/monthly-events
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 monthly events list

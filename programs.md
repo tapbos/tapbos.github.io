@@ -4,7 +4,7 @@ layout: default-no-bg
 permalink: /programs/
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 list available programs, overview/description of programs
 

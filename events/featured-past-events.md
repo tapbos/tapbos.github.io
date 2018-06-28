@@ -5,7 +5,7 @@ permalink: /events/featured-past-events
 ---
 
 {%- if site.posts.size > 0 -%}
-<h2 class="post-list-heading">{{ page.list_title | default: page.title }}</h2>
+<h3 class="post-list-heading no-bg">{{ page.list_title | default: page.title }}</h3>
 <ul class="post-list">
   {%- for post in site.posts -%}
     <li>

@@ -4,7 +4,7 @@ layout: default-no-bg
 permalink: /support-us/donate
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 donate contents
 

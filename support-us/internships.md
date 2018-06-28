@@ -4,6 +4,6 @@ layout: default-no-bg
 permalink: /support-us/internships
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 internships contents

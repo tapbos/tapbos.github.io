@@ -4,7 +4,8 @@ layout: default-no-bg
 permalink: /about/leadership
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
+
 
 -All board member photos, mini-bio 
 

@@ -4,7 +4,7 @@ layout: default-no-bg
 permalink: /about/supporters-and-partners
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 <div class="ezcol ezcol-one-half">
   <a href="https://www.redfin.com/city/1826/MA/Boston">

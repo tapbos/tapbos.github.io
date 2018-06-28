@@ -6,7 +6,7 @@ layout: default-no-bg
 permalink: /events/
 ---
 
-## {{ page.title }}
+<h3 class="no-bg">{{ page.title }}</h3>
 
 eventbrite api
 
