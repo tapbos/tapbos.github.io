@@ -36,13 +36,12 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 <img src="{{ site.baseurl }}/assets/images/team-chyi-shin.png"/>
 <img src="{{ site.baseurl }}/assets/images/team-karl.png"/>
 <img src="{{ site.baseurl }}/assets/images/team-lloyd.png"/>
-<br/>
 <img src="{{ site.baseurl }}/assets/images/team-li-ming.png"/>
 <img src="{{ site.baseurl }}/assets/images/team-anthony.png"/>
 <br/>
 
 <center>
-  <a>View more or link to Leadership page</a>
+  <a href="{{ site.baseurl }}/about/leadership">All board members</a>
 </center>
 
 ***
