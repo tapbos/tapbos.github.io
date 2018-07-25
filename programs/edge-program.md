@@ -71,19 +71,25 @@ TAP EDGE provides a forum for college students to engage with successful young p
 <div class="ezcol-divider">
 </div>
 
-<div class="ezcol ezcol-one-third ezcol-last">
-  <h2>
-      <strong>Sign Up</strong>
-        </h2>
+<div>
+  <h2><strong>Deadlines</strong></h2>
 
   <p>
-      Mentors: Please fill out the application form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfT1-80QoNycjLNeaZbyVI6D0mzQvOq3UfnmhY7z_reEGq2_Q/viewform">here</a>!<br /> Mentees: Please fill out the application form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrrcUKl7d1N6sAG5U2i0oi5bsiRie5KIbcBcUr-Q3Z3y1SFQ/viewform">here</a>!
-        </p>
-	</div>
+  Mentors & Mentees: Application due September 30, 2018 Midnight
+  </p>
+</div>
+
+<div class="ezcol ezcol-one-third ezcol-last">
+  <h2><strong>Sign Up</strong></h2>
+
+  <p>
+  Mentors: Please fill out the application form <a href="https://tinyurl.com/edgementor1819">here</a>!<br/> Mentees: Please fill out the application form <a href="https://tinyurl.com/edgementee1819">here</a>!
+  </p>
+</div>
 
 <div class="ezcol-divider">
 </div>
 
 ## Questions?
 
-Get in touch with us! Find us at our events or e-mail the EDGE chair at <vanessa.chiang@tap-boston.org>.
+Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <karen.lin@tap-boston.org> and <vanessa.chiang@tap-boston.org>.
