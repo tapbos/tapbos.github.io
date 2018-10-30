@@ -30,6 +30,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+facebook_gallery:
+    username: DerechenweyaHunaiyasofa
+    exclude:
+        - 'Timeline Photos'
+        - 'Cover Photos'
+        - 'Profile Pictures'
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
