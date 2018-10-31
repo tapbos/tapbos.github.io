@@ -9,9 +9,9 @@ permalink: /about/team
 
 <table>
   <tr>
-    <td><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+    <td style="width:30%"><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
       Li-Ming Tseng, President</td>
-    <td><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
+    <td style="width:70%"><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
 	<b>Hobbies:</b> Doing the following with friends and family: Baking, biking, hiking, building sandcastles, playing board games, and travelling.<br/><br/>
 	<b>Why TAP:</b> TAP bridges the gap between work and social life. There is something for everyone at TAP! - those who want to give back to the community, build their career, expand their social circle, learn more about Taiwanese culture, and more!<br/><br/>
