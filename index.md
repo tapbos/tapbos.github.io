@@ -59,7 +59,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Support Us</h3>
-  Your contributions are funneled back into the community through events.
+  Your contributions are funneled back into the community through events.<br/>
     <a href="https://www.paypal.me/tapbos">
       <button class="donate-button"></button>
     </a>
