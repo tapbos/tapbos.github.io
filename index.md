@@ -41,13 +41,15 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 <br/>
 
 <center>
-  <a href="{{ site.baseurl }}/about/team">View all board members</a>
+  <a href="{{ site.baseurl }}/about/team">View all</a>
 </center>
 
 ***
 
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
+  Stay updated on our networking, professional, social, cultural,<br/>
+  and philanthropic events.<br/>
   <a href="#mailmunch-pop-121032" class="subscribeButton">
      <img src="/assets/images/join-us-button.png">
   </a>
@@ -57,8 +59,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Support Us</h3>
-  A few words on how this helps, or other ways you can support tapboston.<br/>
-  <br/>
+  Your contributions are funneled back into the community through events.
     <a href="https://www.paypal.me/tapbos">
       <button class="donate-button"></button>
     </a>
