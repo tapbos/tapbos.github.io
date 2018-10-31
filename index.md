@@ -33,15 +33,15 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Meet the Team</h3>
 </center>
 
-<img src="{{ site.baseurl }}/assets/images/team-chyi-shin.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-karl.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-lloyd.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-li-ming.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-anthony.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-photos/team-li-ming-tseng.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-photos/team-lloyd-liang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-photos/team-vanessa-chiang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-photos/team-ted-bang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-photos/team-mike-li.png"/>
 <br/>
 
 <center>
-  <a href="{{ site.baseurl }}/about/leadership">All board members</a>
+  <a href="{{ site.baseurl }}/about/team">View all board members</a>
 </center>
 
 ***
