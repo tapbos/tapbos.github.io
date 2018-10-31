@@ -65,5 +65,6 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     </p>
 
 <p style="text-align: left;">
-  Still have questions about TAP-BOS? Contact us at <into@tap-boston.org>!
+  Still have questions about TAP-BOS? Contact us at info@tap-boston.org
+  </p>
   

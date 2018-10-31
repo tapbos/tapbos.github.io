@@ -33,11 +33,11 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Meet the Team</h3>
 </center>
 
-<img src="{{ site.baseurl }}/assets/images/team-photos/team-li-ming-tseng.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-photos/team-lloyd-liang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-photos/team-vanessa-chiang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-photos/team-ted-bang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-photos/team-mike-li.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/>
 <br/>
 
 <center>
