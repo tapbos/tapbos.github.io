@@ -7,15 +7,45 @@ permalink: /about/team
 <h3 class="no-bg">{{ page.title }}</h3>
 
 
--All board member photos, mini-bio 
+<table>
+  <tr>
+    <td><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+      Li-Ming Tseng, President</td>
+    <td><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
+	<b>Hobbies:</b> Doing the following with friends and family: Baking, biking, hiking, building sandcastles, playing board games, and travelling.<br/><br/>
+	<b>Why TAP:</b> TAP bridges the gap between work and social life. There is something for everyone at TAP! - those who want to give back to the community, build their career, expand their social circle, learn more about Taiwanese culture, and more!<br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+      Li-Ming Tseng, President</td>
+    <td><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
+	<b>Hobbies:</b> Doing the following with friends and family: Baking, biking, hiking, building sandcastles, playing board games, and travelling.<br/><br/>
+	<b>Why TAP:</b> TAP bridges the gap between work and social life. There is something for everyone at TAP! - those who want to give back to the community, build their career, expand their social circle, learn more about Taiwanese culture, and more!<br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+      Li-Ming Tseng, President</td>
+    <td><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
+	<b>Hobbies:</b> Doing the following with friends and family: Baking, biking, hiking, building sandcastles, playing board games, and travelling.<br/><br/>
+	<b>Why TAP:</b> TAP bridges the gap between work and social life. There is something for everyone at TAP! - those who want to give back to the community, build their career, expand their social circle, learn more about Taiwanese culture, and more!<br/><br/>
+    </td>
+  </tr>
+</table>
+
+
 
 <div>
 <p>
-<img src="{{ site.baseurl }}/assets/images/team-li-ming.png" width="200" height="200"/>
+<img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/>
 </p>
 
   <h4 style="text-align: center;">
-      Li-Ming Tseng, President
+      <b>Li-Ming Tseng, President</b>
         </h4>
 	</div>
 
@@ -44,7 +74,7 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-  <img src="{{ site.baseurl }}/assets/images/team-lloyd-liang.png" width="200" height="200"/>
+  <img src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
@@ -81,7 +111,7 @@ permalink: /about/team
   </p>
 
   <h4 style="text-align: center;">
-  Vanessa Chiang, Vice President & Mentorship Chair
+  <b>Vanessa Chiang, Vice President & Mentorship Chair</b>
         </h4>
 	</div>
 
@@ -110,11 +140,11 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-673" src="http://www.tap-boston.org/wp-content/uploads/2017/11/BioTedMed.png" alt="" width="200" height="200" />
+  <img src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
-      Ted Bang, Treasurer
+      Ted Bang, Professional Development Chair
         </h4>
 	</div>
 
@@ -143,29 +173,29 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-30" src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioJen.png" width="200" height="200" />
+  <img src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
-      <strong>Jen Tsang, Social Chair</strong>
+      <strong>Mike Li, Community Development Chair</strong>
         </h4>
 	</div>
 
 <div class="ezcol ezcol-two-third ezcol-last">
   <p>
-      <strong>Occupation:</strong> Senior Customer Experience Specialist, Liberty Mutual
+      <strong>Occupation:</strong> Software Quality Analyst at Hudl
         </p>
 
   <p>
-      <strong>Favorite thing about Taiwan/Taiwanese America:</strong> The food with the exception of oyster omelettes.
+      <strong>Favorite thing about Taiwan/Taiwanese America:</strong> The people
         </p>
 
   <p>
-      <strong>Hobbies:</strong> Trying out new recipes when I’m in the mood, trying different restaurants with friends, having an unofficial paint nite, and visiting out of state/country friends.
+      <strong>Hobbies:</strong> I enjoy all sorts of team/group activities: sports, board games, video games, playing music.
         </p>
 
   <p>
-      <strong>Why TAP:</strong> I want to do more with my time in Boston and joining TAP is a great opportunity to do exactly that. With TAP, I feel like I&#8217;m broadening my skill sets, meeting new people, and pursuing new interests, both inside and outside of Boston.
+      <strong>Why TAP:</strong> To work with others to strengthen the TAP community. To help energize the community to give back to those who are in need.
         </p>
 	</div>
 
@@ -176,7 +206,7 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-123" src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioAnthony.png" width="200" height="200" />
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-jen-tsang.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
@@ -209,7 +239,7 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-35 " src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioVanessa.png" width="200" height="200" />
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-felicia-au.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
@@ -242,7 +272,7 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-92 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioKarl.png" width="200" height="200" />
+  <img src="{{ site.baseurl }}/assets/images/team-images/team-alicia-chang.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
@@ -275,7 +305,7 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-97 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/BioRich.png" width="200" height="200" />
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-junli-hao.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
@@ -308,7 +338,106 @@ permalink: /about/team
 
 <div class="ezcol ezcol-one-third">
   <p>
-      <img class="aligncenter wp-image-97 size-full" src="http://www.tap-boston.org/wp-content/uploads/2017/12/BioEric.png" width="200" height="200" />
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-chris-lo.png" width="200" height="200"/>
+        </p>
+
+  <h4 style="text-align: center;">
+      Eric Lee, Marketing Chair
+        </h4>
+	</div>
+
+<div class="ezcol ezcol-two-third ezcol-last">
+  <p>
+      <b>Occupation:</b> Product Manager
+        </p>
+
+  <p>
+      <b>Favorite thing about Taiwan/Taiwanese America:</b> Taiwanese small eats! Taiwanese fried chicken, beef noodle soup, and more
+        </p>
+
+  <p>
+      <b>Hobbies:</b> HIIT (interval training), trying new restaurants, maximizing credit card points
+        </p>
+
+  <p>
+      <b>Why TAP:</b> Growing up as a minority in the US, I&#8217;ve appreciated being able to be part of the local Asian American community created by organizations similar to TAP. TAP gives me a chance to give back to the existing community and help maintain cultural identity for future generations as well.
+        </p>
+	</div>
+
+<div class="ezcol-divider">
+</div>
+
+&nbsp;
+
+<div class="ezcol ezcol-one-third">
+  <p>
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png" width="200" height="200"/>
+        </p>
+
+  <h4 style="text-align: center;">
+      Eric Lee, Marketing Chair
+        </h4>
+	</div>
+
+<div class="ezcol ezcol-two-third ezcol-last">
+  <p>
+      <b>Occupation:</b> Product Manager
+        </p>
+
+  <p>
+      <b>Favorite thing about Taiwan/Taiwanese America:</b> Taiwanese small eats! Taiwanese fried chicken, beef noodle soup, and more
+        </p>
+
+  <p>
+      <b>Hobbies:</b> HIIT (interval training), trying new restaurants, maximizing credit card points
+        </p>
+
+  <p>
+      <b>Why TAP:</b> Growing up as a minority in the US, I&#8217;ve appreciated being able to be part of the local Asian American community created by organizations similar to TAP. TAP gives me a chance to give back to the existing community and help maintain cultural identity for future generations as well.
+        </p>
+	</div>
+
+<div class="ezcol-divider">
+</div>
+
+&nbsp;
+
+<div class="ezcol ezcol-one-third">
+  <p>
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-blank.png" width="200" height="200"/>
+        </p>
+
+  <h4 style="text-align: center;">
+      Eric Lee, Marketing Chair
+        </h4>
+	</div>
+
+<div class="ezcol ezcol-two-third ezcol-last">
+  <p>
+      <b>Occupation:</b> Product Manager
+        </p>
+
+  <p>
+      <b>Favorite thing about Taiwan/Taiwanese America:</b> Taiwanese small eats! Taiwanese fried chicken, beef noodle soup, and more
+        </p>
+
+  <p>
+      <b>Hobbies:</b> HIIT (interval training), trying new restaurants, maximizing credit card points
+        </p>
+
+  <p>
+      <b>Why TAP:</b> Growing up as a minority in the US, I&#8217;ve appreciated being able to be part of the local Asian American community created by organizations similar to TAP. TAP gives me a chance to give back to the existing community and help maintain cultural identity for future generations as well.
+        </p>
+	</div>
+
+<div class="ezcol-divider">
+</div>
+
+&nbsp;
+
+<div class="ezcol ezcol-one-third">
+  <p>
+    <img src="{{ site.baseurl }}/assets/images/team-images/team-jasper-chen.png" width="200" height="200"/>
         </p>
 
   <h4 style="text-align: center;">
