@@ -49,7 +49,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
   Stay updated on our networking, professional, social, cultural,<br/>
-  and philanthropic events.<br/>
+  and philanthropic events.<br/><br/>
   <a href="#mailmunch-pop-121032" class="subscribeButton">
      <img src="/assets/images/join-us-button.png">
   </a>
@@ -59,7 +59,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Support Us</h3>
-  Your contributions are funneled back into the community through events.<br/>
+  Your contributions are funneled back into the community through events.<br/><br/>
     <a href="https://www.paypal.me/tapbos">
       <button class="donate-button"></button>
     </a>

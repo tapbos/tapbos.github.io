@@ -8,12 +8,14 @@ permalink: /programs/edge-program
 
 TAP EDGE provides a forum for college students to engage with successful young professionals in their field. Our goal is not to replace your university career center; rather, it is to offer the deep relationships and insider knowledge that they cannot otherwise have. A quality mentor is among the rarest and most valuable assets a college student can have. TAP is proud to help provide this for our community.
 
-<div class="ezcol ezcol-one-half">
-  <h3 style="text-align: left;">
-      <img class="aligncenter wp-image-43 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/EdgeMentee.png" width="200" height="200" />
-        </h3>
+***
 
-  <h2 style="text-align: center;">
+<div class="ezcol ezcol-one-half">
+  <h3>
+	<img align="center" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentee.png"/>
+      </h3>
+
+  <h2 style="text-align: left;">
       Mentees
         </h2>
 
@@ -38,12 +40,14 @@ TAP EDGE provides a forum for college students to engage with successful young p
 					      </ul>
 					      </div>
 
-<div class="ezcol ezcol-one-half ezcol-last">
-  <h3 style="text-align: left;">
-      <img class="aligncenter wp-image-44 size-full" src="http://www.tap-boston.org/wp-content/uploads/2016/07/EdgeMentor.png" width="200" height="200" />
-        </h3>
+***
 
-  <h2 style="text-align: center;">
+<div class="ezcol ezcol-one-half ezcol-last">
+  <h3>
+  	<img align="center" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentor.png"/>
+	</h3>
+
+  <h2 style="text-align: left;">
       Mentors
         </h2>
 
@@ -67,6 +71,8 @@ TAP EDGE provides a forum for college students to engage with successful young p
 					    </li>
 					      </ul>
 					      </div>
+
+***
 
 <div class="ezcol-divider">
 </div>
