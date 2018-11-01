@@ -1,6 +1,6 @@
 source "https://rubygems.org"
-#     bundle exec jekyll serve
-gem "jekyll", "~> 3.7.3"
+#     bundle exec jekyll serve, at localhost:4000
+gem "jekyll", "~> 3.7.4"
 #gem "github-pages", group: :jekyll_plugins
 
 gem "minima", "~> 2.0"

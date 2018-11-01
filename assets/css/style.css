@@ -39,7 +39,7 @@
 
 	strong, b {
 		color: #646464;
-		font-weight: 400;
+		font-weight: bold;
 	}
 
 	em, i {
@@ -792,10 +792,28 @@
 		overflow-x: auto;
 	}
 
+
 	table {
 	        /*margin: 0 0 2em 0;*/
 	        margin: auto;
-		width: 50%;
+		width: 50%; /* 50% */
+	}
+
+	table.team {
+	    margin: auto;
+	    width: 75%;
+	}
+
+	table.team tr td.team-left{
+	    width: 30%;
+	    font-style: strong;
+	    vertical-align: top;
+	    text-align: center;
+	}
+	
+	table.team tr td.team-right{
+	    width: 70%;
+	    vertical-align: top;
 	}
 
 		table tbody tr {
