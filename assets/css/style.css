@@ -883,11 +883,20 @@
 			    background-color: #179e85;
 			    border: none;
 			    color: white;
-			    padding: 1% 5%;
+			    width: 150px;
+			    height: 30px;
 			    font-size: 16px;
+			    font-weight: bold;
 			    border-radius: 16px;
 			    text-align: center;
+			    text-style: bold;
 			    margin-bottom: 10%;
+			    transition: width 0.5s;
+			}
+
+			button.index-learn-more:hover{
+			    background-color: #22b79c;
+			    width: 175px;
 			}
 			
 			.donate-button {
