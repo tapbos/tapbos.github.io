@@ -9,7 +9,7 @@ permalink: /about/team
 
 <table class="team">
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+    <td class="team-left"><img id="team-li-ming-tseng" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
       <b>Li-Ming Tseng</b><br/>President</td>
     <td class="team-right"><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
@@ -18,7 +18,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img id="team-lloyd-liang" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png" width="200" height="200"/><br/>
       <b>Lloyd Liang</b><br/>Vice-President</td>
     <td class="team-right"><b>Occupation:</b> Senior Clinical Research Coordinator, Division of Pulmonary and Critical Care Medicine, Massachusetts General Hospital<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Delicious food and Culture<br/><br/>
@@ -27,7 +27,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img id="team-vanessa-chiang" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png" width="200" height="200"/><br/>
       <b>Vanessa Chiang</b><br/>Vice President & Mentorship Chair</td>
     <td class="team-right"><b>Occupation:</b> Data science<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Getting to visit family + food<br/><br/>
@@ -36,7 +36,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img id="team-ted-bang" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png" width="200" height="200"/><br/>
       <b>Ted Bang</b><br/>Professional Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Senior Associate Consultant – Corporate Strategy & Research at Liberty Mutual<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The close-knit community and inclusive, open-minded culture.<br/><br/>
@@ -45,7 +45,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png" width="200" height="200"/><br/>
+    <td class="team-left"><img id="team-mike-li" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png" width="200" height="200"/><br/>
       <b>Mike Li</b><br/>Community Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Software Quality Analyst at Hudl<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The people<br/><br/>
@@ -95,7 +95,7 @@ permalink: /about/team
     <td class="team-right"><b>Occupation:</b> Software engineering<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The food and culture!<br/><br/>
 	<b>Hobbies:</b> Gymnastics, airsofting, and astronomy<br/><br/>
-	<b>Why TAP:</b> I want to meet new people, and get more involved in the Boston community. TAP opens the door to for me to step into new experiences, and is also a place I can contribute to the tech in the back!<br/><br/>
+	<b>Why TAP:</b> I want to meet new people, and get more involved in the Boston community. TAP opens the door to for me to step into new experiences, and contribute to the tech in the back!<br/><br/>
     </td>
   </tr>
   <tr>

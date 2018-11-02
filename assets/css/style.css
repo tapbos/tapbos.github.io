@@ -86,7 +86,8 @@
 	}
 
 	h2.organization {
-	    font-size: 1.5em;
+	    padding-top: 5%;
+	    font-size: 2em;
 	    font-weight: bold;
 	    line-height: 1.5em;
 	    letter-spacing: 0.5em;
@@ -94,13 +95,14 @@
 	    text-shadow: 1px 1px 15px #888888;
 	}
 	
-	h2.chapter{
-	    font-size: 2em;
-	    font-weight: bold;
+	h2.location{
+	    font-size: 1.5em;
+	    font-style: italic;
 	    line-height: 1.5em;
 	    letter-spacing: 0.2em;
 	    color: white;
 	    text-shadow: 1px 1px 15px #888888;
+	    margin-bottom: 7.5%;
 	}
 
 	h3 {
@@ -619,6 +621,9 @@
 
 /* Image */
 
+			img.index-team{
+			}
+
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -794,9 +799,12 @@
 
 
 	table {
-	        /*margin: 0 0 2em 0;*/
 	        margin: auto;
-		width: 50%; /* 50% */
+		width: 50%;
+	}
+
+	table.index-team{
+	    text-align: center;
 	}
 
 	table.team {
@@ -868,8 +876,20 @@
 				border-top: 0;
 			}
 
-/* donate-button */
+			
+/* Button */
 
+			button.index-learn-more{
+			    background-color: #179e85;
+			    border: none;
+			    color: white;
+			    padding: 1% 5%;
+			    font-size: 16px;
+			    border-radius: 16px;
+			    text-align: center;
+			    margin-bottom: 10%;
+			}
+			
 			.donate-button {
 			    border: none;
 			    outline: none;
@@ -883,7 +903,6 @@
 			    background-position: 0 -90px;
 			}
 			
-/* Button */
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -1530,7 +1549,12 @@
 
 /* Banner */
 
-	#banner {
+			#banner {
+			    background-image: url("../images/banner.jpg");
+			    background-size: 100%;
+			    background-repeat: no-repeat;
+			    background-position: static;
+			    /*
 	        background-attachment: scroll;
 		background-color: #666;
 		background-image: url("../images/banner.jpg");
@@ -1540,6 +1564,7 @@
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
+			   */
 		
 	}
 
@@ -1620,11 +1645,11 @@
 				padding: 1em 0 1.25em 0;
 			}
 	body #main-no-bump {
-		margin-top: -26em; /*logo height original -26em*/
+		margin-top: 0em; /*logo height original -26em*/
 	}
 
 	body.landing #main-no-bump {
-		margin-top: -14em;
+		margin-top: 0em;
 	}
 
 	body.no-bg #main-no-bump{
@@ -1661,11 +1686,11 @@
 				padding: 1em 0 1.25em 0;
 			}
 	body #main {
-		margin-top: -26em; /*logo height*/
+		margin-top: -26em; /*logo height -26em*/
 	}
 
 	body.landing #main {
-		margin-top: -14em;
+		margin-top: -14em; /*-14em*/
 	}
 
 	body.no-bg #main{

@@ -1,20 +1,15 @@
 ---
 layout: default
 ---
-<p align="center">
-   <img src="assets/images/tap-logo.png" align="middle">
-</p>
 
 <center>
-  <h2 class="organization">TAIWANESE AMERICAN PROFESSIONALS</h2>	
-  <h2 class="chapter">BOSTON</h2>
-  <br/>
-  <br/>
-  <br/>
+  <h2 class="organization">TAIWANESE AMERICAN<br/>PROFESSIONALS</h2>	
+  <h2 class="location">Boston, MA</h2>
+  <a href="{{ site.baseurl }}/about/overview"><button class="index-learn-more">Learn more</button></a>
 </center>
 
 <center>
-  <h3>Our Mission</h3>
+  <h3><b>Our Mission</b></h3>
 </center>
 
 <p align="center">
@@ -33,11 +28,22 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Meet the Team</h3>
 </center>
 
-<img src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/>
-<img src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/>
+<table class="index-team">
+  <tr>
+    <td><a href="{{ site.baseurl }}/about/team/#team-li-ming-tseng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/></a></td>
+    <td><a href="{{ site.baseurl }}/about/team/#team-lloyd-liang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/></a></td>
+    <td><a href="{{ site.baseurl }}/about/team/#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
+    <td><a href="{{ site.baseurl }}/about/team/#team-ted-bang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/></a></td>
+    <td><a href="{{ site.baseurl }}/about/team/#team-mike-li"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Li-Ming Tseng</b><br/>President</td>
+    <td><b>Lloyd Liang</b><br/>Vice President</td>
+    <td><b>Vanessa Chiang</b><br/>Vice President, Mentorship Chair</td>
+    <td><b>Ted Bang</b><br/>Professional Development Chair</td>
+    <td><b>Mike Li</b><br/>Community Development Chair</td>
+  </tr>
+</table>
 <br/>
 
 <center>
