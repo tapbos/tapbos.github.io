@@ -16,6 +16,25 @@
 		letter-spacing: -0.025em;
 	}
 
+	h2.organization {
+	    padding-top: 5%;
+	    font-size: 1em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
+	}
+
+	h2.location{
+	    font-size: 1.5em;
+	    font-style: italic;
+	    line-height: 1.5em;
+	    letter-spacing: 0.2em;
+	    color: white;
+	    margin-bottom: 7.5%;
+	}
+	
+
 	h3 {
 		font-size: 1.5em;
 	}
@@ -81,7 +100,7 @@
 /* Banner */
 
 	#banner {
-		padding: 4em 0;
+		padding: -26em 0;
 	}
 
 		#banner h2 {
@@ -92,10 +111,10 @@
 			font-size: 1.25em;
 		}
 
-/* Main */
+		/* Main */
 
 	#main {
-		padding: 4em 0 0 0;
+		padding: -26em 0 0 0; /*4em*/
 	}
 
 		#main > header {

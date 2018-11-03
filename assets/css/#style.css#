@@ -92,7 +92,6 @@
 	    line-height: 1.5em;
 	    letter-spacing: 0.5em;
 	    color: white;
-	    text-shadow: 1px 1px 15px #888888;
 	}
 	
 	h2.location{
@@ -101,7 +100,6 @@
 	    line-height: 1.5em;
 	    letter-spacing: 0.2em;
 	    color: white;
-	    text-shadow: 1px 1px 15px #888888;
 	    margin-bottom: 7.5%;
 	}
 
