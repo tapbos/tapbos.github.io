@@ -622,6 +622,8 @@
 /* Image */
 
 			img.index-team{
+			    width: 150px;
+			    height: auto;
 			}
 
 	.image {
@@ -890,8 +892,8 @@
 			    border-radius: 16px;
 			    text-align: center;
 			    text-style: bold;
-			    margin-bottom: 10%;
-			    transition: width 0.5s;
+			    margin-bottom: 100px;
+			    transition: width 0.3s, background-color 0.3s;
 			}
 
 			button.index-learn-more:hover{
@@ -1563,6 +1565,7 @@
 			    background-size: 100%;
 			    background-repeat: no-repeat;
 			    background-position: static;
+			    padding: 10em 0 18em 0;
 			    /*
 	        background-attachment: scroll;
 		background-color: #666;
