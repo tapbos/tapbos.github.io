@@ -25,7 +25,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 ***
 
 <center>
-  <h3>Meet the Team</h3>
+  <h3 class="meet-the-team">Meet the Team</h3>
 </center>
 
 <table class="index-team">

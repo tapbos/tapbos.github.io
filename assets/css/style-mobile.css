@@ -39,8 +39,17 @@
 		font-size: 1.5em;
 	}
 
+	h3.meet-the-team{ /*phones too narrow to disply team section*/
+	    display: none;
+	}
+
 	h4 {
 		font-size: 1em;
+	}
+
+	/* Table */
+	table.index-team{
+	    display: none;
 	}
 
 /* Section/Article */
