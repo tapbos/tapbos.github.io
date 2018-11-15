@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Karla');
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 
-
 /* 
 	Alpha by HTML5 UP
 	html5up.net | @n33co
@@ -11,7 +10,7 @@
 /* Basic */
 
 	body {
-		background: #f5f5f5;
+	    background: #f5f5f5;
 	}
 
 	body, input, select, textarea {
@@ -639,6 +638,14 @@
 
 			
 			img.sponsor-logo{ /*using this class makes the image disappear. use overview-map instead*/
+			    max-width: 100%;
+			    height: auto;
+			}
+
+			img.mentor-mentee-image{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
 			    max-width: 100%;
 			    height: auto;
 			}

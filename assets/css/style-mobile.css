@@ -7,7 +7,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 11pt;
+    font-size: 11pt;
 }
 
 a.index-team-view-all{
@@ -68,6 +68,20 @@ a.index-team-view-all{
 	    display: none;
 	}
 
+	table.team{
+	    width: 100%;
+	}
+
+	table.team tr td.team-left img.team-image{
+	    width: 125px;
+	    height: auto;
+	    font-style: strong;
+	    vertical-align: top;
+	    text-align: center;
+	    margin-bottom: 10px;
+	}
+	
+
 /* Section/Article */
 
 	header.major {
@@ -93,6 +107,11 @@ a.index-team-view-all{
 		img.footer-icon{
 		    width: 30px;
 		    height: 30px;
+		}
+
+		img.mentor-mentee-image{
+		    width: 120px;
+		    height: 120px;
 		}
 
 /* Box */

@@ -12,7 +12,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
 
 <div class="ezcol ezcol-one-half">
   <h3>
-	<img align="center" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentee.png"/>
+	<img class="mentor-mentee-image" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentee.png"/>
       </h3>
 
   <h2 style="text-align: left;">
@@ -44,7 +44,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
 
 <div class="ezcol ezcol-one-half ezcol-last">
   <h3>
-  	<img align="center" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentor.png"/>
+  	<img class="mentor-mentee-image" src="{{ site.baseurl }}/assets/images/programs-images/edge-mentor.png"/>
 	</h3>
 
   <h2 style="text-align: left;">
@@ -89,7 +89,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
   <h2><strong>Sign Up</strong></h2>
 
   <p>
-  Mentors: Please fill out the application form <a href="https://tinyurl.com/edgementor1819">here</a>!<br/> Mentees: Please fill out the application form <a href="https://tinyurl.com/edgementee1819">here</a>!
+  <strong>Mentors:</strong> Please fill out the application form <a href="https://tinyurl.com/edgementor1819">here</a>!<br/><strong>Mentees:</strong> Please fill out the application form <a href="https://tinyurl.com/edgementee1819">here</a>!
   </p>
 </div>
 

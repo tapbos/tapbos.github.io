@@ -9,7 +9,7 @@ permalink: /about/team
 
 <table class="team">
   <tr>
-    <td class="team-left"><img id="team-li-ming-tseng" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" id="team-li-ming-tseng" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/><br/>
       <b>Li-Ming Tseng</b><br/>President</td>
     <td class="team-right"><b>Occupation:</b> Communications Officer, Harvard Center for African Studies<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Nothing beats eating Taiwanese breakfast on plastic stools sharing a rickety table with other random people. I love the crowded streets, and amazing knick knacks you can find at the 7-11s and Family Marts.<br/><br/>
@@ -18,7 +18,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img id="team-lloyd-liang" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" id="team-lloyd-liang" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/><br/>
       <b>Lloyd Liang</b><br/>Vice-President</td>
     <td class="team-right"><b>Occupation:</b> Senior Clinical Research Coordinator, Division of Pulmonary and Critical Care Medicine, Massachusetts General Hospital<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Delicious food and Culture<br/><br/>
@@ -27,7 +27,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img id="team-vanessa-chiang" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" id="team-vanessa-chiang" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/><br/>
       <b>Vanessa Chiang</b><br/>Vice President & Mentorship Chair</td>
     <td class="team-right"><b>Occupation:</b> Data science<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Getting to visit family + food<br/><br/>
@@ -36,7 +36,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img id="team-ted-bang" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" id="team-ted-bang" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/><br/>
       <b>Ted Bang</b><br/>Professional Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Senior Associate Consultant – Corporate Strategy & Research at Liberty Mutual<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The close-knit community and inclusive, open-minded culture.<br/><br/>
@@ -45,7 +45,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img id="team-mike-li" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" id="team-mike-li" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/><br/>
       <b>Mike Li</b><br/>Community Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Software Quality Analyst at Hudl<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The people<br/><br/>
@@ -54,7 +54,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-jen-tsang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-jen-tsang.png"/><br/>
       <b>Jen Tsang</b><br/>Social/Cultural Advisor</td>
     <td class="team-right"><b>Occupation:</b> Senior Customer Experience Specialist, Liberty Mutual<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The food with the exception of oyster omelettes.<br/><br/>
@@ -63,7 +63,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-felicia-au.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-felicia-au.png"/><br/>
       <b>Felicia Au</b><br/>Treasurer</td>
     <td class="team-right"><b>Occupation:</b> Audit, Novogradac & Company LLP<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> There’s so much to list! All the night market snacks such as fried chicken and shaved ice. I’m obsessed with pineapple cakes and I always make sure to buy extra. Besides the food, I’m inspired by the Taiwanese American community who are dedicated to their culture as well as the highly motivated and driven individuals who are part of it.<br/><br/>
@@ -72,7 +72,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-alicia-chang.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-alicia-chang.png"/><br/>
       <b>Alicia Chang</b><br/>Social Chair</td>
     <td class="team-right"><b>Occupation:</b> B2B Marketing<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> I consider Taiwanese America a welcoming community full of opportunities and connections. From California to Ohio to Massachusetts, I have found a not only a safe space with Taiwanese American organizations, but also the encouragement to step beyond and develop myself as a leader and community member.<br/><br/>
@@ -81,7 +81,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-junli-hao.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-junli-hao.png"/><br/>
       <b>Junli Hao</b><br/>Community Development Chair</td>
     <td class="team-right"><b>Occupation:</b> PhD student, Chemical Engineering, MIT<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Strong bonds of community<br/><br/>
@@ -90,7 +90,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-chris-lo.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-chris-lo.png"/><br/>
       <b>Chris Lo</b><br/>Technology Chair</td>
     <td class="team-right"><b>Occupation:</b> Software engineering<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The food and culture!<br/><br/>
@@ -99,7 +99,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png"/><br/>
       <b>Karen Lin</b><br/>EDGE Chair</td>
     <td class="team-right"><b>Occupation:</b> Tax Associate, PwC<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> THE FOOD (especially bubble tea and shaved ice!)<br/><br/>
@@ -108,7 +108,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-blank.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
       <b>Li-Chen Pan</b><br/>Marketing Chair</td>
     <td class="team-right"><b>Occupation:</b><br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/><br/>
@@ -117,7 +117,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img src="{{ site.baseurl }}/assets/images/team-images/team-jasper-chen.png" width="200" height="200"/><br/>
+    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-jasper-chen.png"/><br/>
       <b>Jasper Chen</b><br/>Cultural Chair</td>
     <td class="team-right"><b>Occupation:</b> Software Engineer<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Food and shaved ice!<br/><br/>
