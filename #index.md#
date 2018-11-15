@@ -3,8 +3,7 @@ layout: default
 ---
 
 <center>
-  <h2 class="taiwanese-american">TAIWANESE AMERICAN</h2>
-  <h2 class="professionals">PROFESSIONALS</h2>
+  <h2 class="organization">TAIWANESE AMERICAN<br/>PROFESSIONALS</h2>	
   <h2 class="location">Boston, MA</h2>
   <a href="{{ site.baseurl }}/about/overview"><button class="index-learn-more">Learn more</button></a>
 </center>
@@ -23,7 +22,7 @@ members can reflect, grow, and build meaningful relationships.
 We are driven by the ideals of continuous self-improvement and the moral obligation to help others.
 </p>
 
-<hr class="index-team">
+***
 
 <center>
   <h3 class="meet-the-team">Meet the Team</h3>
@@ -45,9 +44,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     <td><b>Mike Li</b><br/>Community Development Chair</td>
   </tr>
 </table>
+<br/>
 
 <center>
-  <a class="index-team-view-all" href="{{ site.baseurl }}/about/team">View all</a>
+  <a href="{{ site.baseurl }}/about/team">View all</a>
 </center>
 
 ***
@@ -56,8 +56,8 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Subscribe to our monthly newsletter</h3>
   Stay updated on our networking, professional, social, cultural,<br/>
   and philanthropic events.<br/><br/>
-  <a href="#mailmunch-pop-121032">
-     <img src="/assets/images/join-us-button.png" class="join-us-button">
+  <a href="#mailmunch-pop-121032" class="subscribeButton">
+     <img src="/assets/images/join-us-button.png">
   </a>
 </center>
 

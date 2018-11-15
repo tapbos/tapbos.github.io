@@ -8,7 +8,11 @@
 
 	body, input, select, textarea {
 		font-size: 11pt;
-	}
+}
+
+a.index-team-view-all{
+    display: none;
+}
 
 	h2 {
 		font-size: 1.75em;
@@ -16,8 +20,16 @@
 		letter-spacing: -0.025em;
 	}
 
-	h2.organization {
+	h2.taiwanese-american {
 	    padding-top: 5%;
+	    font-size: 1.25em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
+	}
+
+	h2.professionals {
 	    font-size: 1.25em;
 	    font-weight: bold;
 	    line-height: 1.5em;
@@ -47,6 +59,11 @@
 		font-size: 1em;
 	}
 
+	hr.index-team{
+	    display: none; /*mobile, hide team section and horizontal line*/
+	}
+	
+
 	/* Table */
 	table.index-team{
 	    display: none;
@@ -67,6 +84,16 @@
 		img.index-team{
 		    width: 75px;
 		    height: auto;
+		}
+
+		img.join-us-button{
+		    width: 175px;
+		    height: 63px;
+		}
+
+		img.footer-icon{
+		    width: 30px;
+		    height: 30px;
 		}
 
 /* Box */
@@ -111,6 +138,42 @@
 				margin-bottom: -2em;
 				margin-top: 2em;
 			}
+
+			/* Button */
+			button.donate-button {
+			    border: none;
+			    outline: none;
+			    cursor: pointer;
+			    background: url('../images/donate-button-sprite.png') no-repeat top;
+			    background-size: 175px 126px;
+			    width: 175px;
+			    height: 63px;
+			}
+
+			.donate-button:hover {
+			    background-position: 0 -63px;
+			}
+
+			/* Button */
+			button.index-learn-more{
+			    margin-bottom: 120px;
+			    /*
+			    background-color: #179e85;
+			    border: none;
+			    color: white;
+			    width: 150px;
+			    height: 30px;
+			    font-size: 16px;
+			    font-weight: bold;
+			    border-radius: 16px;
+			    text-align: center;
+			    text-style: bold;
+			    margin-bottom: 100px;
+			    transition: width 0.3s, background-color 0.3s;
+			   */
+			}
+			
+			
 
 /* Banner */
 
