@@ -21,7 +21,16 @@ a.index-team-view-all{
 	}
 
 	h2.taiwanese-american {
-	    padding-top: 4%;
+	    padding-top: 5%;
+	    font-size: 1.25em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
+	}
+
+	h2.professionals {
+	    padding-top: 5%;
 	    font-size: 1.25em;
 	    font-weight: bold;
 	    line-height: 1.5em;
