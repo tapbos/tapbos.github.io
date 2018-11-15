@@ -17,7 +17,7 @@
 			narrow:		{ range: '-980', href: '{{ site.baseurl }}/assets/css/style-wide.css', containers: '90%' },
 			narrower:	{ range: '-840', href: '{{ site.baseurl }}/assets/css/style-narrower.css', grid: { collapse: 1 } },
 			mobile:		{ range: '-640', href: '{{ site.baseurl }}/assets/css/style-mobile.css', containers: '100%', grid: { gutters: { vertical: '1em' } } },
-			mobilep:	{ range: '-480', href: '{{ site.baseurl }}/assets/css/style-mobile.css', grid: { collapse: 2 } }
+			mobilep:	{ range: '-480', href: '{{ site.baseurl }}/assets/css/style-mobile-tiny.css', grid: { collapse: 2 } }
 		}
 	}, {
 		layers: {

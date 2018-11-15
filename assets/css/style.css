@@ -33,6 +33,11 @@
 		text-decoration: none;
 	}
 
+	a.index-team-view-all{
+	    color: #179e85;
+	    font-weight: bold;
+	}
+
 		a:hover {
 			border-bottom-color: transparent;
 		}
@@ -85,23 +90,29 @@
 	    letter-spacing: 0.05em;
 	}
 
-	h2.organization {
+	h2.taiwanese-american {
 	    padding-top: 5%;
 	    font-size: 2em;
 	    font-weight: bold;
 	    line-height: 1.5em;
 	    letter-spacing: 0.5em;
 	    color: white;
-	    text-shadow: 1px 1px 15px #888888;
+	}
+
+	h2.professionals {
+	    font-size: 2em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
 	}
 	
 	h2.location{
 	    font-size: 1.5em;
 	    font-style: italic;
 	    line-height: 1.5em;
-	    letter-spacing: 0.2em;
+	    letter-spacing: 0.15em;
 	    color: white;
-	    text-shadow: 1px 1px 15px #888888;
 	    margin-bottom: 7.5%;
 	}
 
@@ -626,6 +637,26 @@
 			    height: auto;
 			}
 
+			
+			img.sponsor-logo{ /*using this class makes the image disappear. use overview-map instead*/
+			    max-width: 100%;
+			    height: auto;
+			}
+
+			img.overview-map{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
+			    max-width: 100%;
+			    height: auto;
+			}
+
+			img.nav-tap-logo{
+			    padding: 10px;
+			    width: 54px;
+			    height: auto;
+			}
+
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -807,6 +838,9 @@
 
 	table.index-team{
 	    text-align: center;
+	    border: hidden;
+	    margin-top: 10px;
+	    margin-bottom: 20px;
 	}
 
 	table.team {
@@ -826,14 +860,12 @@
 	    vertical-align: top;
 	}
 
-		table tbody tr {
-			border: solid 1px #e5e5e5;
-			border-left: 0;
-			border-right: 0;
-		}
+	table tbody tr {
+	    border: hidden;
+	}
 
 		table td {
-			padding: 0.75em 0.75em;
+		    padding: 0.75em 0.75em;
 		}
 
 		table th {
@@ -898,6 +930,7 @@
 
 			button.index-learn-more:hover{
 			    background-color: #22b79c;
+			    cursor: pointer;
 			    width: 175px;
 			}
 			
@@ -1566,19 +1599,7 @@
 			    background-repeat: no-repeat;
 			    background-position: static;
 			    padding: 10em 0 18em 0;
-			    /*
-	        background-attachment: scroll;
-		background-color: #666;
-		background-image: url("../images/banner.jpg");
-		background-position: top left,                                          center center;
-		background-repeat: repeat,                                                      no-repeat;
-		background-size: cover;
-		color: #fff;
-		padding: 12em 0 20em 0;
-		text-align: center;
-			   */
-		
-	}
+		}
 
 		#banner :last-child {
 			margin-bottom: 0;
@@ -1735,11 +1756,13 @@
 			}
 
 		#footer .copyright {
-			color: #999;
-			font-size: 0.9em;
+		    color: #000000;
+		    opacity: 0.3;
+			font-size: 0.8em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
 			padding: 0;
+			padding-top: 10px;
 			text-align: center;
 		}
 

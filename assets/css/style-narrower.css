@@ -4,14 +4,29 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Header */
+header.alt { /* don't show nav bar if triple-line nav button is there*/
+    display: none;
+}
+
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 11pt;
+	    font-size: 11pt;
 	}
 
 	h2 br, h3 br, h4 br, h5 br, h6 br {
 		display: none;
+	}
+
+	h2.organization {
+	    padding-top: 5%;
+	    font-size: 2em;
+	    font-weight: bold;
+	    line-height: 1.5em;
+	    letter-spacing: 0.5em;
+	    color: white;
+	    text-shadow: 1px 1px 15px #888888;
 	}
 
 /* Section/Article */
