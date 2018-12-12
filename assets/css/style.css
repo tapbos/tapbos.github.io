@@ -664,6 +664,10 @@
 			    height: auto;
 			}
 
+			img.footer-icon{
+			    vertical-align: middle;
+			}
+
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -841,6 +845,14 @@
 	table {
 	        margin: auto;
 		width: 50%;
+	}
+
+	table.footer-table{
+	    width: 20%;
+	}
+
+	table.footer-table tr td.icon{
+	    text-align: center;
 	}
 
 	table.index-team{
