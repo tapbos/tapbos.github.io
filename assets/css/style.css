@@ -1613,7 +1613,7 @@
 /* Banner */
 
 			#banner {
-			    background-attachment: scroll, fixed;
+			    background-attachment: fixed;
 			    background-color: #666;
 			    background-position: top left,
 			    background-size: auto, cover;
