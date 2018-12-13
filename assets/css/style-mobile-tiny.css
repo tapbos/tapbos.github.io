@@ -25,7 +25,7 @@
 /* Banner */
 
 	#banner {
-		padding: -26em 0;
+		padding: 9.5em 0; /*-26em 0*/
 	}
 
 		#banner h2 {
@@ -39,7 +39,7 @@
 		/* Main */
 
 	#main {
-		padding: 3em 0 0 0; /*4em*/
+		padding: 12em 0 0 0; /*3em*/
 	}
 
 		#main > header {
@@ -56,6 +56,6 @@
 			}
 
 	body.landing #main {
-		padding: 0;
+		padding: 0; /*0*/
 		margin-top: 0;
 	}

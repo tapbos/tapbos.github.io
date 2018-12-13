@@ -196,7 +196,8 @@ a.index-team-view-all{
 /* Banner */
 
 	#banner {
-		padding: -26em 0;
+	    padding: 12em 0;
+	    background-size: auto 100%;
 	}
 
 		#banner h2 {
@@ -210,7 +211,7 @@ a.index-team-view-all{
 		/* Main */
 
 	#main {
-		padding: -26em 0 0 0; /*4em*/
+		padding: 10em 0 0 0; /*4em*/
 	}
 
 		#main > header {

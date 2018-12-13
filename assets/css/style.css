@@ -73,14 +73,6 @@
 	    letter-spacing: 0.05em;
 	}
 
-	h2 {
-	    font-size: 1.5em;
-	    font-weight: bold;
-	    line-height: 1.5em;
-	    letter-spacing: 0.05em;
-	}
-
-
 	h3.no-bg { /*no background, pad down*/
 	    padding-top: 2em;
 	    font-size: 1.75em;
@@ -1131,7 +1123,7 @@
 	@-ms-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
-	#header {
+	#header { /*controls desktop nav bar*/
 		background: #444;
 		color: #bbb;
 		cursor: default;
@@ -1242,7 +1234,7 @@
 			}
 
 		#header .container {
-			position: relative;
+		    position: relative;
 		}
 
 			#header .container h1 {
@@ -1614,11 +1606,11 @@
 
 			#banner {
 			    background-attachment: fixed;
-			    background-color: #666;
-			    background-position: top left,
-			    background-size: auto, cover;
+			    background-color: #f5f5;
+			    background-position: top, center;
+			    background-size: 100%;
 			    background-image: url("../images/banner.jpg");
-			    background-repeat: repeat, cover;
+			    background-repeat: no-repeat;
 			    padding: 12em 0 20em 0;
 			    color: #fff;
 			    text-align: center;
@@ -1746,7 +1738,7 @@
 	}
 
 	body.landing #main {
-		margin-top: -14em; /*-14em*/
+		margin-top: 0em; /*-14em*/
 	}
 
 	body.no-bg #main{
