@@ -664,6 +664,10 @@
 			    height: auto;
 			}
 
+			img.footer-icon{
+			    vertical-align: middle;
+			}
+
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -841,6 +845,14 @@
 	table {
 	        margin: auto;
 		width: 50%;
+	}
+
+	table.footer-table{
+	    width: 20%;
+	}
+
+	table.footer-table tr td.icon{
+	    text-align: center;
 	}
 
 	table.index-team{
@@ -1601,11 +1613,15 @@
 /* Banner */
 
 			#banner {
+			    background-attachment: fixed;
+			    background-color: #666;
+			    background-position: top left,
+			    background-size: auto, cover;
 			    background-image: url("../images/banner.jpg");
-			    background-size: 100%;
-			    background-repeat: no-repeat;
-			    background-position: static;
-			    padding: 10em 0 18em 0;
+			    background-repeat: repeat, cover;
+			    padding: 12em 0 20em 0;
+			    color: #fff;
+			    text-align: center;
 		}
 
 		#banner :last-child {

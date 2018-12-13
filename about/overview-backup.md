@@ -20,25 +20,24 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <table class="overview-chapters">
   <tr>
-    <td><a title="TAP SF" href="http://tap-sf.org">San Francisco</a></td>
-    <td><a title="TAP DC" href="http://tap-dc.org">DC</a></td>
+    <td><a title="TAP SF" href="http://tap-sf.org" target="_blank">San Francisco</a></td>
+    <td><a title="TAP DC" href="http://tap-dc.org" target="_blank">DC</a></td>
   </tr>
   <tr>
-    <td><a title="TAP LA" href="http://tap-la.org">Los Angeles</a></td>
-    <td><a href="http://www.tap-atx.org/">Austin</a></td>
+    <td><a title="TAP LA" href="http://tap-la.org" target="_blank">Los Angeles</a></td>>
+    <td><a href="http://www.tap-atx.org/" target="_blank">Austin</a></td>
   </tr>
   <tr>
-    <td><a title="TAP SD" href="http://tap-sd.org">San Diego</a></td>
-    <td><a href="http://tap-ny.org/">New York</a></td>
+    <td><a title="TAP SD" href="http://tap-sd.org" target="_blank">San Diego</a></td>
+    <td><a href="http://tap-ny.org/" target="_blank">New York</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.tap-seattle.org/">Seattle</a></td>
-    <td><a href="http://www.tap-atl.org/">Atlanta</a></td>
+    <td><a href="http://www.tap-seattle.org/" target="_blank">Seattle</a></td>
+    <td><a href="http://www.tap-atl.org/" target="_blank">Atlanta</a></td>
   </tr>
 </table>
 
-<br/>
-<p>
+<p style="text-align: left;">
   Still have questions about TAP-BOS? Contact us at <a>info@tap-boston.org</a>
-</p>
+  </p>
   
