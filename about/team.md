@@ -54,15 +54,6 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-jen-tsang.png"/><br/>
-      <b>Jen Tsang</b><br/>Social/Cultural Advisor</td>
-    <td class="team-right"><b>Occupation:</b> Senior Customer Experience Specialist, Liberty Mutual<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> The food with the exception of oyster omelettes.<br/><br/>
-	<b>Hobbies:</b> Trying out new recipes when I’m in the mood, trying different restaurants with friends, having an unofficial paint nite, and visiting out of state/country friends.<br/><br/>
-	<b>Why TAP:</b> I want to do more with my time in Boston and joining TAP is a great opportunity to do exactly that. With TAP, I feel like I’m broadening my skill sets, meeting new people, and pursuing new interests, both inside and outside of Boston.<br/><br/>
-    </td>
-  </tr>
-  <tr>
     <td class="team-left"><img class="team-image" src="{{ site.baseurl }}/assets/images/team-images/team-felicia-au.png"/><br/>
       <b>Felicia Au</b><br/>Treasurer</td>
     <td class="team-right"><b>Occupation:</b> Audit, Novogradac & Company LLP<br/><br/>
