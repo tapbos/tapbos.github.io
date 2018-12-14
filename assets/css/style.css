@@ -47,11 +47,15 @@
 	}
 
 	em, i {
-		font-style: italic;
+	    font-style: italic;
 	}
 
 	p {
-		margin: 0 0 2em 0;
+	    margin: 0 0 2em 0;
+	}
+
+	p.independent-sponsor{
+	    text-align: center;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -79,6 +83,10 @@
 	    font-weight: bold;
 	    line-height: 1.5em;
 	    letter-spacing: 0.05em;
+	}
+
+	h3.sponsor-tier{
+	    padding-bottom: 1.5em;
 	}
 
 	h2.taiwanese-american {
@@ -629,7 +637,7 @@
 			}
 
 			
-			img.sponsor-logo{ /*using this class makes the image disappear. use overview-map instead*/
+			img.sponsor-logo{ /*using this class makes the image magically disappear. use overview-map instead.*/
 			    max-width: 100%;
 			    height: auto;
 			}
