@@ -671,6 +671,14 @@
 			    display: block;
 			    margin-left: auto;
 			    margin-right: auto;
+			    width: 65%;
+			    height: auto;
+			}
+
+			img.partner-logo-low-res{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
 			    width: 50%;
 			    height: auto;
 			}

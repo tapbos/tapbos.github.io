@@ -1,30 +1,45 @@
-	h2.taiwanese-american {
-	    font-size: 1.25em;
-	    font-weight: bold;
-	    line-height: 1.5em;
-	    letter-spacing: 0.5em;
-	    color: white;
-	}
+h2.taiwanese-american {
+    font-size: 1.1em;
+}
 
-	h2.professionals {
-	    font-size: 1.25em;
-	    font-weight: bold;
-	    line-height: 1.5em;
-	    letter-spacing: 0.5em;
-	    color: white;
-	}
+h2.professionals{
+    font-size: 1.1em;
+}
+
+h2.location{
+    font-size: 1em;
+}
 
 	div.main-contents-area{
 	    margin: auto;
-	    width: 90%;
+	    width: 95%;
 	    padding: 10px;
 	}
 
-	/*button*/
+	/* Button */
 	button.index-learn-more{
-	    margin-bottom: 50px;
-
+	    background-color: #179E85;
+	    border: none;
+	    color: white;
+	    width: 120px;
+	    height: 25px;
+	    font-size: 13px;
+	    font-weight: bold;
+	    border-radius: 16px;
+	    text-align: center;
+	    text-style: bold;
+	    margin-bottom: 100px;
+	    transition: width 0.3s, background-color 0.3s;
 	}
+
+	button.index-learn-more:hover{
+	    background-color: #22b79c;
+	    cursor: pointer;
+	    width: 150px;
+	}
+
+	button.index-learn-more:click
+	
 	
 	
 

@@ -1,8 +1,49 @@
-/*
-	Alpha by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+div.main-contents-area{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+h2.taiwanese-american {
+    padding-top: 5%;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.professionals {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.location{
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.5em;
+    letter-spacing: 0.15em;
+    color: white;
+    margin-bottom: 7.5%;
+}
+
+/* Table */
+
+table.index-team tr.index-team-tags td{
+    font-size: 1.2vw;
+    line-height: 2vw;
+}
+
+/* Image */
+
+img.index-team{
+    width: 9vw;
+    height: auto;
+}
+
 
 /* Basic */
 

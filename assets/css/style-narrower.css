@@ -1,12 +1,45 @@
-/*
-	Alpha by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Header */
-header.alt { /* don't show nav bar if triple-line nav button is there*/
+header.alt { /* hide desktop nav links if nav menu button is visible*/
     display: none;
+}
+
+div.main-contents-area{
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+}
+
+h2.taiwanese-american {
+    padding-top: 5%;
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.professionals {
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.location{
+    font-size: 1.25em;
+    font-style: italic;
+    line-height: 1.5em;
+    letter-spacing: 0.15em;
+    color: white;
+    margin-bottom: 8vw; /*13%*/
+}
+
+/* Table */
+
+table.index-team tr.index-team-tags td{
+    font-size: 1.5vw;
+    line-height: 2vw;
 }
 
 /* Basic */
@@ -17,16 +50,6 @@ header.alt { /* don't show nav bar if triple-line nav button is there*/
 
 	h2 br, h3 br, h4 br, h5 br, h6 br {
 		display: none;
-	}
-
-	h2.organization {
-	    padding-top: 5%;
-	    font-size: 2em;
-	    font-weight: bold;
-	    line-height: 1.5em;
-	    letter-spacing: 0.5em;
-	    color: white;
-	    text-shadow: 1px 1px 15px #888888;
 	}
 
 /* Section/Article */

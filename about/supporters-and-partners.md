@@ -34,13 +34,13 @@ permalink: /about/supporters-and-partners
 <div>
   <p>
     <a href="http://www.neacp.com/home.html">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/neacp-logo.png"/></a></p>
+      <img class="partner-logo-low-res" src="/assets/images/supporters-and-partners-images/neacp-logo.png"/></a></p>
   <p><b>New England Association of Chinese Professionals</b>, known as NEACP, is a non-profit organization that aims to create a platform for professionals from Taiwan, Hong Kong, China and the US to actively converse, share and exchange opinions in schools of both science and liberal arts. By generating an intersection between science and liberal arts, NEACP wishes to encourage the communication between these four regions academically, scientifically, technically, socially and culturally.</p></div><br/>
 
 <div>
   <p>
     <a href="http://www.erc-group.com.tw/front/bin/home.phtml">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/erc-group-logo.png"/></a></p>
+      <img class="partner-logo-low-res" src="/assets/images/supporters-and-partners-images/erc-group-logo.png"/></a></p>
   <p><b>ERC Group/達永:</b> 基於對土地的熱愛，對建築的夢想，堅持向下紮根，向上成長的信念，除了用心灌溉，更不斷開發新技術，力求精緻完美，在建築裡尋找每一種可能，不達理想絕不鬆手。</p></div><hr>
 
 <h3 class="sponsor-tier">Bronze</h3>
