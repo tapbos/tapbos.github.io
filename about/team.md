@@ -3,7 +3,7 @@ title: Team
 layout: default-no-bg
 permalink: /about/team
 ---
-
+<div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
 
@@ -117,3 +117,4 @@ permalink: /about/team
     </td>
   </tr>
 </table>
+</div>

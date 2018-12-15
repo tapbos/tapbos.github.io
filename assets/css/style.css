@@ -14,12 +14,12 @@
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #777; /*main text color*/
 		font-family: 'Karla', sans-serif;
-		font-size: 16pt;
-		font-weight: 300;
+		font-size: 16pt; /* doesn't work */
+		font-weight: 300; /*main text boldness*/
 		line-height: 1.65em;
-		letter-spacing: -0.015em;
+		letter-spacing: -0.015em; /*main text letter spacing*/
 	}
 
 	a {
@@ -50,8 +50,19 @@
 	    font-style: italic;
 	}
 
+	div.main-contents-area{
+	    margin: auto;
+	    width: 70%;
+	    padding: 10px;
+	}
+
 	p {
 	    margin: 0 0 2em 0;
+	}
+
+	p.index-mission{
+	    margin: 0 0 2em 0;
+	    text-align: center;
 	}
 
 	p.independent-sponsor{
@@ -632,13 +643,7 @@
 /* Image */
 
 			img.index-team{
-			    width: 150px;
-			    height: auto;
-			}
-
-			
-			img.sponsor-logo{ /*using this class makes the image magically disappear. use overview-map instead.*/
-			    max-width: 100%;
+			    width: 9vw;
 			    height: auto;
 			}
 
@@ -646,7 +651,35 @@
 			    display: block;
 			    margin-left: auto;
 			    margin-right: auto;
-			    max-width: 100%;
+			    /*max-width: 100%;*/
+			    width: 12vw;
+			    height: auto;
+			}
+
+			img.edge-workshop{
+			    width: 80%;
+			    height: auto;
+			    padding-top: 1em;
+			    padding-bottom: 1em;
+			    text-align: center;
+			    margin-left: auto;
+			    margin-right: auto;
+			    display: block;
+			}
+			
+			img.partner-logo{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
+			    width: 50%;
+			    height: auto;
+			}
+
+			img.partner-logo-square{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
+			    width: 20%;
 			    height: auto;
 			}
 
@@ -654,7 +687,7 @@
 			    display: block;
 			    margin-left: auto;
 			    margin-right: auto;
-			    max-width: 100%;
+			    width: 100%;
 			    height: auto;
 			}
 
@@ -862,9 +895,13 @@
 	    margin-bottom: 20px;
 	}
 
+	table.index-team tr.index-team-tags td{
+	    font-size: 1vw;
+	}
+
 	table.team {
 	    margin: auto;
-	    width: 75%;
+	    width: 100%;
 	}
 
 	table.team tr td.team-left{
@@ -933,7 +970,7 @@
 /* Button */
 
 			button.index-learn-more{
-			    background-color: #179e85;
+			    background-color: #179E85;
 			    border: none;
 			    color: white;
 			    width: 150px;

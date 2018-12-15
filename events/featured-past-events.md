@@ -3,7 +3,7 @@ title: Featured Past Events
 layout:	default-no-bg
 permalink: /events/featured-past-events
 ---
-
+<div class="main-contents-area">
 {%- if site.posts.size > 0 -%}
 <h3 class="post-list-heading no-bg">{{ page.list_title | default: page.title }}</h3>
 <ul class="post-list">
@@ -23,4 +23,4 @@ permalink: /events/featured-past-events
 								    {%- endfor -%}
 								    </ul>
 								    {%- endif -%}
-								    
+								    </div>

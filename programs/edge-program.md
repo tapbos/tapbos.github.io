@@ -3,12 +3,12 @@ title: EDGE Program
 layout: default-no-bg
 permalink: /programs/edge-program
 ---
-
+<div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
+<img class="edge-workshop" src="{{ site.baseurl }}/assets/images/programs-images/edge-workshop.jpg"/><br/>
+<b>TAP EDGE</b> provides a forum for college students to engage with successful young professionals in their field. Our goal is not to replace your university career center; rather, it is to offer the deep relationships and insider knowledge that they cannot otherwise have. A quality mentor is among the rarest and most valuable assets a college student can have. TAP is proud to help provide this for our community.
 
-TAP EDGE provides a forum for college students to engage with successful young professionals in their field. Our goal is not to replace your university career center; rather, it is to offer the deep relationships and insider knowledge that they cannot otherwise have. A quality mentor is among the rarest and most valuable assets a college student can have. TAP is proud to help provide this for our community.
-
-***
+<hr>
 
 <div class="ezcol ezcol-one-half">
   <h3>
@@ -40,7 +40,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
 					      </ul>
 					      </div>
 
-***
+<hr>
 
 <div class="ezcol ezcol-one-half ezcol-last">
   <h3>
@@ -72,7 +72,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
 					      </ul>
 					      </div>
 
-***
+<hr>
 
 <div class="ezcol-divider">
 </div>
@@ -96,6 +96,7 @@ TAP EDGE provides a forum for college students to engage with successful young p
 <div class="ezcol-divider">
 </div>
 
-## Questions?
+<h2>Questions?</h2>
 
 Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <karen.lin@tap-boston.org> and <vanessa.chiang@tap-boston.org>.
+</div>

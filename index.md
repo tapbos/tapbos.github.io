@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="main-contents-area">
 <center>
   <h2 class="taiwanese-american">TAIWANESE AMERICAN</h2>
   <h2 class="professionals">PROFESSIONALS</h2>
@@ -10,16 +11,14 @@ layout: default
 </center>
 
 <center>
-  <h3><b>Our Mission</b></h3>
+  <h3>Our Mission</h3>
 </center>
 
-<p align="center">
-TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage<br/>
-to develop as leaders and to serve Greater Boston. We provide a supportive environment where<br/>
-members can reflect, grow, and build meaningful relationships.
+<p class="index-mission">
+TAP-Boston is a springboard for driven and passionate individuals interested in Taiwanese heritage to develop as leaders and to serve Greater Boston. We provide a supportive environment where members can reflect, grow, and build meaningful relationships.
 </p>
 
-<p align="center">
+<p class="index-mission">
 We are driven by the ideals of continuous self-improvement and the moral obligation to help others.
 </p>
 
@@ -37,10 +36,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     <td><a href="{{ site.baseurl }}/about/team/#team-ted-bang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/></a></td>
     <td><a href="{{ site.baseurl }}/about/team/#team-mike-li"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/></a></td>
   </tr>
-  <tr>
+  <tr class="index-team-tags">
     <td><b>Li-Ming Tseng</b><br/>President</td>
     <td><b>Lloyd Liang</b><br/>Vice President</td>
-    <td><b>Vanessa Chiang</b><br/>Vice President, Mentorship Chair</td>
+    <td><b>Vanessa Chiang</b><br/>VP, Mentorship Chair</td>
     <td><b>Ted Bang</b><br/>Professional Development Chair</td>
     <td><b>Mike Li</b><br/>Community Development Chair</td>
   </tr>
@@ -50,7 +49,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <a class="index-team-view-all" href="{{ site.baseurl }}/about/team">View all</a>
 </center>
 
-***
+<hr>
 
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
@@ -61,7 +60,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   </a>
 </center>
 
-***
+<hr>
 
 <center>
   <h3>Support Us</h3>
@@ -70,3 +69,4 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
       <button class="donate-button"></button>
     </a>
 </center>
+</div>

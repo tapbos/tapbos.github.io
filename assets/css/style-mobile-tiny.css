@@ -14,6 +14,12 @@
 	    color: white;
 	}
 
+	div.main-contents-area{
+	    margin: auto;
+	    width: 90%;
+	    padding: 10px;
+	}
+
 	/*button*/
 	button.index-learn-more{
 	    margin-bottom: 50px;

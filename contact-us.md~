@@ -1,7 +1,0 @@
----
-title: Contact
-layout: default-no-bg
-permalink: /contact
----
-
-{{ page.title }}
