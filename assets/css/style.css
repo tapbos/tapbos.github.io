@@ -671,6 +671,14 @@
 			    display: block;
 			    margin-left: auto;
 			    margin-right: auto;
+			    width: 65%;
+			    height: auto;
+			}
+
+			img.partner-logo-low-res{
+			    display: block;
+			    margin-left: auto;
+			    margin-right: auto;
 			    width: 50%;
 			    height: auto;
 			}
@@ -685,8 +693,10 @@
 
 			img.overview-map{
 			    display: block;
+			    margin-top: 20px;
 			    margin-left: auto;
 			    margin-right: auto;
+			    margin-bottom: 20px;
 			    width: 100%;
 			    height: auto;
 			}
@@ -914,6 +924,10 @@
 	table.team tr td.team-right{
 	    width: 70%;
 	    vertical-align: top;
+	}
+
+	table.overview-chapters{
+	    width: 75%;
 	}
 
 	table tbody tr {

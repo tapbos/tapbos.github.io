@@ -1,0 +1,80 @@
+div.main-contents-area{
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+}
+
+h2.taiwanese-american {
+    padding-top: 7.5%;
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.professionals {
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1.5em;
+    letter-spacing: 0.5em;
+    color: white;
+}
+
+h2.location{
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.5em;
+    letter-spacing: 0.15em;
+    color: white;
+    margin-bottom: 13%;
+}
+
+/* Image */
+img.index-team{
+    width: 12vw;
+    height: auto;
+}
+
+
+/* Button */
+
+button.index-learn-more{
+    background-color: #179E85;
+    border: none;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 16px;
+    text-align: center;
+    text-style: bold;
+    margin-bottom: 100px;
+    transition: width 0.3s, background-color 0.3s;
+}
+
+button.index-learn-more:hover{
+    background-color: #22b79c;
+    cursor: pointer;
+    width: 175px;
+}
+
+/* Table */
+
+table.index-team tr.index-team-tags td{
+    font-size: 1.3vw;
+    line-height: 2vw;
+}
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 13pt;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 10em 0 18em 0;
+	}
