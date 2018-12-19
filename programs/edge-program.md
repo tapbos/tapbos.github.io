@@ -98,5 +98,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <karen.lin@tap-boston.org> and <vanessa.chiang@tap-boston.org>.
+Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <a>karen.lin@tap-boston.org</a> and <a>vanessa.chiang@tap-boston.org</a>
 </div>
