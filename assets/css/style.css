@@ -701,6 +701,17 @@
 			    height: auto;
 			}
 
+			img.overview-tap-logo{
+			    width: 20%;
+			    height: auto;
+			    padding-top: 1em;
+			    padding-bottom: 1em;
+			    text-align: center;
+			    margin-left: auto;
+			    margin-right: auto;
+			    display: block;
+			}
+			
 			img.nav-tap-logo{
 			    padding: 10px;
 			    width: 54px;

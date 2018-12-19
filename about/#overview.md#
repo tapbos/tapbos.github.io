@@ -6,7 +6,14 @@ permalink: /about/overview
 
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
-<img class="overview-tap-logo" src="/assets/images/overview-images/tap-logo.png"/><br/>
+width: 80%;
+		    height: auto;
+		                                padding-top: 1em;
+						                            padding-bottom: 1em;
+									                                text-align: center;
+																    margin-left: auto;
+																                                margin-right: auto;
+																				                            display: blo
 Founded in 2012, Taiwanese American Professionals (TAP)-Boston is a chapter of the largest network of young Taiwanese American professionals in the United States. TAP chapters serve as the official chapters of the <a href="http://www.tacl.org/">Taiwanese American Citizens League</a> (TACL), representing the voice and leadership of TACL in each region of the country.<br/><br/>
 
 <h3>Mission Statement</h3>
