@@ -1194,8 +1194,8 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header { /*controls desktop nav bar*/
-		background: #444;
-		color: #bbb;
+		background: #444; /*drop down nav bar bg color*/
+		color: #bbb; /*changes nothing*/
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -1218,7 +1218,7 @@
 		}
 
 			#header h1 a {
-				color: #fff; /*fff*/
+				color: #fff;
 				font-weight: 400;
 				border: 0;
 			}
@@ -1241,6 +1241,7 @@
 				#header nav > ul > li {
 					display: inline-block;
 					padding-left: 0;
+					
 				}
 
 					#header nav > ul > li > ul {
@@ -1256,10 +1257,18 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #fff; /*normal nav text color*/
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
+					}
+
+					#header nav > ul > #nav-bar-subscribe a:not(.button){
+					    color: #ffffff;
+					    display: inline-block;
+					    background: #fa8072;
+					    font-weight: 800;
+					    border: 2px solid #fa8072;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
@@ -1271,7 +1280,7 @@
 						margin-left: 0;
 					}
 
-					#header nav > ul > li.active a:not(.button) {
+					#header nav > ul > li.active a:not(.button) { /*scrolldown nav bar's highlighted box color*/
 						background-color: rgba(153, 153, 153, 0.25);
 					}
 
@@ -1286,7 +1295,7 @@
 		#header .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #999;
-			color: #fff;
+			color: #ffff00; /*fff*/
 		}
 
 			#header input[type="submit"]:hover,
@@ -1394,7 +1403,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #c3dfd9;
+                                background: #c3dfd9; /*changes nothing*/
 			}
 
 		.dropotron.level-0 {
@@ -1641,7 +1650,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #c3dfd9;
+				background: #c3dfd9; /*changes for both original and scrolldown nav bar*/
 			}
 
 		.dropotron.level-0 {
