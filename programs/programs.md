@@ -6,7 +6,7 @@ permalink: /programs/tap-programs
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
-  <hr id="programs-professional-development">
+  <hr id="professional-development">
 
   <h3>Professional Development</h3>
   <p>	       
