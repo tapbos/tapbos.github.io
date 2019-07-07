@@ -6,9 +6,9 @@ permalink: /programs/programs
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
-  <hr id="professional-development">
+  <hr>
 
-  <h3>Professional Development</h3>
+  <h3 id="professional-development">Professional Development</h3>
   <p>	       
   TAP’s Professional Development program focuses on helping community members develop the knowledge and practical skills needed to succeed in the workplace and life. A variety of workshops on topics such as networking, improv. comedy, goal planning, etc. aim to fulfill the needs of young professionals looking for self development.<br/><br/>
   For more information, contact our Professional Development Chair:<br/>
