@@ -15,7 +15,7 @@ permalink: /programs/tap-programs
   <a href="mailto:ted.bang@tap-boston.org">ted.bang@tap-boston.org</a>
   </p>
 
-  <hr id="programs-social-and-cultural">
+  <hr id="social-and-cultural">
 
   <h3>Social & Cultural Events</h3>
   <p>
@@ -25,7 +25,7 @@ permalink: /programs/tap-programs
   <a href="mailto:jasper.chen@tap-boston.org">jasper.chen@tap-boston.org</a><br/>
   </p>
 
-  <hr id="programs-community-development">
+  <hr id="community-development">
 
   <h3>Community Development</h3>
   <p>
