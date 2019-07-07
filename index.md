@@ -30,11 +30,11 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <table class="index-team">
   <tr>
-    <td><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/></a></td>
-    <td><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/></a></td>
-    <td><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
-    <td><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/></a></td>
-    <td><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-li-ming"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-lloyd-liang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-ted-bang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-mike-li"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Li-Ming Tseng</b><br/>President</td>
