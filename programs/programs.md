@@ -1,21 +1,21 @@
 ---
 title: Programs
 layout: default-no-bg
-permalink: /programs/programs
+permalink: /programs/tap-programs
 ---
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
-  <hr>
+  <hr id="programs-professional-development">
 
-  <h3 id="professional-development">Professional Development</h3>
+  <h3>Professional Development</h3>
   <p>	       
   TAP’s Professional Development program focuses on helping community members develop the knowledge and practical skills needed to succeed in the workplace and life. A variety of workshops on topics such as networking, improv. comedy, goal planning, etc. aim to fulfill the needs of young professionals looking for self development.<br/><br/>
   For more information, contact our Professional Development Chair:<br/>
   <a href="mailto:ted.bang@tap-boston.org">ted.bang@tap-boston.org</a>
   </p>
 
-  <hr id="social-and-cultural">
+  <hr id="programs-social-and-cultural">
 
   <h3>Social & Cultural Events</h3>
   <p>
@@ -25,7 +25,7 @@ permalink: /programs/programs
   <a href="mailto:jasper.chen@tap-boston.org">jasper.chen@tap-boston.org</a><br/>
   </p>
 
-  <hr id="community-development">
+  <hr id="programs-community-development">
 
   <h3>Community Development</h3>
   <p>
