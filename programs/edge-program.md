@@ -23,10 +23,6 @@ permalink: /programs/edge-program
       Our mentees are motivated undergraduates from local Boston universities. For the fifth year, TAP is partnering with the <a href="http://itasa.org" target="_blank">Intercollegiate Taiwanese American Students Association</a> (ITASA) to identify engaged mentees for the program.
         </p>
 
-  <h3>
-      Benefits to Mentees
-        </h3>
-
   <ul>
       <li>
             <strong>Career insight</strong> &#8211; Get a behind-the-scenes look at life in your field
@@ -54,10 +50,6 @@ permalink: /programs/edge-program
   <p>
       Our mentors are accomplished young professionals and graduate students in the TAP network who survived the journey from college into their post-graduate dreams and want an opportunity to pay it forward.
         </p>
-
-  <h3>
-      Benefits to Mentors
-        </h3>
 
   <ul>
       <li>

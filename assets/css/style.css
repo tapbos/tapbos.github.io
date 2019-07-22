@@ -1263,7 +1263,7 @@
 						border: 0;
 					}
 
-					#header nav > ul > #nav-bar-subscribe a:not(.button){
+					#header nav > ul > #nav-bar-subscribe a:not(.button){ /* top right pink subscribe button */
 					    color: #ffffff;
 					    display: inline-block;
 					    background: #fa8072;
@@ -1511,11 +1511,20 @@
 						border-radius: 6px; /*6px*/
 					}
 
+					/*
 					#header-dark nav > ul > li a:not(.button) {
 						color: #555555;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
+					}*/
+
+					#header-dark nav > ul > #nav-bar-subscribe a:not(.button) { /*pink top right subscribe button*/
+						color: #ffffff;
+						display: inline-block;
+						background: #fa8072;
+						font-weight: 800;
+						border: 2px solid #fa8072;
 					}
 
 						#header-dark nav > ul > li a:not(.button).icon:before {
