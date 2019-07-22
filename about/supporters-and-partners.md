@@ -5,7 +5,7 @@ permalink: /about/supporters-and-partners
 ---
 
 <div class="main-contents-area">
-<h3 class="no-bg">{{ page.title }}</h3><br/>
+<h3 class="no-bg">{{ page.title }}</h3><br/><br/>
 
 <div>
   <p>
