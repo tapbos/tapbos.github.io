@@ -1,5 +1,6 @@
 ---
 layout: default
+title: TAP-Boston
 ---
 
 <div class="main-contents-area">
