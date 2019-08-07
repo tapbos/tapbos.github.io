@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  Mentors & Mentees: Application due September 30, 2018 Midnight
+  <strong>Mentors & Mentees:</strong> Application due date for EDGE 2019-2020 to be determined.
   </p>
 </div>
 
@@ -81,7 +81,7 @@ permalink: /programs/edge-program
   <h2><strong>Sign Up</strong></h2>
 
   <p>
-  <strong>Mentors:</strong> Please fill out the application form <a href="https://tinyurl.com/edgementor1819">here</a>!<br/><strong>Mentees:</strong> Please fill out the application form <a href="https://tinyurl.com/edgementee1819">here</a>!
+  <strong>Mentors:</strong> The 2019-2020 application period has not begun.<br/><strong>Mentees:</strong> The 2019-2020 application period has not begun.
   </p>
 </div>
 
