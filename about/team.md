@@ -39,7 +39,7 @@ permalink: /about/team
     <td class="team-left"><img class="team-image" id="team-evaline-ju" src="{{ site.baseurl }}/assets/images/team-images/team-evaline-ju.png"/><br/>
       <b>Evaline Ju</b><br/>Treasurer</td>
     <td class="team-right"><b>Occupation:</b> Software Engineer<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> Family and dood<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> Family and food<br/><br/>
 	<b>Hobbies:</b> Tennis, reading, occasional rock climbing<br/><br/>
 	<b>Why TAP:</b> TAP has been a welcoming community since I first moved to the Boston area, and I’d like to help others find their community as well.<br/><br/>
     </td>
