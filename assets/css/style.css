@@ -925,16 +925,34 @@
 	    width: 100%;
 	}
 
+	table.team tr{
+	    border: solid;
+	    border-width: 1px 0;
+	    border-color: #cccccc
+	}
+
+	table.team tr:first-child{
+	    border-top: none;
+	}
+
+	table.team tr:last-child{
+	    border-bottom: none;
+	}
+	 
 	table.team tr td.team-left{
 	    width: 30%;
 	    font-style: strong;
 	    vertical-align: top;
 	    text-align: center;
+	    padding-top: 40px;
+	    padding-bottom: 20px;
 	}
 	
 	table.team tr td.team-right{
 	    width: 70%;
 	    vertical-align: top;
+	    padding-top: 40px;
+	    padding-bottom:20px
 	}
 
 	table.overview-chapters{
@@ -945,106 +963,106 @@
 	    border: hidden;
 	}
 
-		table td {
-		    padding: 0.75em 0.75em;
-		}
+	table td {
+	    padding: 0.75em 0.75em;
+	}
+	
+	table th {
+	    color: #646464;
+	    font-size: 0.9em;
+	    font-weight: 300;
+	    padding: 0 0.75em 0.75em 0.75em;
+	    text-align: left;
+	}
 
-		table th {
-			color: #646464;
-			font-size: 0.9em;
-			font-weight: 300;
-			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
-		}
+	table thead {
+	    border-bottom: solid 2px #e5e5e5;
+	}
 
-		table thead {
-			border-bottom: solid 2px #e5e5e5;
-		}
+	table tfoot {
+	    border-top: solid 2px #e5e5e5;
+	}
 
-		table tfoot {
-			border-top: solid 2px #e5e5e5;
-		}
+	table.alt {
+	    border-collapse: separate;
+	}
 
-		table.alt {
-			border-collapse: separate;
-		}
+	table.alt tbody tr td {
+	    border: solid 1px #e5e5e5;
+	    border-left-width: 0;
+	    border-top-width: 0;
+	}
 
-			table.alt tbody tr td {
-				border: solid 1px #e5e5e5;
-				border-left-width: 0;
-				border-top-width: 0;
-			}
+	table.alt tbody tr td:first-child {
+	    border-left-width: 1px;
+	}
 
-				table.alt tbody tr td:first-child {
-					border-left-width: 1px;
-				}
+	table.alt tbody tr:first-child td {
+	    border-top-width: 1px;
+	}
 
-			table.alt tbody tr:first-child td {
-				border-top-width: 1px;
-			}
+	table.alt thead {
+	    border-bottom: 0;
+	}
 
-			table.alt thead {
-				border-bottom: 0;
-			}
+	table.alt tfoot {
+	    border-top: 0;
+	}
 
-			table.alt tfoot {
-				border-top: 0;
-			}
+	
+	/* Button */
 
-			
-/* Button */
+	button.index-learn-more{
+	    background-color: #179E85;
+	    border: none;
+	    color: white;
+	    width: 150px;
+	    height: 30px;
+	    font-size: 16px;
+	    font-weight: bold;
+	    border-radius: 16px;
+	    text-align: center;
+	    text-style: bold;
+	    margin-bottom: 100px;
+	    transition: width 0.3s, background-color 0.3s;
+	}
 
-			button.index-learn-more{
-			    background-color: #179E85;
-			    border: none;
-			    color: white;
-			    width: 150px;
-			    height: 30px;
-			    font-size: 16px;
-			    font-weight: bold;
-			    border-radius: 16px;
-			    text-align: center;
-			    text-style: bold;
-			    margin-bottom: 100px;
-			    transition: width 0.3s, background-color 0.3s;
-			}
-
-			button.index-learn-more:hover{
-			    background-color: #22b79c;
-			    cursor: pointer;
-			    width: 175px;
-			}
-			
-			.donate-button {
-			    border: none;
-			    outline: none;
-			    cursor: pointer;
-			    background: url('../images/donate-button-sprite.png') no-repeat top;
-			    width: 250px;
-			    height: 90px;
-			}
-			
-			.donate-button:hover {
-			    background-position: 0 -90px;
-			}
-			
+	button.index-learn-more:hover{
+	    background-color: #22b79c;
+	    cursor: pointer;
+	    width: 175px;
+	}
+	
+	.donate-button {
+	    border: none;
+	    outline: none;
+	    cursor: pointer;
+	    background: url('../images/donate-button-sprite.png') no-repeat top;
+	    width: 250px;
+	    height: 90px;
+	}
+	
+	.donate-button:hover {
+	    background-position: 0 -90px;
+	}
+	
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
 	.button {
-		-moz-appearance: none;
-		-webkit-appearance: none;
-		-o-appearance: none;
-		-ms-appearance: none;
-		appearance: none;
-		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #666;
-		border-radius: 6px;
-		border: 0;
+	    -moz-appearance: none;
+	    -webkit-appearance: none;
+	    -o-appearance: none;
+	    -ms-appearance: none;
+	    appearance: none;
+	    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	    -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	    background-color: #666;
+	    border-radius: 6px;
+	    border: 0;
 		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;

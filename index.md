@@ -31,18 +31,18 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <table class="index-team">
   <tr>
-    <td><a href="{{ site.baseurl}}/about/team#team-li-ming"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-li-ming-tseng.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-lloyd-liang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-lloyd-liang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-karen-lin"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-joe-wong"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-joe-wong.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-claire-peng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-ted-bang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ted-bang.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-mike-li"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mike-li.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-erica-yang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-erica-yang.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
-    <td><b>Li-Ming Tseng</b><br/>President</td>
-    <td><b>Lloyd Liang</b><br/>Vice President</td>
-    <td><b>Vanessa Chiang</b><br/>VP, Mentorship Chair</td>
-    <td><b>Ted Bang</b><br/>Professional Development Chair</td>
-    <td><b>Mike Li</b><br/>Community Development Chair</td>
+    <td><b>Karen Lin</b><br/>Co-President</td>
+    <td><b>Joe Wong</b><br/>Co-President</td>
+    <td><b>Claire Peng</b><br/>VP, Mentorship Chair</td>
+    <td><b>Vanessa Chiang</b><br/>Secretary</td>
+    <td><b>Erica Yang</b><br/>Professional Development Chair</td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <center>
   <h3>Support Us</h3>
-  Your contributions are funneled back into the community through events and programs.<br/><br/>
+  Your contributions are funneled back into the community through events and programs. Visit our <a href="https://www.facebook.com/TAP.BOS/?ref=br_rs">Facebook</a> page and <a href="https://www.instagram.com/tap_bos/">Instagram</a> to see what we do!<br/><br/>
     <a href="https://www.paypal.me/tapbos">
       <button class="donate-button"></button>
     </a>
