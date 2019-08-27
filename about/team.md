@@ -104,7 +104,7 @@ permalink: /about/team
     <td class="team-right"><b>Occupation:</b> Statistician, Frontier Science<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Eating Taiwanese shaved ice! Also, I admire people's recycling knowledge, so as their respectful social etiquette with the elderly.<br/><br/>
 	<b>Hobbies:</b> Jogging along the Charles River, reading, and yoga.<br/><br/>
-	<b>Why TAP:</b> I was raised in many different states/countries and thus, many cultural influences. I used to see this as a an obstacle that would prevent me from becoming a confident Taiwanese American/Taiwanese Canadian woman. However, over the past few years, I met many inspiring people here in Boston and they all encouraged me to embrace my cultural roots and serve in the local communities as much as I can. So, now, I am motivated to contribute to the community I can relate to the most - TAP Boston.<br/><br/>
+	<b>Why TAP:</b> I met many inspiring Asian American professionals/leaders here in Boston. They volunteer and support the local Asian communities in all aspects (e.g. food, health, children and youth). What they have been doing motivates me to contribute as well. I found out about TAP-Boston and realized the opportunity to serve the local community (with fun and friendly new friends).<br/><br/>
     </td>
   </tr>
   <tr>
