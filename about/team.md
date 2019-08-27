@@ -22,7 +22,7 @@ permalink: /about/team
       <b>Joe Wong</b><br/>Co-President</td>
     <td class="team-right"><b>Occupation:</b> Software Engineering<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> Did you know that Bubble tea was invented in Taiwan in the 80s? I had no idea until I joined TAP! I love the culture of niceness, and delicious food.<br/><br/>
-	<b>Hobbies:</b> Tennis, hiking developing new apps, and the occasional foray into cooking something new.<br/><br/>
+	<b>Hobbies:</b> Tennis, hiking, developing new apps, and the occasional foray into cooking something new.<br/><br/>
 	<b>Why TAP:</b> I'm amazed at how friendly and genuine the TAP community is! I want to continue the growth of TAP Boston as a welcoming and inclusive community.<br/><br/>
     </td>
   </tr>
@@ -30,7 +30,7 @@ permalink: /about/team
     <td class="team-left"><img class="team-image" id="team-claire-peng" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/><br/>
       <b>Claire Peng</b><br/>Vice President & EDGE Mentorship Co-Chair</td>
     <td class="team-right"><b>Occupation:</b> Strategy Analyst @ Accenture Strategy<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> The convenience of public transportation and the beauty of Taipei city. And the cheap and delicious food!<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> The convenience of public transportation, the beauty of Taipei city, and the cheap/delicious food!<br/><br/>
 	<b>Hobbies:</b> Traveling, working out, eating, exploring the city<br/><br/>
 	<b>Why TAP:</b> To help build this inclusive community. To meet new people and make meaningful connections. To connect more with my cultural identity and share experiences with awesome people!<br/><br/>
     </td>
@@ -47,8 +47,9 @@ permalink: /about/team
   <tr>
     <td class="team-left"><img class="team-image" id="team-vanessa-chiang" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/><br/>
       <b>Vanessa Chiang</b><br/>Secretary</td>
-    <td class="team-right"><b>Occupation:</b> Getting to visit family + food<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> Traveling/exploring, eating, spending time with family/friends<br/><br/>
+    <td class="team-right"><b>Occupation:</b> Data Science<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> Getting to visit family + food<br/><br/>
+	<b>Hobbies:</b> Traveling/exploring, eating, spending time with family/friends<br/><br/>
 	<b>Why TAP:</b> TAP is a community that not only is very welcoming and supportive, but it is a community that allows me to grow. I started out as part of the mentorship program and have learned a great deal. Moreover, I’m new to Boston. When I moved to a new city where I didn’t know anyone, TAP was the community that I knew I could seek out and find a new home.<br/><br/>
     </td>
   </tr>
