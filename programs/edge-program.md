@@ -59,7 +59,7 @@ permalink: /programs/edge-program
 		          <strong>Grow your network</strong> &#8211; Meet other successful professionals in your field
 			      </li>
 			          <li>
-				        <strong>Skill development</strong> &#8211; Mentoring is a leadership skill that will serve you in many facets of life
+				        <strong>Skill development</strong> &#8211; Mentoring is a skill that will serve you in many facets of life
 					    </li>
 					      </ul>
 					      </div>
@@ -90,5 +90,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <a>karen.lin@tap-boston.org</a> and <a>vanessa.chiang@tap-boston.org</a>
+Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a> and <a href="mailto:logan.lin@tap-boston.org">logan.lin@tap-boston.org</a>
 </div>
