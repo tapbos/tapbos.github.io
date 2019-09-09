@@ -81,8 +81,8 @@ permalink: /programs/edge-program
   <h2><strong>Sign Up</strong></h2>
 
   <p>
-  <strong>Mentors:</strong> View the mentor application form<a href="http://tinyurl.com/edgementor1920"> here!</a><br/>
-  <strong>Mentees:</strong> View the mentee application form<a href="http://tinyurl.com/edgementee1920"> here!</a>
+  <strong>Mentors:</strong> Click<a href="http://tinyurl.com/edgementor1920"> here</a> to see the mentor application form!<br/>
+  <strong>Mentees:</strong> See the mentee application form<a href="http://tinyurl.com/edgementee1920"> here!</a>
   </p>
 </div>
 
