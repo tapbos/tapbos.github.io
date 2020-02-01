@@ -34,23 +34,23 @@ permalink: /about/supporters-and-partners
 <div>
   <p>
     <a href="https://www.sakurawaltham.com/">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/sakura-waltham-logo.png"/></a></p>
+      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/sakura-waltham-logo.jpg"/></a></p>
       <p><b>Sakura</b> Japanese Restaurant has been serving the best food for years. We only use the finest and freshest ingredients. We also have a full Catering menu for your next party or event. Call us today and let our family be part of your family.</p></div>
 
 <div>
   <p>
     <a href="https://www.sakurawaltham.com/">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/flour-bakery-logo.png"/></a></p>
+      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/flour-bakery-logo.jpg"/></a></p>
       <p><b>Flour Bakery: </b>Crusty, crackling baguettes warm from the steaming oven… buttery, raisin-filled brioche shaped in a swirl and drizzled with sweet icing… silky-smooth chocolate cream pie… lemon curd cakes filled with raspberry preserves… fresh, made-to-order salads and sandwiches. Imagine enjoying a muffin still warm from the oven, made with real butter and fresh seasonal fruit, alongside a cafe latte in an oversized mug.</p></div>
 
 <div>
   <p>
     <a href="https://www.jeanandleekitchen.net/">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/jean-and-lee-kitchen-logo.png"/></a></p>
+      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/jean-and-lee-kitchen-logo.jpg"/></a></p>
       <p><b>Jean and Lee Kitchen: </b>We have been serving high quality Asian cuisine in Newton Upper Falls for many years. A local favorite for Newton Upper Falls residents, customers speak highly of our fresh, authentic dishes and the friendly atmosphere.</p></div>
 
 <div>
   <p>
     <a href="https://www.meimeiboston.com/">
-      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/mei-mei-logo.png"/></a></p>
+      <img class="partner-logo" src="/assets/images/supporters-and-partners-images/mei-mei-logo.jpg"/></a></p>
       <p><b>Mei Mei: </b>We are an award winning, sibling-founded restaurant and food truck catering business serving up creative Chinese-American cuisine made from locally sourced and sustainable ingredients. We are proud to serve humanely raised meat and small farm produce from some of the best producers in New England.</p></div>
