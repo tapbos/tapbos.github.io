@@ -39,7 +39,7 @@ permalink: /about/supporters-and-partners
 
 <div>
   <p>
-    <a href="https://www.sakurawaltham.com/">
+    <a href="https://www.flourbakery.com/">
       <img class="partner-logo" src="/assets/images/supporters-and-partners-images/flour-bakery-logo.jpg"/></a></p>
       <p><b>Flour Bakery: </b>Crusty, crackling baguettes warm from the steaming oven… buttery, raisin-filled brioche shaped in a swirl and drizzled with sweet icing… silky-smooth chocolate cream pie… lemon curd cakes filled with raspberry preserves… fresh, made-to-order salads and sandwiches. Imagine enjoying a muffin still warm from the oven, made with real butter and fresh seasonal fruit, alongside a cafe latte in an oversized mug.</p></div>
 
