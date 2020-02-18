@@ -81,15 +81,6 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" id="team-annie-tsai" src="{{ site.baseurl }}/assets/images/team-images/team-annie-tsai.png"/><br/>
-      <b>Annie Tsai</b><br/>Social/Cultural Chair</td>
-    <td class="team-right"><b>Occupation:</b> Medical Scribe/Assistant at Eye Associates<br/><br/>
-    	<b>Favorite thing about Taiwan/Taiwanese America:</b> Night markets, shaved ice, and friendliness!<br/><br/>
-	<b>Hobbies:</b> Traveling and eating foods from different cultures!<br/><br/>
-	<b>Why TAP:</b> TAP provides the unique opportunity to meet and network with people from different backgrounds with a shared goal and passion for community service and Taiwanese culture.<br/><br/>
-    </td>
-  </tr>
-  <tr>
     <td class="team-left"><img class="team-image" id="team-amy-jin" src="{{ site.baseurl }}/assets/images/team-images/team-amy-jin.png"/><br/>
       <b>Amy Jin</b><br/>Community Development Co-Chair</td>
     <td class="team-right"><b>Occupation:</b> Analyst, Liberty Mutual<br/><br/>
