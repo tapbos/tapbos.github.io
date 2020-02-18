@@ -116,14 +116,5 @@ permalink: /about/team
 	<b>Why TAP:</b> I got tremendous help and support from TAP people when I first moved here from Taipei, Taiwan. I would like to do the same for people coming here to start a new chapter in their lives.<br/><br/>
     </td>
   </tr>
-  <tr>
-    <td class="team-left"><img class="team-image" id="team-logan-lin" src="{{ site.baseurl }}/assets/images/team-images/team-logan-lin.png"/><br/>
-      <b>Logan Lin</b><br/>EDGE Mentorship Co-Chair</td>
-    <td class="team-right"><b>Occupation:</b> Product/UX Designer at Toast<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> Rich cultural influences and a melting pot of different perspectives as well as ethnic backgrounds today<br/><br/>
-	<b>Hobbies:</b> Volleyball, hip hop dance, design thinking<br/><br/>
-	<b>Why TAP:</b> TAP serves as a community outreach to working professionals and younger demographics to keep us to our roots as we navigate our sense of identity in the U.S today.<br/><br/>
-    </td>
-  </tr>
 </table>
 </div>

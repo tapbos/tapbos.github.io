@@ -91,5 +91,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or e-mail the EDGE and Mentor chairs at <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a> and <a href="mailto:logan.lin@tap-boston.org">logan.lin@tap-boston.org</a>
+Get in touch with us! Find us at our events or e-mail the Mentorship chair at <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a>
 </div>
