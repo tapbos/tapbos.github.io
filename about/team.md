@@ -107,5 +107,14 @@ permalink: /about/team
 	<b>Why TAP:</b> I got tremendous help and support from TAP people when I first moved here from Taipei, Taiwan. I would like to do the same for people coming here to start a new chapter in their lives.<br/><br/>
     </td>
   </tr>
+  <tr>
+    <td class="team-left"><img class="team-image" id="team-belle-lee" src="{{ site.baseurl }}/assets/images/team-images/team-belle-lee.png"/><br/>
+      <b>Belle Lee</b><br/>Census Chair</td>
+    <td class="team-right"><b>Occupation:</b> Higher Ed Administration<br/><br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> The people and the food!<br/><br/>
+	<b>Hobbies:</b> Scouting out new restaurants, reading, bullet journaling, knitting<br/><br/>
+	<b>Why TAP:</b> I want to help foster a sense of community, find ways to give back to Boston, and share the amazing aspects of Taiwanese culture!<br/><br/>
+    </td>
+  </tr>
 </table>
 </div>
