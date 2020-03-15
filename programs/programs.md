@@ -20,9 +20,7 @@ permalink: /programs/tap-programs
   <h3>Social & Cultural Events</h3>
   <p>
   Through events such as our TAPpy Hours, cultural celebrations, and health and wellness events, we help to create and maintain meaningful relationships. In addition, our Dinner Series brings individuals together to explore Boston’s food scene and to learn how to cook traditional Taiwanese dishes.<br/><br/>
-  To get in touch, contact our Social and Cultural Chairs:<br/>
-  <a href="mailto:alex.wu@tap-boston.org">alex.wu@tap-boston.org</a><br/>
-  <a href="mailto:annie.tsai@tap-boston.org">annie.tsai@tap-boston.org</a><br/>
+  To get in touch, contact our Social Chair <a href="mailto:alex.wu@tap-boston.org">alex.wu@tap-boston.org</a><br/>
   </p>
 
   <hr id="community-development">

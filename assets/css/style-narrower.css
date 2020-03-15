@@ -9,6 +9,20 @@ div.main-contents-area{
     padding: 10px;
 }
 
+h3.coronavirus-warning {
+    overflow-x:hidden;
+    font-size: 0.9em;
+    font-color: #000000;
+    font-weight: bold;
+    background-color: #ffe066;
+    text-align: center;
+    position: absolute;
+    margin: -2em -9999rem;
+    padding: 0em 9999rem;
+    left: 15%;
+    right: 15%;
+}
+
 h2.taiwanese-american {
     padding-top: 5%;
     font-size: 1.8em;

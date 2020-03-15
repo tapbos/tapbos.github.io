@@ -3,6 +3,8 @@ layout: default
 title: TAP-Boston
 ---
 
+<h3 class="coronavirus-warning"><span>In light of the COVID-19 outbreak, TAP-Boston will be postponing all events at this time. We understand the need for caution and will continue to monitor this evolving situation.</span></h3>
+
 <div class="main-contents-area">
 <center>
   <h2 class="taiwanese-american">TAIWANESE AMERICAN</h2>
