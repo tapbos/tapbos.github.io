@@ -3,7 +3,9 @@ layout: default
 title: TAP-Boston
 ---
 
+<!--
 <h3 class="coronavirus-warning"><span>In light of the COVID-19 outbreak, TAP-Boston will be postponing all events at this time. We understand the need for caution and will continue to monitor this evolving situation. <a href="https://docs.google.com/document/d/16dTHqP8pVIvrh20nYVxOAtSKhk1TLIosnabOK2GcqNM/edit?mc_cid=76561f47ec&mc_eid=3f66563850">Click here</a> to see how you can help the community!</span></h3>
+-->
 
 <div class="main-contents-area">
 <center>
