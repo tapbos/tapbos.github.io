@@ -680,6 +680,17 @@
 			    margin-right: auto;
 			    display: block;
 			}
+
+			img.black-lives-matter{
+			    width: 80%;
+			    height: auto;
+			    padding-top: 1em;
+			    padding-bottom: 1em;
+			    text-align: center;
+			    margin-left: auto;
+			    margin-right: auto;
+			    display: block;
+			}
 			
 			img.partner-logo{
 			    display: block;
