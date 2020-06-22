@@ -3,14 +3,12 @@ title: Black Lives Matter
 layout: default-no-bg
 permalink: /resources/black-lives-matter
 ---
-
 <div class="main-contents-area">
 <h3 class="no-bg"></h3>
+<img class="black-lives-matter" src="{{ site.baseurl }}/assets/images/resources-images/black-lives-matter.png"/><br/>
 
-<img class="black-lives-matter" src="{{ site.baseurl }}/assets/images/resources-images/black-lives-matter.png"/>
-
-<center>
-<b>Taiwanese American Professionals (TAP) - Boston</b> stands in solidarity with the Black communities of America. We are heartbroken by the death of George Floyd, Breonna Taylor, Ahmaud Arbery, and many more. We recognize that racism, discrimination and police brutality are serious problems in the United States. Like thousands of our fellow countrymen who are exercising their First Amendment rights to peaceful protests on the streets all across the nation, we are angry that these problems continue to plague our nation.
+<div class"ezcol ezcol-one-half">
+  <center><p><b>Taiwanese American Professionals (TAP) - Boston</b> stands in solidarity with the Black communities of America. We are heartbroken by the death of George Floyd, Breonna Taylor, Ahmaud Arbery, and many more. We recognize that racism, discrimination and police brutality are serious problems in the United States. Like thousands of our fellow countrymen who are exercising their First Amendment rights to peaceful protests on the streets all across the nation, we are angry that these problems continue to plague our nation.
 
 TAP-Boston is driven by the ideals of continuous self-improvement and the moral obligation to help others. The current events across the country serve as a reminder of the need for proactive and just leaders. To drive change, we must take action and get involved.
 
@@ -37,5 +35,5 @@ Book recommendations and resources for race, equity, anti-racism, and inclusion 
 
 <a href="https://lettersforblacklives.com/?fbclid=IwAR0hTzY7p-i4vIeED0Um97whTQbWgP0rY5wNGKuL8s68AJbdmTmnnqwsub8">Lettersforblacklives.com</a>
 A multilingual resource to create space for open and honest conversations about racial justice, police violence, and anti-Blackness in our families and communities.
-</center>
+</p></center>
 </div>
