@@ -24,16 +24,16 @@ TAP-Boston will be matching up to $400 in individual donations split evenly to s
 <b>American Civil Liberties Union (ACLU)</b><br/>
 <b>Black Lives Matter Boston Chapter</b><br/><br/>
 
-Please send donations through Venmo @TAP-Boston or PayPal (<a href="https://www.paypal.me/tapbos?fbclid=IwAR1GGFRSwkHvIwrpw6_Hrsd02UYiFOQPPXP703Vcf_6i2aUJPASmZH-KyiA">paypal.me/tapbos</a>) and include your email address as well as “BLM” in the description. We will match your donations and provide receipts if you provide an email. Let’s work together and double the impact!<br/><br/>
+Please send donations through Venmo @TAP-Boston or PayPal (<a href="https://www.paypal.me/tapbos?fbclid=IwAR1GGFRSwkHvIwrpw6_Hrsd02UYiFOQPPXP703Vcf_6i2aUJPASmZH-KyiA" target="_blank">paypal.me/tapbos</a>) and include your email address as well as “BLM” in the description. We will match your donations and provide receipts if you provide an email. Let’s work together and double the impact!<br/><br/>
 
 Here are some additional resources:<br/><br/>
 
-<a href="https://blacklivesmatters.carrd.co/?mc_cid=f8b27fe7da&mc_eid=[UNIQID]">Blacklivesmatters.carrd.co</a><br/><br/>
+<a href="https://blacklivesmatters.carrd.co/?mc_cid=f8b27fe7da&mc_eid=[UNIQID]" target="_blank">Blacklivesmatters.carrd.co</a><br/><br/>
 
-<a href="http://diversebooks.org/resources-for-race-equity-and-inclusion/?fbclid=IwAR13z6H5JDsXgm-eqEiUHEKeXBfVHScpN-HIG66kGMVAl9OQ2QAO71UkrrE&mc_cid=f8b27fe7da&mc_eid=[UNIQID]">Diversebooks.org/resources-for-race-equity-and-inclusion</a><br/>
+<a href="http://diversebooks.org/resources-for-race-equity-and-inclusion/?fbclid=IwAR13z6H5JDsXgm-eqEiUHEKeXBfVHScpN-HIG66kGMVAl9OQ2QAO71UkrrE&mc_cid=f8b27fe7da&mc_eid=[UNIQID]" target="_blank">Diversebooks.org/resources-for-race-equity-and-inclusion</a><br/>
 Book recommendations and resources for race, equity, anti-racism, and inclusion compiled by multiple organizations. We Need Diverse Books is working toward a world in which all children can see themselves in the pages of a book.<br/><br/>
 
-<a href="https://lettersforblacklives.com/?fbclid=IwAR0hTzY7p-i4vIeED0Um97whTQbWgP0rY5wNGKuL8s68AJbdmTmnnqwsub8">Lettersforblacklives.com</a><br/>
+<a href="https://lettersforblacklives.com/?fbclid=IwAR0hTzY7p-i4vIeED0Um97whTQbWgP0rY5wNGKuL8s68AJbdmTmnnqwsub8" target="_blank">Lettersforblacklives.com</a><br/>
 A multilingual resource to create space for open and honest conversations about racial justice, police violence, and anti-Blackness in our families and communities.<br/><br/>
 </p></center>
 </div>
