@@ -8,7 +8,7 @@ permalink: /resources/black-lives-matter
 <!--<h3 class="no-bg">{{ page.title }}</h3>-->
 
 <center>
-<h3><img class="black-lives-matter-image" src="{{ site.baseurl }}/assets/images/resources-images/black-lives-matter.png"/></h3>
+<h3><img src="{{ site.baseurl }}/assets/images/resources-images/black-lives-matter.png"/></h3>
 
 <b>Taiwanese American Professionals (TAP) - Boston</b> stands in solidarity with the Black communities of America. We are heartbroken by the death of George Floyd, Breonna Taylor, Ahmaud Arbery, and many more. We recognize that racism, discrimination and police brutality are serious problems in the United States. Like thousands of our fellow countrymen who are exercising their First Amendment rights to peaceful protests on the streets all across the nation, we are angry that these problems continue to plague our nation.
 
@@ -38,3 +38,4 @@ Book recommendations and resources for race, equity, anti-racism, and inclusion 
 <a href="https://lettersforblacklives.com/?fbclid=IwAR0hTzY7p-i4vIeED0Um97whTQbWgP0rY5wNGKuL8s68AJbdmTmnnqwsub8">Lettersforblacklives.com</a>
 A multilingual resource to create space for open and honest conversations about racial justice, police violence, and anti-Blackness in our families and communities.
 </center>
+</div>
