@@ -7,9 +7,9 @@ permalink: /resources/black-lives-matter
 <div class="main-contents-area">
 <h3 class="no-bg"></h3>
 
-<center>
 <img class="black-lives-matter" src="{{ site.baseurl }}/assets/images/resources-images/black-lives-matter.png"/>
 
+<center>
 <b>Taiwanese American Professionals (TAP) - Boston</b> stands in solidarity with the Black communities of America. We are heartbroken by the death of George Floyd, Breonna Taylor, Ahmaud Arbery, and many more. We recognize that racism, discrimination and police brutality are serious problems in the United States. Like thousands of our fellow countrymen who are exercising their First Amendment rights to peaceful protests on the streets all across the nation, we are angry that these problems continue to plague our nation.
 
 TAP-Boston is driven by the ideals of continuous self-improvement and the moral obligation to help others. The current events across the country serve as a reminder of the need for proactive and just leaders. To drive change, we must take action and get involved.
