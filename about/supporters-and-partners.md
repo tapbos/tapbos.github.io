@@ -29,25 +29,25 @@ permalink: /about/supporters-and-partners
   <p>
     <a href="https://www.firstrepublic.com/">
       <img class="partner-logo" src="/assets/images/supporters-and-partners-images/first-republic-bank-logo.png"/></a></p>
-      <p>Founded in 1985, <b>First Republic</b> and its subsidiaries offer private banking, private business banking and private wealth management, including investment, trust and brokerage services. First Republic specializes in delivering exceptional, relationship-based service and offers a complete line of products, including residential, commercial and personal loans, deposit services, and wealth management. Services are offered through preferred banking or wealth management offices primarily in San Francisco, Palo Alto, Los Angeles, Santa Barbara, Newport Beach and San Diego, California; Portland, Oregon; Boston, Massachusetts; Palm Beach, Florida; Greenwich, Connecticut; New York, New York; and Jackson, Wyoming. First Republic is a constituent of the S&P 500 Index and KBW Nasdaq Bank Index.</p></div>
+      <p>Founded in 1985, <b>First Republic</b> and its subsidiaries offer private banking, private business banking and private wealth management, including investment, trust and brokerage services. First Republic specializes in delivering exceptional, relationship-based service and offers a complete line of products, including residential, commercial and personal loans, deposit services, and wealth management. Services are offered through preferred banking or wealth management offices primarily in San Francisco, Palo Alto, Los Angeles, Santa Barbara, Newport Beach and San Diego, California; Portland, Oregon; Boston, Massachusetts; Palm Beach, Florida; Greenwich, Connecticut; New York, New York; and Jackson, Wyoming. First Republic is a constituent of the S&P 500 Index and KBW Nasdaq Bank Index.</p></div><hr>
 
 <div>
   <p>
     <a href="https://www.sakurawaltham.com/">
       <img class="partner-logo" src="/assets/images/supporters-and-partners-images/sakura-waltham-logo.jpg"/></a></p>
-      <p><b>Sakura</b> Japanese Restaurant has been serving the best food for years. We only use the finest and freshest ingredients. We also have a full Catering menu for your next party or event. Call us today and let our family be part of your family.</p></div>
+      <p><b>Sakura</b> Japanese Restaurant has been serving the best food for years. We only use the finest and freshest ingredients. We also have a full Catering menu for your next party or event. Call us today and let our family be part of your family.</p></div><hr>
 
 <div>
   <p>
     <a href="https://www.flourbakery.com/">
       <img class="partner-logo" src="/assets/images/supporters-and-partners-images/flour-bakery-logo.jpg"/></a></p>
-      <p><b>Flour Bakery: </b>Crusty, crackling baguettes warm from the steaming oven… buttery, raisin-filled brioche shaped in a swirl and drizzled with sweet icing… silky-smooth chocolate cream pie… lemon curd cakes filled with raspberry preserves… fresh, made-to-order salads and sandwiches. Imagine enjoying a muffin still warm from the oven, made with real butter and fresh seasonal fruit, alongside a cafe latte in an oversized mug.</p></div>
+      <p><b>Flour Bakery: </b>Crusty, crackling baguettes warm from the steaming oven… buttery, raisin-filled brioche shaped in a swirl and drizzled with sweet icing… silky-smooth chocolate cream pie… lemon curd cakes filled with raspberry preserves… fresh, made-to-order salads and sandwiches. Imagine enjoying a muffin still warm from the oven, made with real butter and fresh seasonal fruit, alongside a cafe latte in an oversized mug.</p></div><hr>
 
 <div>
   <p>
     <a href="https://www.jeanandleekitchen.net/">
       <img class="partner-logo" src="/assets/images/supporters-and-partners-images/jean-and-lee-kitchen-logo.jpg"/></a></p>
-      <p><b>Jean and Lee Kitchen: </b>We have been serving high quality Asian cuisine in Newton Upper Falls for many years. A local favorite for Newton Upper Falls residents, customers speak highly of our fresh, authentic dishes and the friendly atmosphere.</p></div>
+      <p><b>Jean and Lee Kitchen: </b>We have been serving high quality Asian cuisine in Newton Upper Falls for many years. A local favorite for Newton Upper Falls residents, customers speak highly of our fresh, authentic dishes and the friendly atmosphere.</p></div><hr>
 
 <div>
   <p>

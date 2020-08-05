@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  The application deadline for EDGE 2019-2020 is <strong>September 25</strong>, Wednesday, 11:59PM.
+  The application deadline for EDGE 2020-2021 is <strong>to be determined</strong>.
   </p>
 </div>
 
@@ -81,8 +81,12 @@ permalink: /programs/edge-program
   <h2><strong>Sign Up</strong></h2>
 
   <p>
+  <strong>Mentors:</strong> The application period has not begun yet.<br/>
+  <strong>Mentees:</strong> The application period has not begun yet.</a>
+  <!--
   <strong>Mentors:</strong> Click<a href="http://tinyurl.com/edgementor1920"> here</a> to see the mentor application form!<br/>
   <strong>Mentees:</strong> See the mentee application form<a href="http://tinyurl.com/edgementee1920"> here!</a>
+  -->
   </p>
 </div>
 
@@ -91,5 +95,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or e-mail the Mentorship chair at <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a>
+Get in touch with us! Find us at our events or e-mail the EDGE Mentorship chair at <a href="mailto:randall.toy@tap-boston.org">randall.toy@tap-boston.org</a>
 </div>
