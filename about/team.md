@@ -84,9 +84,9 @@ permalink: /about/team
     <td class="team-left"><img class="team-image" id="team-randall-toy" src="{{ site.baseurl }}/assets/images/team-images/team-randall-toy.png"/><br/>
       <b>Randall Toy</b><br/>EDGE Mentorship Chair</td>
     <td class="team-right"><b>Occupation:</b> Scientist at Gene Therapy Biotech<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b> The amazing people, night markets, and the food!<br/></b>
-	<b>Hobbies:</b> Running, cooking, biking, tennis, and golf<br/></b>
-	<b>Why TAP:</b> I want to be part of a great organization that makes a positive impact on students and the broader community in Boston.<br/></b>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> The amazing people, night markets, and the food!<br/><br/>
+	<b>Hobbies:</b> Running, cooking, biking, tennis, and golf<br/><br/>
+	<b>Why TAP:</b> I want to be part of a great organization that makes a positive impact on students and the broader community in Boston.<br/><br/>
     </td>
   </tr>
   <tr>
