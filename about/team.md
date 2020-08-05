@@ -75,18 +75,18 @@ permalink: /about/team
     <td class="team-left"><img class="team-image" id="team-lichen-pan" src="{{ site.baseurl }}/assets/images/team-images/team-lichen-pan.png"/><br/>
       <b>Li-Chen Pan</b><br/>Marketing Chair</td>
     <td class="team-right"><b>Occupation:</b> Healthcare Consultant<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> The community and the food!<br/>
-	<b>Hobbies:</b><br/> Knitting, plants and exploring the city<br/>
-	<b>Why TAP:</b><br/> To help build a welcoming community, to gain information and understanding through social identify, and to support local communities and build a sense of belonging.<br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> The community and the food!<br/><br/>
+	<b>Hobbies:</b> Knitting, plants and exploring the city<br/><br/>
+	<b>Why TAP:</b> To help build a welcoming community, to gain information and understanding through social identify, and to support local communities and build a sense of belonging.<br/></b>
     </td>
   </tr>
   <tr>
     <td class="team-left"><img class="team-image" id="team-randall-toy" src="{{ site.baseurl }}/assets/images/team-images/team-randall-toy.png"/><br/>
       <b>Randall Toy</b><br/>EDGE Mentorship Chair</td>
     <td class="team-right"><b>Occupation:</b> Scientist at Gene Therapy Biotech<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> The amazing people, night markets, and the food!<br/>
-	<b>Hobbies:</b><br/> Running, cooking, biking, tennis, and golf<br/>
-	<b>Why TAP:</b><br/> I want to be part of a great organization that makes a positive impact on students and the broader community in Boston.<br/>
+        <b>Favorite thing about Taiwan/Taiwanese America:</b> The amazing people, night markets, and the food!<br/></b>
+	<b>Hobbies:</b> Running, cooking, biking, tennis, and golf<br/></b>
+	<b>Why TAP:</b> I want to be part of a great organization that makes a positive impact on students and the broader community in Boston.<br/></b>
     </td>
   </tr>
   <tr>
