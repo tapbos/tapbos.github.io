@@ -77,7 +77,7 @@ permalink: /about/team
     <td class="team-right"><b>Occupation:</b> Healthcare Consultant<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b> The community and the food!<br/><br/>
 	<b>Hobbies:</b> Knitting, plants and exploring the city<br/><br/>
-	<b>Why TAP:</b> To help build a welcoming community, to gain information and understanding through social identify, and to support local communities and build a sense of belonging.<br/></b>
+	<b>Why TAP:</b> To help build a welcoming community, to gain information and understanding through social identify, and to support local communities and build a sense of belonging.<br/><br/>
     </td>
   </tr>
   <tr>
