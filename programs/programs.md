@@ -23,7 +23,7 @@ permalink: /programs/tap-programs
   To get in touch, contact our Social Chairs:<br/>
   <a href="mailto:belle.lee@tap-boston.org">belle.lee@tap-boston.org</a><br/>
   <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a>
-  </p
+  </p>
 
   <hr id="community-development">
 

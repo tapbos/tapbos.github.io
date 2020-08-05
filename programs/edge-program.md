@@ -82,7 +82,7 @@ permalink: /programs/edge-program
 
   <p>
   <strong>Mentors:</strong> The application period has not begun yet.<br/>
-  <strong>Mentees:</strong> The application period has not begun yet.</a>
+  <strong>Mentees:</strong> The application period has not begun yet.
   <!--
   <strong>Mentors:</strong> Click<a href="http://tinyurl.com/edgementor1920"> here</a> to see the mentor application form!<br/>
   <strong>Mentees:</strong> See the mentee application form<a href="http://tinyurl.com/edgementee1920"> here!</a>
