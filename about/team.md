@@ -127,7 +127,7 @@ permalink: /about/team
   </tr>
   <tr>
     <td class="team-left"><img class="team-image" id="team-michelle-hsu" src="{{ site.baseurl }}/assets/images/team-images/team-michelle-hsu.png"/><br/>
-      <b>Michelle Hsu</b><br/>Community Development Co-Chair</td>
+      <b>Michelle Hsu</b><br/>Professional Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Statistician, Frontier Science<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> Eating Taiwanese shaved ice! Also, I admire people's recycling knowledge, so as their respectful social etiquette with the elderly.<br/><br/>
 	<b>Hobbies:</b> Jogging along the Charles River, reading, and yoga.<br/><br/>
