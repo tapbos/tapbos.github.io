@@ -35,16 +35,16 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <tr>
     <td><a href="{{ site.baseurl}}/about/team#team-karen-lin"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-joe-wong"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-joe-wong.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-claire-peng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-erica-yang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-erica-yang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-michelle-hsu"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-michelle-hsu.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Karen Lin</b><br/>Co-President</td>
     <td><b>Joe Wong</b><br/>Co-President</td>
-    <td><b>Claire Peng</b><br/>VP, Mentorship Chair</td>
+    <td><b>Erica Yang</b><br/>Vice President</td>
     <td><b>Vanessa Chiang</b><br/>Secretary</td>
-    <td><b>Erica Yang</b><br/>Professional Development Chair</td>
+    <td><b>Michelle Hsu</b><br/>Professional Development Chair</td>
   </tr>
 </table>
 
