@@ -6,7 +6,7 @@ permalink: /photos
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
-Visit our <a href="https://www.facebook.com/TAP.BOS/">Facebook</a> and <a href="">Instagram</a> for more!
+Visit our <a href="https://www.facebook.com/TAP.BOS/">Facebook</a> and <a href="https://www.instagram.com/tap_bos">Instagram</a> for more!
 
 <div class='embedsocial-instagram' data-ref="43d6c3ad188365f7f6ff4eb4eafe7a32bf07418c">
 </div>
