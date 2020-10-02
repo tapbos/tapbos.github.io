@@ -10,7 +10,10 @@ var spinTimeTotal = 0;
 
 var ctx;
 
-document.getElementById("spin").addEventListener("click", spin);
+window.onload=function(){
+    var nullCheck = document.getElementById("spin");
+    nullCheck.addEventListener("click", spin);
+}
 
 function byte2Hex(n) {
     var nybHexString = "0123456789ABCDEF";
