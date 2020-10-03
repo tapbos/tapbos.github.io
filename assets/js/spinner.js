@@ -115,7 +115,7 @@ function rotateWheel() {
     var spinAngle = spinAngleStart - easeOut(spinTime, 0, spinAngleStart, spinTimeTotal);
     startAngle += (spinAngle * Math.PI / 180);
     drawRouletteWheel();
-    spinTimeout = setTimeout('rotateWheel()', 40); //original 30
+    spinTimeout = setTimeout('rotateWheel()', 40); //30
 }
 
 function stopRotateWheel() {
@@ -124,14 +124,14 @@ function stopRotateWheel() {
     var arcd = arc * 180 / Math.PI;
     var index = Math.floor((360 - degrees % 360) / arcd);
     ctx.save();
-    ctx.font = 'bold 30px Helvetica, Arial';
+    ctx.font = 'bold 50px Helvetica, Arial'; //30
     var text = options[index]
     ctx.fillText(text, 250 - ctx.measureText(text).width / 2, 250 + 10);
     ctx.restore();
 
     modal.style.display = "block";
-    modalResult.innerHTML = text;
-    modalInfo.innerHTML = "restaurant info here";
+    modalResult.innerHTML = "Let's eat at " + text + "!";
+    modalInfo.innerHTML = "Info, links, images here";
 }
 
 span.onclick = function(){
