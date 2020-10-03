@@ -1,4 +1,4 @@
-var options = ["Pho", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "Boloco", "Sushi"];
+var options = ["Pho", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "Boloco", "Tea-Do"];
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
 var spinTimeout = null;

@@ -13,8 +13,8 @@ permalink: /programs/spinner
 </div>
 
 <div class="main-contents-area">
-  <h3 class="no-bg">{{ page.title }}</h3>
-  <input type="button" value="Go!" style="float:left;" id='spin' />
+  <h3 class="no-bg">Let's eat at...</h3>
+  <input type="button" value="Spin!" style="float:left;" id='spin' />
   <canvas id="canvas" width="500" height="500"></canvas>
   <script src="{{ site.baseurl }}/assets/js/spinner.js"></script>
 </div>
