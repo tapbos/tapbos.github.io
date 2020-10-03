@@ -1,18 +1,17 @@
-var options = ["$100", "$10", "$25", "$250", "$30", "$1000", "$1", "$200", "$45", "$500", "$5", "$20", "Lose", "$1000000", "Lose", "$350", "$5", "$99"];
-
+var options = ["Pho", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "Boloco", "Sushi"];
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
 var spinTimeout = null;
-
 var spinArcStart = 10;
 var spinTime = 0;
 var spinTimeTotal = 0;
-
 var ctx;
+var modal = document.getElementById("myModal");
+var modalResult = document.getElementById("myModalResult");
+var modalInfo = document.getElementById("myModalInfo");
+var span = document.getElementsByClassName("close")[0];
 
-console.log("before");
 document.getElementById("spin").addEventListener("click", spin);
-console.log("after");
 
 function byte2Hex(n) {
     var nybHexString = "0123456789ABCDEF";
@@ -32,8 +31,15 @@ function getColor(item, maxitem) {
     red   = Math.sin(frequency*item+2+phase) * width + center;
     green = Math.sin(frequency*item+0+phase) * width + center;
     blue  = Math.sin(frequency*item+4+phase) * width + center;
-
-    return RGB2Color(red,green,blue);
+    
+    // return RGB2Color(red,green,blue);
+    //replacing it with my alternating 2 colors
+    if(item % 2 == 0){
+	return RGB2Color(255, 255, 150);
+    }
+    else{
+	return RGB2Color(220, 255, 150);
+    }
 }
 
 function drawRouletteWheel() {
@@ -53,8 +59,10 @@ function drawRouletteWheel() {
 
 	for(var i = 0; i < options.length; i++) {
 	    var angle = startAngle + i * arc;
-	    //ctx.fillStyle = colors[i];
-	    ctx.fillStyle = getColor(i, options.length);
+
+	    //rainbow
+	    var myColor = getColor(i, options.length);
+	    ctx.fillStyle = myColor;
 
 	    ctx.beginPath();
 	    ctx.arc(250, 250, outsideRadius, angle, angle + arc, false);
@@ -107,7 +115,7 @@ function rotateWheel() {
     var spinAngle = spinAngleStart - easeOut(spinTime, 0, spinAngleStart, spinTimeTotal);
     startAngle += (spinAngle * Math.PI / 180);
     drawRouletteWheel();
-    spinTimeout = setTimeout('rotateWheel()', 30);
+    spinTimeout = setTimeout('rotateWheel()', 40); //original 30
 }
 
 function stopRotateWheel() {
@@ -120,6 +128,20 @@ function stopRotateWheel() {
     var text = options[index]
     ctx.fillText(text, 250 - ctx.measureText(text).width / 2, 250 + 10);
     ctx.restore();
+
+    modal.style.display = "block";
+    modalResult.innerHTML = text;
+    modalInfo.innerHTML = "restaurant info here";
+}
+
+span.onclick = function(){
+    modal.style.display = "none";
+}
+
+window.onclick = function(event){
+    if(event.target == modal){
+	modal.style.display = "none";
+    }
 }
 
 function easeOut(t, b, c, d) {
