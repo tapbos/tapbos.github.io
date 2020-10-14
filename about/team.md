@@ -103,8 +103,8 @@ permalink: /about/team
       <b>Chris Lo</b><br/>Technology Chair</td>
     <td class="team-right"><b>Occupation:</b> IT<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> Bubble tea and the people!<br/><br/>
-	<b>Hobbies:</b> Exercise, VR, training my budgies, eating asian desserts<br/><br/>
-	<b>Why TAP:</b> I want to meet new people, and get more involved in the Boston community. TAP opens the door for me to do all that, and contribute to the tech in the back!<br/><br/>
+	<b>Hobbies:</b> Exercise, VR, training my parakeets, eating desserts<br/><br/>
+	<b>Why TAP:</b> I want to meet new people, and get more involved in the Boston community. TAP opens the door for me to do all that, and to contribute to the tech!<br/><br/>
     </td>
   </tr>
   <tr>
