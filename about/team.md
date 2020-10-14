@@ -65,9 +65,9 @@ permalink: /about/team
   <tr>
     <td class="team-left"><img class="team-image" id="team-amy-jin" src="{{ site.baseurl }}/assets/images/team-images/team-amy-jin.png"/><br/>
       <b>Amy Jin</b><br/>Graphic Design Chair</td>
-    <td class="team-right"><b>Occupation:</b> Analyst, Liberty Mutual<br/><br/>
+    <td class="team-right"><b>Occupation:</b> Graduate Student at Northwestern<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> F o o d and inviting community<br/><br/>
-	<b>Hobbies:</b> Oil painting, grocery shopping, taking pictures of everything, taking pictures of dogs, saving posts from Subtle Asian Cooking, occasionally cooking, calling my mom to complain about life<br/><br/>
+	<b>Hobbies:</b> Painting (self-pubbing my art insta @ajin.arts), reading, casual hiking (emphasis on casual), barre workout classes, bonding with my dog (self-pubbing my soon-to-be dog insta @twix_got_trix), racquet sports, Overcooked, board games galore.<br/><br/>
 	<b>Why TAP:</b> I want to learn more about Taiwanese culture through engaging with a fun-loving and passionate community. I believe in TAP's ability to drive positive impact in our surrounding communities.<br/><br/>
     </td>
   </tr>
