@@ -1,4 +1,12 @@
-var options = ["Pho", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "China Pearl", "Hei La Moon"];
+var options = ["Pho Pasteur", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "China Pearl", "Hei La Moon"];
+var optionsInfo = ["http://phopasteurboston.net/",
+		   "https://www.amateras-ramen.com/menu",
+		   "https://taiwancafeboston.com/",
+		   "https://www.5spiceshouse.com/",
+		   "685 Washington St, Boston, MA 02116",
+		   "http://www.hongkongeatery.com/",
+		   "https://chinapearlboston.net/",
+		   "88 Beach St, Boston, MA 02111"]
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
 var spinTimeout = null;
@@ -125,13 +133,14 @@ function stopRotateWheel() {
     var index = Math.floor((360 - degrees % 360) / arcd);
     ctx.save();
     ctx.font = 'bold 30px Helvetica, Arial'; //centered results text
-    var text = options[index]
-    ctx.fillText(text, 250 - ctx.measureText(text).width / 2, 250 + 10);
+    var choice = options[index];
+    var choiceInfo = optionsInfo[index];
+    ctx.fillText(choice, 250 - ctx.measureText(text).width / 2, 250 + 10);
     ctx.restore();
 
     modal.style.display = "block";
-    modalResult.innerHTML = "Let's eat at " + text + "!";
-    modalInfo.innerHTML = "Info, links, images here";
+    modalResult.innerHTML = "Let's eat at " + choice + "!";
+    modalInfo.innerHTML = choiceInfo;
 }
 
 span.onclick = function(){
