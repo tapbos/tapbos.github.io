@@ -135,7 +135,7 @@ function stopRotateWheel() {
     ctx.font = 'bold 30px Helvetica, Arial'; //centered results text
     var choice = options[index];
     var choiceInfo = optionsInfo[index];
-    ctx.fillText(choice, 250 - ctx.measureText(text).width / 2, 250 + 10);
+    ctx.fillText(choice, 250 - ctx.measureText(choice).width / 2, 250 + 10);
     ctx.restore();
 
     modal.style.display = "block";
