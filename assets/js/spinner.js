@@ -1,12 +1,29 @@
 var options = ["Pho Pasteur", "Amateras", "Taiwan Cafe", "Five Spices", "Penang", "HK Eatery", "China Pearl", "Hei La Moon"];
-var optionsInfo = ["http://phopasteurboston.net/",
+var optionsLinks = ["http://phopasteurboston.net/",
 		   "https://www.amateras-ramen.com/menu",
 		   "https://taiwancafeboston.com/",
 		   "https://www.5spiceshouse.com/",
-		   "685 Washington St, Boston, MA 02116",
+		   "https://www.yelp.com/biz/penang-boston",
 		   "http://www.hongkongeatery.com/",
 		   "https://chinapearlboston.net/",
-		   "88 Beach St, Boston, MA 02111"]
+		   "https://www.yelp.com/biz/hei-la-moon-boston"]
+var optionsInfo = [" ",
+		   " ",
+		   " ",
+		   " ",
+		   " ",
+		   " ",
+		   " ",
+		   " "]
+
+var optionsImage = ["https://tap-boston.org/assets/images/resources-images/spinner-images/pho-pasteur.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/amateras.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/taiwan-cafe.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/five-spices.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/penang.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/hong-kong-eatery.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/china-pearl.jpg",
+		    "https://tap-boston.org/assets/images/resources-images/spinner-images/hei-la-moon.jpg"]
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
 var spinTimeout = null;
@@ -17,6 +34,7 @@ var ctx;
 var modal = document.getElementById("myModal");
 var modalResult = document.getElementById("myModalResult");
 var modalInfo = document.getElementById("myModalInfo");
+var modalImage = document.getElementById("myModalImage");
 var span = document.getElementsByClassName("close")[0];
 
 document.getElementById("spin").addEventListener("click", spin);
@@ -123,7 +141,7 @@ function rotateWheel() {
     var spinAngle = spinAngleStart - easeOut(spinTime, 0, spinAngleStart, spinTimeTotal);
     startAngle += (spinAngle * Math.PI / 180);
     drawRouletteWheel();
-    spinTimeout = setTimeout('rotateWheel()', 40); //30
+    spinTimeout = setTimeout('rotateWheel()', 40); //original 30, 40 ideal, 5 test
 }
 
 function stopRotateWheel() {
@@ -135,11 +153,14 @@ function stopRotateWheel() {
     ctx.font = 'bold 30px Helvetica, Arial'; //centered results text
     var text = options[index]
     var textInfo = optionsInfo[index]
+    var textImage = optionsImage[index]
     ctx.fillText(text, 250 - ctx.measureText(text).width / 2, 250 + 10);
     ctx.restore();
 
     modal.style.display = "block";
-    modalResult.innerHTML = "Let's eat at " + text + "!";
+    modalResult.innerHTML = "Let's eat at <b><a href=" + optionsLinks[index] + ">" + text + "</a></b>!";
+    console.log("<img id=myModalImage src=" + optionsImage[index] + ">");
+    modalImage.innerHTML = "<img id=myModalImage src=" + optionsImage[index] + ">";
     modalInfo.innerHTML = textInfo;
 }
 

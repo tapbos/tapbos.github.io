@@ -782,6 +782,12 @@
 				width: 100%;
 			}
 
+			/*modal image*/
+			#myModalImage{
+			    max-width: 100%;
+			    max-height: auto;
+			}
+
 /* List */
 
 	ol {
@@ -1753,7 +1759,23 @@
 			    margin: auto;
 			    padding: 20px;
 			    border: 1px solid #888;
-			    width: 80%;
+			    width: 65%;
+			    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+			    -webkit-animation-name: animatetop;
+			    -webkit-animation-duration: 0.3s;
+			    animation-name: animatetop;
+			    animation-duration: 0.3s;			    
+			}
+
+			/* modal animation */
+			@-webkit-keyframes animatetop{
+			    from{top:-300px; opacity:0}
+			    to{top:0; opacity:1}
+			}
+
+			@keyframes animatetop{
+			    from{top:-300px; opacity:0}
+			    to{top:0; opacity:1}
 			}
 
 			/* modal close button */

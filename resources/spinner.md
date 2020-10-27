@@ -8,6 +8,7 @@ permalink: /resources/spinner
   <div class="modal-content">
     <span class="close">&times;</span>
     <p id="myModalResult"></p>
+    <p id="myModalImage"></p>
     <p id="myModalInfo"></p>
   </div>
 </div>
