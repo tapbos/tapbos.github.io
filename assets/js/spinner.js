@@ -158,7 +158,7 @@ function stopRotateWheel() {
     ctx.restore();
 
     modal.style.display = "block";
-    modalResult.innerHTML = "Let's eat at <b><a href=" + optionsLinks[index] + ">" + text + "</a></b>!";
+    modalResult.innerHTML = "Let's eat at <b><a href=" + optionsLinks[index] + " target=\"_blank\">" + text + "</a></b>!";
     console.log("<img id=myModalImage src=" + optionsImage[index] + ">");
     modalImage.innerHTML = "<img id=myModalImage src=" + optionsImage[index] + ">";
     modalInfo.innerHTML = textInfo;
