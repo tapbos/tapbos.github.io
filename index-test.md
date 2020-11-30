@@ -35,7 +35,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 </center>
 
 <p class="index-merchandise">
-Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/store/tap-boston-swag/">Bonfire!</a>
+Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank">Bonfire.</a>
 </p>
 
 <div class="owl-carousel owl-theme">
