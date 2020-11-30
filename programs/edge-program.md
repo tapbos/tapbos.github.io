@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  The application deadline for EDGE 2020-2021 is <strong>Septermber 30, 2020</strong>.
+  The application deadline for EDGE 2020-2021 is <strong>September 30, 2020</strong>.
   </p>
 </div>
 
