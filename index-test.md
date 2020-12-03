@@ -39,11 +39,11 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
 </p>
 
 <div class="owl-carousel owl-theme">
-     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/1.png"/></a></div>
-     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/2.png"/></a></div>
-     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/3.png"/></a></div>
-     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/4.png"/></a></div>
-     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/5.png"/></a></div>
+     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/1.png"/></a></div>
+     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/2.png"/></a></div>
+     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/3.png"/></a></div>
+     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/4.png"/></a></div>
+     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/5.png"/></a></div>
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
