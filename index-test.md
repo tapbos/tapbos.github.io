@@ -39,11 +39,11 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
 </p>
 
 <div class="owl-carousel owl-theme">
-     <div><img src="{{ site.baseurl }}/assets/images/index-images/1.png"/></div>
-     <div><img src="{{ site.baseurl }}/assets/images/index-images/2.png"/></div>
-     <div><img src="{{ site.baseurl }}/assets/images/index-images/3.png"/></div>
-     <div><img src="{{ site.baseurl }}/assets/images/index-images/4.png"/></div>
-     <div><img src="{{ site.baseurl }}/assets/images/index-images/5.png"/></div>
+     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/1.png"/></a></div>
+     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/2.png"/></a></div>
+     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/3.png"/></a></div>
+     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/4.png"/></a></div>
+     <div><a href="www.google.com" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/5.png"/></a></div>
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
