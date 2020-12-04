@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TAP-Boston
-permalink: /index-test
+permalink: /
 ---
 
 <!--
