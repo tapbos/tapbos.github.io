@@ -1125,6 +1125,31 @@
 			background-color: #595959;
 		}
 
+		canvas.spinner-canvas{
+		    padding: 0;
+		    display: block;
+		}
+
+		input[type="button"].spinner-input{
+		    height: 100px;
+		    width: 100px;
+		    position: relative;
+		    top: -300px;
+		    left: 200px;
+		    border-radius: 50px;
+		    background-color: #ffca61;
+		}
+		input[type="button"].spinner-input:before{
+		    background-color: #ffffff;
+		}
+		input[type="button"].spinner-input:hover{
+		    background-color: yellow;
+		}
+		input[type="button"].spinner-input:active{
+		    background-color: #ffffff;
+		}
+		
+
 		input[type="submit"].icon,
 		input[type="reset"].icon,
 		input[type="button"].icon,

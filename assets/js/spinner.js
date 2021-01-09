@@ -73,15 +73,15 @@ function drawRouletteWheel() {
     if (canvas.getContext) {
 	var outsideRadius = 200;
 	var textRadius = 160;
-	var insideRadius = 125;
+	var insideRadius = 55; /*125*/
 
 	ctx = canvas.getContext("2d");
 	ctx.clearRect(0,0,500,500);
 
-	ctx.strokeStyle = "black";
-	ctx.lineWidth = 2;
+	ctx.strokeStyle = "#ffffff";
+	ctx.lineWidth = 10;
 
-	ctx.font = 'bold 12px Helvetica, Arial';
+	ctx.font = '15px Helvetica, Arial';
 
 	for(var i = 0; i < options.length; i++) {
 	    var angle = startAngle + i * arc;
@@ -100,8 +100,8 @@ function drawRouletteWheel() {
 	    ctx.shadowOffsetX = -1;
 	    ctx.shadowOffsetY = -1;
 	    ctx.shadowBlur    = 0;
-	    ctx.shadowColor   = "rgb(220,220,220)";
-	    ctx.fillStyle = "black";
+	    ctx.shadowColor   = "(220,220,220)";
+	    ctx.fillStyle = "#3f3f3f";
 	    ctx.translate(250 + Math.cos(angle + arc / 2) * textRadius,
 			  250 + Math.sin(angle + arc / 2) * textRadius);
 	    ctx.rotate(angle + arc / 2 + Math.PI / 2);
@@ -111,7 +111,8 @@ function drawRouletteWheel() {
 	}
 
 	//Arrow
-	ctx.fillStyle = "black";
+	
+	/*ctx.fillStyle = "orange";
 	ctx.beginPath();
 	ctx.moveTo(250 - 4, 250 - (outsideRadius + 5));
 	ctx.lineTo(250 + 4, 250 - (outsideRadius + 5));
@@ -121,7 +122,15 @@ function drawRouletteWheel() {
 	ctx.lineTo(250 - 9, 250 - (outsideRadius - 5));
 	ctx.lineTo(250 - 4, 250 - (outsideRadius - 5));
 	ctx.lineTo(250 - 4, 250 - (outsideRadius + 5));
-	ctx.fill();
+	ctx.fill(); */
+
+	ctx.fillStyle = "#ffca61";
+	ctx.beginPath();
+	ctx.moveTo(250 - 8, 250 - (outsideRadius + 5));
+	ctx.lineTo(250 + 8, 250 - (outsideRadius + 5));
+	ctx.lineTo(250 + 0, 250 - (outsideRadius - 13));
+	ctx.lineTo(250 - 8, 250 - (outsideRadius + 5));
+	ctx.fill(); 
     }
 }
 
@@ -141,7 +150,7 @@ function rotateWheel() {
     var spinAngle = spinAngleStart - easeOut(spinTime, 0, spinAngleStart, spinTimeTotal);
     startAngle += (spinAngle * Math.PI / 180);
     drawRouletteWheel();
-    spinTimeout = setTimeout('rotateWheel()', 40); //original 30, 40 ideal, 5 test
+    spinTimeout = setTimeout('rotateWheel()', 5); //original 30, 50 ideal, 5 test
 }
 
 function stopRotateWheel() {
@@ -151,15 +160,16 @@ function stopRotateWheel() {
     var index = Math.floor((360 - degrees % 360) / arcd);
     ctx.save();
     ctx.font = 'bold 30px Helvetica, Arial'; //centered results text
-    var text = options[index]
+    var text = ""; /*options index*/
     var textInfo = optionsInfo[index]
     var textImage = optionsImage[index]
     ctx.fillText(text, 250 - ctx.measureText(text).width / 2, 250 + 10);
     ctx.restore();
 
     modal.style.display = "block";
+    console.log(optionsLinks[index]);
     modalResult.innerHTML = "Let's eat at <b><a href=" + optionsLinks[index] + " target=\"_blank\">" + text + "</a></b>!";
-    console.log("<img id=myModalImage src=" + optionsImage[index] + ">");
+    //console.log("<img id=myModalImage src=" + optionsImage[index] + ">");
     modalImage.innerHTML = "<img id=myModalImage src=" + optionsImage[index] + ">";
     modalInfo.innerHTML = textInfo;
 }
