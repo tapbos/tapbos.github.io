@@ -16,6 +16,6 @@ permalink: /resources/spinner
 <div class="main-contents-area">
   <h3 class="no-bg">Let's eat at...</h3>
   <canvas class="spinner-canvas" id="canvas" width="500" height="500"></canvas>
-  <input class="spinner-input" type="button" value="&#11118;" id='spin'/>	
+  <input class="spinner-input" type="button" value="&#x2B6E;" id='spin'/>	
   <script src="{{ site.baseurl }}/assets/js/spinner.js"></script>
 </div>

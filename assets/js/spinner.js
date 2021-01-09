@@ -150,7 +150,7 @@ function rotateWheel() {
     var spinAngle = spinAngleStart - easeOut(spinTime, 0, spinAngleStart, spinTimeTotal);
     startAngle += (spinAngle * Math.PI / 180);
     drawRouletteWheel();
-    spinTimeout = setTimeout('rotateWheel()', 5); //original 30, 50 ideal, 5 test
+    spinTimeout = setTimeout('rotateWheel()', 45); //original 30, 45 ideal, 5 test
 }
 
 function stopRotateWheel() {
