@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  The application deadline for EDGE 2020-2021 was <strong>September 30, 2020</strong>.
+  The application deadline for EDGE 2021-2022 is <strong>October 1, 2021</strong>.
   </p>
 </div>
 
@@ -84,8 +84,8 @@ permalink: /programs/edge-program
   <strong>Mentors:</strong> The application period has ended.<br/>
   <strong>Mentees:</strong> The application period has ended.
   <!--
-  <strong>Mentors:</strong> Click<a href="https://docs.google.com/forms/d/e/1FAIpQLSdiObwFKjS3R3nNxEEDAfiDrKpHcYqrryZThSQ99tD7u86pJw/viewform"> here</a> to see the mentor application form!<br/>
-  <strong>Mentees:</strong> See the mentee application form<a href="https://docs.google.com/forms/d/e/1FAIpQLSdeGE1n7S1ic7JRJQdPeRz_ypYTZDWrQ1Eyfq1VmV8OFVUE-g/viewform"> here!</a>
+  <strong>Mentors:</strong> Click<a href="https://forms.gle/BH7eeMaXjHpHDGHQ9"> here</a> to see the mentor application form!<br/>
+  <strong>Mentees:</strong> See the mentee application form<a href="https://forms.gle/ud2i95hRqVtsVfoB8"> here!</a>
   -->
   </p>
 </div>
