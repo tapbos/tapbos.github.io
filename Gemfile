@@ -2,7 +2,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve, at localhost:4000
 gem "jekyll", ">= 3.7.4"
 #gem "github-pages", group: :jekyll_plugins
-
+gem "kramdown", ">= 2.3.1"
 gem "minima", "~> 2.0"
 
 group :jekyll_plugins do
