@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem "jekyll-sass-converter", ">=2.1.0"
 #     bundle exec jekyll serve, at localhost:4000
 gem "jekyll", ">= 3.7.4"
 #gem "github-pages", group: :jekyll_plugins
