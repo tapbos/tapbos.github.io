@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  The application deadline for EDGE 2021-2022 is <strong>October 1, 2021</strong>.
+  The application deadline for EDGE 2021-2022 is <strong>October 8, 2021</strong>.
   </p>
 </div>
 
