@@ -68,7 +68,7 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
 <table class="index-team">
   <tr>
     <td><a href="{{ site.baseurl}}/about/team#team-belle-lee"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-belle-lee.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-randy-toy"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-randy-toy.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-randall-toy"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-randall-toy.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-mathew-lee"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mathew-lee.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-claire-peng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-kara-chuang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-kara-chuang.png"/></a></td>
