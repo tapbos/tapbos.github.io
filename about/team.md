@@ -74,7 +74,7 @@ permalink: /about/team
   <tr>
     <td class="team-left"><img class="team-image" id="team-amy-jin" src="{{ site.baseurl }}/assets/images/team-images/team-amy-jin.png"/><br/>
       <b>Amy Jin</b><br/>Graphic Design Chair</td>
-    <td class="team-right"><b>Occupation:</b> Graduate Student at Northwestern<br/><br/>
+    <td class="team-right"><b>Occupation:</b> Nonprofit Consultant<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> F o o d and inviting community<br/><br/>
 	<b>Hobbies:</b> Painting (self-pubbing my art insta @ajin.arts), board games, racquet sports, switch games, casual hiking (emphasis on casual), reading, hunting down food festivals<br/><br/>
 	<b>Why TAP:</b> I want to learn more about Taiwanese culture through engaging with a fun-loving and passionate community. I believe in TAP's ability to drive positive impact in our surrounding communities.<br/><br/>
