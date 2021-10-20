@@ -67,18 +67,18 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
 
 <table class="index-team">
   <tr>
-    <td><a href="{{ site.baseurl}}/about/team#team-karen-lin"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-karen-lin.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-joe-wong"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-joe-wong.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-erica-yang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-erica-yang.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-vanessa-chiang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-vanessa-chiang.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-michelle-hsu"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-michelle-hsu.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-belle-lee"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-belle-lee.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-randy-toy"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-randy-toy.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-mathew-lee"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mathew-lee.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-claire-peng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team#team-kara-chuang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-kara-chuang.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
-    <td><b>Karen Lin</b><br/>Co-President</td>
-    <td><b>Joe Wong</b><br/>Co-President</td>
-    <td><b>Erica Yang</b><br/>Vice President</td>
-    <td><b>Vanessa Chiang</b><br/>Secretary</td>
-    <td><b>Michelle Hsu</b><br/>Professional Development Chair</td>
+    <td><b>Belle Lee</b><br/>Co-President</td>
+    <td><b>Randy Toy</b><br/>Co-President</td>
+    <td><b>Mathew Lee</b><br/>Vice President</td>
+    <td><b>Claire Peng</b><br/>Secretary</td>
+    <td><b>Kara Chuang</b><br/>Professional Development Chair</td>
   </tr>
 </table>
 

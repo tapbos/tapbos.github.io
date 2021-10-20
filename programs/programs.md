@@ -12,10 +12,10 @@ permalink: /programs/tap-programs
   <p>	       
   TAP’s Professional Development program focuses on helping community members develop the knowledge and practical skills needed to succeed in the workplace and life. A variety of workshops on topics such as networking, improv. comedy, goal planning, etc. aim to fulfill the needs of young professionals looking for self development.<br/><br/>
   For more information, contact our Professional Development Chair:<br/>
-  <a href="mailto:michelle.hsu@tap-boston.org">michelle.hsu@tap-boston.org</a>
+  <a href="mailto:kara.chuang@tap-boston.org">kara.chuang@tap-boston.org</a>
   </p>
-
-  <hr id="social-and-cultural">
+  
+  <!-- <hr id="social-and-cultural">
 
   <h3>Social & Cultural Events</h3>
   <p>
@@ -23,8 +23,8 @@ permalink: /programs/tap-programs
   To get in touch, contact our Social Chairs:<br/>
   <a href="mailto:belle.lee@tap-boston.org">belle.lee@tap-boston.org</a><br/>
   <a href="mailto:claire.peng@tap-boston.org">claire.peng@tap-boston.org</a>
-  </p>
-
+  </p> -->
+  
   <hr id="community-development">
 
   <h3>Community Development</h3>

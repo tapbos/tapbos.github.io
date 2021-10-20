@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Deadlines</strong></h2>
 
   <p>
-  The application deadline for EDGE 2021-2022 is <strong>October 8, 2021</strong>.
+  The application deadline for EDGE 2021-2022 was <strong>October 8, 2021</strong>.
   </p>
 </div>
 
@@ -95,5 +95,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or e-mail the EDGE Mentorship chair at <a href="mailto:randall.toy@tap-boston.org">randall.toy@tap-boston.org</a>
+Get in touch with us! Find us at our events or contact our EDGE Mentorship chairs at <a href="mailto:jonathan.yeh@tap-boston.org">jonathan.yeh@tap-boston.org</a> and <a href="mailto:allison.sheu@tap-boston.org">allison.sheu@tap-boston.org</a>
 </div>
