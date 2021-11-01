@@ -90,15 +90,6 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" id="team-jeffrey-kimmel" src="{{ site.baseurl }}/assets/images/team-images/team-jeffrey-kimmel.png"/><br/>
-      <b>Jeffrey Kimmel</b><br/>Community Development Co-Chair</td>
-    <td class="team-right"><b>Occupation:</b> Clinical Research Coordinator at Dana-Farber Cancer Institute<br/><br/>
-        <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> It's hard to pinpoint my favorite, so here are a few: the inclusivity of the Taiwanese community; the deliciousness of food; the fact that, when we work together and support one another, we can achieve impressive tasks.<br/><br/>
-	<b>Hobbies:</b> Playing basketball (or sports in general), exploring/traveling, gastronomic adventures, watching movies, reading a good book, playing with my dog<br/><br/>
-	<b>Why TAP:</b> When I moved to Boston, I didn't know many people. I joined TAP at the suggestion of a friend and it turned out to be one of the best decisions I've made. Not only does TAP do good in its community, but the members are warm and inviting.<br/><br/>
-    </td>
-  </tr>
-  <tr>
     <td class="team-left"><img class="team-image" id="team-kara-chuang" src="{{ site.baseurl }}/assets/images/team-images/team-kara-chuang.png"/><br/>
       <b>Kara Chuang</b><br/>Professional Development Chair</td>
     <td class="team-right"><b>Occupation:</b> Undergraduate student at UMass Amherst<br/><br/>

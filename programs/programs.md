@@ -30,8 +30,7 @@ permalink: /programs/tap-programs
   <h3>Community Development</h3>
   <p>
   TAP-Boston gives back to our local community by partnering with non-profit organizations such as the Greater Boston Food Bank, Room to Grow and Pine Street Inn. The relationships we build with them allow TAP to serve the needs of the Greater Boston community.<br/><br/>
-  For more information, contact our Community Development Chairs:<br/>
+  For more information, contact our Community Development Chair:<br/>
   <a href="mailto:alex.wu@tap-boston.org">alex.wu@tap-boston.org</a><br/>
-  <a href="mailto:jeffrey.kimmel@tap-boston.org">jeffrey.kimmel@tap-boston.org</a>
   </p>
 </div>
