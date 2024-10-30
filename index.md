@@ -90,7 +90,7 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
 
 <center>
   <h3>Subscribe to our monthly newsletter</h3>
-  Stay updated on our networking, professional, social, cultural, and philanthropic events.<br/><br/>
+  Stay updated on our networking, professional, social, and cultural events.<br/><br/>
   <a href="#mailmunch-pop-121032">
      <img src="/assets/images/join-us-button.png" class="join-us-button">
   </a>
