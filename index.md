@@ -71,14 +71,12 @@ Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/stor
     <td><a href="{{ site.baseurl}}/about/team#team-randall-toy"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-randall-toy.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-mathew-lee"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-mathew-lee.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team#team-claire-peng"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-claire-peng.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team#team-kara-chuang"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-kara-chuang.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Belle Lee</b><br/>Co-President</td>
     <td><b>Randy Toy</b><br/>Co-President</td>
     <td><b>Mathew Lee</b><br/>Vice President</td>
     <td><b>Claire Peng</b><br/>Secretary</td>
-    <td><b>Kara Chuang</b><br/>Professional Development Chair</td>
   </tr>
 </table>
 
