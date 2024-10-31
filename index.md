@@ -28,24 +28,6 @@ TAP-Boston is a springboard for driven and passionate individuals interested in 
 We are driven by the ideals of continuous self-improvement and the moral obligation to help others.
 </p>
 
-<hr>
-
-<center>
-  <h3>Merchandise</h3>
-</center>
-
-<p class="index-merchandise">
-Official TAP-Boston swag. Now available at <a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank">Bonfire.</a>
-</p>
-
-<div class="owl-carousel owl-theme">
-     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/1.png"/></a></div>
-     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/2.png"/></a></div>
-     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/3.png"/></a></div>
-     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/4.png"/></a></div>
-     <div><a href="https://www.bonfire.com/store/tap-boston-swag/" target="_blank"><img src="{{ site.baseurl }}/assets/images/index-images/5.png"/></a></div>
-</div>
-
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
 
