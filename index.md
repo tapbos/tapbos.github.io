@@ -55,10 +55,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
-    <td><b>Chen Wen Hsu</b><br/>Co-President</td>
-    <td><b>Randy Toy</b><br/>Co-President</td>
-    <td><b>Mathew Lee</b><br/>Vice President</td>
-    <td><b>Claire Peng</b><br/>Secretary</td>
+    <td><b>Chen Wen Hsu</b><br/>President</td>
+    <td><b>Ben Huang</b><br/>Treasurer and Marketing Chair</td>
+    <td><b>Wen-Hung Lin</b><br/>Program Chair</td>
+    <td><b>Sophie Lin</b><br/>EDGE Mentorship Chair</td>
   </tr>
 </table>
 
