@@ -49,10 +49,10 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 
 <table class="index-team">
   <tr>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-chenwen-hsu.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-sophie-lin.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Chen Wen Hsu</b><br/>President</td>

@@ -9,7 +9,7 @@ permalink: /about/team
 
 <table class="team">
   <tr>
-    <td class="team-left"><img class="team-image" id="team-belle-lee" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
+    <td class="team-left"><img class="team-image" id="team-chenwen-hsu" src="{{ site.baseurl }}/assets/images/team-images/team-chenwen-hsu.png"/><br/>
       <b>Chen Wen Hsu</b><br/>President</td>
     <td class="team-right"><b>Occupation:</b> Economic Consulting<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> Kindness and friendliness of Taiwanese people, and how you are almost guaranteed to be fed delicious food<br/><br/>
@@ -18,7 +18,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" id="team-randall-toy" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
+    <td class="team-left"><img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/><br/>
       <b>Ben Huang</b><br/>Treasurer and Marketing Chair</td>
     <td class="team-right"><b>Occupation:</b> Experienced Audit and Accounting Professional<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> The warm hospitality of the people, the rich night-time activities, and delicious Taiwanese cuisine like xiaolongbao and bubble tea. I also cherish the cultural festivals and beautiful sceneries of Taiwan.<br/><br/>
@@ -27,7 +27,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" id="team-mathew-lee" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
+    <td class="team-left"><img class="team-image" id="team-wenhung-lin" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png"/><br/>
       <b>Wen-Hung Lin</b><br/>Program Chair</td>
     <td class="team-right"><b>Occupation:</b> Owner, International Students Organization Boston LLC (ISO Boston)<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> Family, friendly people, rich culture, great food and activities available for family and kids.<br/><br/>
@@ -36,7 +36,7 @@ permalink: /about/team
     </td>
   </tr>
   <tr>
-    <td class="team-left"><img class="team-image" id="team-karen-lin" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
+    <td class="team-left"><img class="team-image" id="team-sophie-lin" src="{{ site.baseurl }}/assets/images/team-images/team-sophie-lin.png"/><br/>
       <b>Sophie Lin</b><br/>EDGE Mentorship Chair</td>
     <td class="team-right"><b>Occupation:</b> Industrial Designer<br/><br/>
         <b>Favorite thing about Taiwan/Taiwanese America:</b><br/> Family, food, bubble tea on every corner, and playing badminton in the mountains.<br/><br/>
