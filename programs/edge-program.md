@@ -73,7 +73,7 @@ permalink: /programs/edge-program
   <h2><strong>Sign Up</strong></h2>
 
   <p>
-  <strong>Mentees:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfdcSBq-7pumzCfKoh8VJivq8K-ABDwAu_-WW72k6LOlnynBQ/viewform">Link </a> <br/>
+  <strong>Mentees:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfdcSBq-7pumzCfKoh8VJivq8K-ABDwAu_-WW72k6LOlnynBQ/viewform">Link <br/>
   <strong>Mentors:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSearH861K_LKE8zTfOcRXZurt50Wsnf4g43tWKyrH9zlM4hFQ/viewform">Link </a>
   <!--
   <strong>Mentors:</strong> Click<a href="https://forms.gle/BH7eeMaXjHpHDGHQ9"> here</a> to see the mentor application form!<br/>
