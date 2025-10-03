@@ -53,12 +53,14 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
     <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ming-hui-chiu.png"/></a></td>
     <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-michael-monis.png"/></a></td>
+    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Wen-Hung Lin</b><br/>President</td>
     <td><b>Ben Huang</b><br/>Marketing Chair</td>
     <td><b>Ming Hui Chiu</b><br/>Program Chair</td>
     <td><b>Michael Monis</b><br/>Program Chair</td>
+    <td><b>Edwin (Ed) Merced Grafals</b><br/>Treasurer</td>
   </tr>
 </table>
 
