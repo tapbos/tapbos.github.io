@@ -43,7 +43,7 @@ permalink: /about/team
   <!-- Ben Huang -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang1.png"/><br/>
+      <img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/><br/>
       <b>Ben Huang</b><br/>Marketing Chair
     </td>
     <td class="team-right">
