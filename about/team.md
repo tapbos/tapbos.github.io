@@ -7,10 +7,10 @@ permalink: /about/team
 .team-image {
   width: 180px;
   height: 180px;
-  object-fit: cover; /* 確保圖片被裁切成正方形並填滿 */
-  border-radius: 50%; /* 保持圓形 */
+  object-fit: cover;
+  border-radius: 50%;
   display: block;
-  margin: 0 auto 10px auto; /* 置中 */
+  margin: 0 auto 10px auto;
 }
 .team-left {
   text-align: center;
@@ -30,20 +30,20 @@ permalink: /about/team
   <!-- Wen-Hung Lin -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-wenhung-lin" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png"/><br/>
+      <img class="team-image" id="team-wenhung-lin" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png" alt="Wen-Hung Lin"/><br/>
       <b>Wen-Hung Lin</b><br/>President
     </td>
     <td class="team-right">
       Wen-Hung was born in Taiwan but raised in Singapore. She studied Accounting at Nanyang Technological University and started her career in Singapore.
       In 2006, Wen-Hung moved to Boston and continued her career in finance and accounting for the next 18 years before starting her own business/investing.
-      She is married with four kids age between 12-20. In her free time, she enjoys playing badminton and traveling with the family.<br/><br/>
+      She is married with four kids age between 12–20. In her free time, she enjoys playing badminton and traveling with the family.<br/><br/>
     </td>
   </tr>
 
   <!-- Ben Huang -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/><br/>
+      <img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png" alt="Ben Huang"/><br/>
       <b>Ben Huang</b><br/>Marketing Chair
     </td>
     <td class="team-right">
@@ -59,7 +59,7 @@ permalink: /about/team
   <!-- Ming Hui Chiu -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ming-hui-chiu" src="{{ site.baseurl }}/assets/images/team-images/team-ming-hui-chiu.png"/><br/>
+      <img class="team-image" id="team-ming-hui-chiu" src="{{ site.baseurl }}/assets/images/team-images/team-ming-hui-chiu.png" alt="Ming Hui Chiu"/><br/>
       <b>Ming Hui Chiu</b><br/>Program Chair
     </td>
     <td class="team-right">
@@ -74,21 +74,21 @@ permalink: /about/team
   <!-- Michael Monis -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-michael-monis" src="{{ site.baseurl }}/assets/images/team-images/team-michael-monis.png"/><br/>
+      <img class="team-image" id="team-michael-monis" src="{{ site.baseurl }}/assets/images/team-images/team-michael-monis.png" alt="Michael Monis"/><br/>
       <b>Michael Monis</b><br/>Program Chair
     </td>
     <td class="team-right">
-      Michael is a Boston native that graduated Brandeis University with a double major in Education and Chinese language, history and culture.
-      Michael is an elementary school teacher in the town of Arlington. He has spent years teaching at several schools in Boston’s Chinatown
-      and working closely with the Chinatown community. He volunteers regularly with several organizations that put on cultural events and fundraisers
-      to support the Asian immigrant populations in and around the Boston area. Michael engages in several hobbies such as Taekwondo, cooking, running and dancing.<br/><br/>
+      Michael is a Boston native who graduated from Brandeis University with a double major in Education and Chinese language, history, and culture.
+      He is an elementary school teacher in the town of Arlington. He has spent years teaching at several schools in Boston’s Chinatown and working closely with the Chinatown community.
+      He volunteers regularly with several organizations that put on cultural events and fundraisers to support the Asian immigrant populations in and around the Boston area.
+      Michael engages in several hobbies such as Taekwondo, cooking, running, and dancing.<br/><br/>
     </td>
   </tr>
 
   <!-- Edwin (Ed) Merced Grafals -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-edwin-merced-grafals" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png"/><br/>
+      <img class="team-image" id="team-edwin-merced-grafals" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png" alt="Edwin (Ed) Merced Grafals"/><br/>
       <b>Edwin (Ed) Merced Grafals</b><br/>Treasurer
     </td>
     <td class="team-right">
