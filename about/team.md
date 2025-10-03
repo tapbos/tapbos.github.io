@@ -3,6 +3,26 @@ title: Team
 layout: default-no-bg
 permalink: /about/team
 ---
+<style>
+.team-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover; /* 確保圖片被裁切成正方形並填滿 */
+  border-radius: 50%; /* 保持圓形 */
+  display: block;
+  margin: 0 auto 10px auto; /* 置中 */
+}
+.team-left {
+  text-align: center;
+  vertical-align: top;
+  padding: 10px;
+  width: 220px;
+}
+.team-right {
+  padding: 10px;
+}
+</style>
+
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
 
