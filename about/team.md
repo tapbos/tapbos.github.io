@@ -5,12 +5,13 @@ permalink: /about/team
 ---
 <style>
 .team-image {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
   margin: 0 auto 10px auto;
+  background: #fff; /* 防止圖片邊緣透明時露出黑色背景 */
 }
 .team-left {
   text-align: center;
@@ -30,14 +31,14 @@ permalink: /about/team
   <!-- Wen-Hung Lin -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-wenhung-lin" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png" alt="Wen-Hung Lin"/><br/>
+      <img class="team-image" id="team-wenhung-lin" src="{{ '/assets/images/team-images/team-wenhung-lin.png' | relative_url }}" alt="Wen-Hung Lin"/><br/>
       <b>Wen-Hung Lin</b><br/>President
     </td>
     <td class="team-right">
-      Wen-Hung was born in Taiwan but raised in Singapore. She studied Accounting at Nanyang Technological University and started her career at PwC Singapore. 
-      In 2006, Wen-Hung moved to Boston and continued her career in auditing at major financial institutions, served as audit director at State Street Corporation 
-      and Fidelity Investments. In 2024, she started an organization that focuses on assimilating international Asian students into the U.S. culture. 
-      She also joined the TAP-Boston Board in the same year to further her support for the Taiwanese community in Boston. 
+      Wen-Hung was born in Taiwan but raised in Singapore. She studied Accounting at Nanyang Technological University and started her career at PwC Singapore.
+      In 2006, Wen-Hung moved to Boston and continued her career in auditing at major financial institutions, served as audit director at State Street Corporation
+      and Fidelity Investments. In 2024, she started an organization that focuses on assimilating international Asian students into the U.S. culture.
+      She also joined the TAP-Boston Board in the same year to further her support for the Taiwanese community in Boston.
       She is married with four kids age between 12–20. In her free time, she enjoys playing sports and exploring new places/traveling with the family.<br/><br/>
     </td>
   </tr>
@@ -45,7 +46,7 @@ permalink: /about/team
   <!-- Ben Huang -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ben-huang" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png" alt="Ben Huang"/><br/>
+      <img class="team-image" id="team-ben-huang" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"/><br/>
       <b>Ben Huang</b><br/>Marketing Chair
     </td>
     <td class="team-right">
@@ -61,7 +62,7 @@ permalink: /about/team
   <!-- Ming Hui Chiu -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ming-hui-chiu" src="{{ site.baseurl }}/assets/images/team-images/team-ming-hui-chiu.png" alt="Ming Hui Chiu"/><br/>
+      <img class="team-image" id="team-ming-hui-chiu" src="{{ '/assets/images/team-images/team-ming-hui-chiu.png' | relative_url }}" alt="Ming Hui Chiu"/><br/>
       <b>Ming Hui Chiu</b><br/>Program Chair
     </td>
     <td class="team-right">
@@ -76,7 +77,7 @@ permalink: /about/team
   <!-- Michael Monis -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-michael-monis" src="{{ site.baseurl }}/assets/images/team-images/team-michael-monis.png" alt="Michael Monis"/><br/>
+      <img class="team-image" id="team-michael-monis" src="{{ '/assets/images/team-images/team-michael-monis.png' | relative_url }}" alt="Michael Monis"/><br/>
       <b>Michael Monis</b><br/>Program Chair
     </td>
     <td class="team-right">
@@ -90,7 +91,7 @@ permalink: /about/team
   <!-- Edwin (Ed) Merced Grafals -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-edwin-merced-grafals" src="{{ site.baseurl }}/assets/images/team-images/team-edwin-grafals.png" alt="Edwin (Ed) Merced Grafals"/><br/>
+      <img class="team-image" id="team-edwin-merced-grafals" src="{{ '/assets/images/team-images/team-edwin-grafals.png?v=2' | relative_url }}" alt="Edwin (Ed) Merced Grafals"/><br/>
       <b>Edwin (Ed) Merced Grafals</b><br/>Treasurer
     </td>
     <td class="team-right">
