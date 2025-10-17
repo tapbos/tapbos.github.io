@@ -13,7 +13,7 @@ permalink: /
   <h2 class="taiwanese-american">TAIWANESE AMERICAN</h2>
   <h2 class="professionals">PROFESSIONALS</h2>
   <h2 class="location">Boston, MA</h2>
-  <a href="{{ site.baseurl }}/about/overview"><button class="index-learn-more">Learn more</button></a>
+  <a href="{{ '/about/overview' | relative_url }}"><button class="index-learn-more">Learn more</button></a>
 </center>
 
 <center>
@@ -47,13 +47,26 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3 class="meet-the-team">Meet the Team</h3>
 </center>
 
+<style>
+/* keep home headshots uniform */
+img.index-team {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  background: #fff;
+}
+</style>
+
 <table class="index-team">
   <tr>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-wenhung-lin.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ben-huang.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-ming-hui-chiu.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-michael-monis.png"/></a></td>
-    <td><a href="{{ site.baseurl}}/about/team"><img class="index-team" src="{{ site.baseurl }}/assets/images/team-images/team-edwin-grafals.png"/></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-wenhung-lin.png' | relative_url }}" alt="Wen-Hung Lin"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-ming-hui-chiu.png' | relative_url }}" alt="Ming Hui Chiu"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-michael-monis.png' | relative_url }}" alt="Michael Monis"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-edwin-grafals.png?v=2' | relative_url }}" alt="Edwin (Ed) Merced Grafals"></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Wen-Hung Lin</b><br/>President</td>
@@ -65,7 +78,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
 </table>
 
 <center>
-  <a class="index-team-view-all" href="{{ site.baseurl }}/about/team">View all</a>
+  <a class="index-team-view-all" href="{{ '/about/team' | relative_url }}">View all</a>
 </center>
 
 <hr>
@@ -74,7 +87,7 @@ We are driven by the ideals of continuous self-improvement and the moral obligat
   <h3>Subscribe to our monthly newsletter</h3>
   Stay updated on our networking, professional, social, and cultural events.<br/><br/>
   <a href="#mailmunch-pop-121032">
-     <img src="/assets/images/join-us-button.png" class="join-us-button">
+     <img src="{{ '/assets/images/join-us-button.png' | relative_url }}" class="join-us-button" alt="Join Us">
   </a>
 </center>
 
