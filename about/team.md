@@ -34,9 +34,11 @@ permalink: /about/team
       <b>Wen-Hung Lin</b><br/>President
     </td>
     <td class="team-right">
-      Wen-Hung was born in Taiwan but raised in Singapore. She studied Accounting at Nanyang Technological University and started her career in Singapore.
-      In 2006, Wen-Hung moved to Boston and continued her career in finance and accounting for the next 18 years before starting her own business/investing.
-      She is married with four kids age between 12–20. In her free time, she enjoys playing badminton and traveling with the family.<br/><br/>
+      Wen-Hung was born in Taiwan but raised in Singapore. She studied Accounting at Nanyang Technological University and started her career at PwC Singapore. 
+      In 2006, Wen-Hung moved to Boston and continued her career in auditing at major financial institutions, served as audit director at State Street Corporation 
+      and Fidelity Investments. In 2024, she started an organization that focuses on assimilating international Asian students into the U.S. culture. 
+      She also joined the TAP-Boston Board in the same year to further her support for the Taiwanese community in Boston. 
+      She is married with four kids age between 12–20. In her free time, she enjoys playing sports and exploring new places/traveling with the family.<br/><br/>
     </td>
   </tr>
 
@@ -88,7 +90,7 @@ permalink: /about/team
   <!-- Edwin (Ed) Merced Grafals -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-edwin-merced-grafals" src="{{ site.baseurl }}/assets/images/team-images/team-blank.png" alt="Edwin (Ed) Merced Grafals"/><br/>
+      <img class="team-image" id="team-edwin-merced-grafals" src="{{ site.baseurl }}/assets/images/team-images/team-edwin-grafals.png" alt="Edwin (Ed) Merced Grafals"/><br/>
       <b>Edwin (Ed) Merced Grafals</b><br/>Treasurer
     </td>
     <td class="team-right">
