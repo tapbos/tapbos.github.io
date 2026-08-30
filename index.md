@@ -73,7 +73,7 @@ img.index-team {
     <td><b>Jane Shan</b><br/>Marketing Chair</td>
     <td><b>Ming Hui Chiu</b><br/>Program Chair</td>
     <td><b>Michael Monis</b><br/>Program Chair</td>
-    <td><b>Ben Huang</b><br/>Treasurer &amp; IT Chair</td>
+    <td><b>Ben Huang</b><br/><span style="white-space: nowrap;">Treasurer &amp; IT Chair</span></td>
   </tr>
 </table>
 
