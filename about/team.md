@@ -43,19 +43,19 @@ permalink: /about/team
     </td>
   </tr>
 
-  <!-- Ben Huang -->
+  <!-- Jane Shan -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-ben-huang" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"/><br/>
-      <b>Ben Huang</b><br/>Marketing Chair
+      <img class="team-image" id="team-jane-shan" src="{{ '/assets/images/team-images/team-jane-shan.png' | relative_url }}" alt="Jane Shan"/><br/>
+      <b>Jane Shan</b><br/>Marketing Chair
     </td>
     <td class="team-right">
-      Born and raised in Taiwan, Ben is a U.S. Certified Public Accountant (CPA) currently working in public accounting, where he provides audit,
-      financial analysis, and strategic consulting services across multiple industries. He moved to Boston to pursue his graduate studies,
-      earning a master’s degree from Northeastern University, and continues to further develop his career in finance and accounting.
-      Outside of work, Ben enjoys weight training, traveling, and exploring new coffee spots around the city.
-      He is passionate about building community among Taiwanese professionals and currently serves on the TAP-Boston Board as the Marketing Chair,
-      where he hopes to connect more young professionals and promote cultural exchange within the Taiwanese American community.<br/><br/>
+      Jane is a global citizen who was born and raised in Taiwan, studied in Australia, Finland, and the U.S., lived in 10 countries, and traveled to many more.
+      These experiences have fueled her deep appreciation for cross-cultural and cross-sector learning and connection.
+      For the past 20 years, Jane has built and scaled businesses through product innovation, marketing, strategy, and cross-functional collaboration across the technology, education, and consumer industries.
+      Looking ahead, she is dedicated to building purpose-driven growth ventures in the health and education sectors.
+      Jane joined the TAP-Boston Board to help foster deeper connections, mentorship, and growth within the community.
+      In her free time, she enjoys reading, playing sports, exploring new places, and continually learning.<br/><br/>
     </td>
   </tr>
 
@@ -88,17 +88,19 @@ permalink: /about/team
     </td>
   </tr>
 
-  <!-- Edwin (Ed) Merced Grafals -->
+  <!-- Ben Huang -->
   <tr>
     <td class="team-left">
-      <img class="team-image" id="team-edwin-merced-grafals" src="{{ '/assets/images/team-images/team-edwin-grafals.png?v=2' | relative_url }}" alt="Edwin (Ed) Merced Grafals"/><br/>
-      <b>Edwin (Ed) Merced Grafals</b><br/>Treasurer
+      <img class="team-image" id="team-ben-huang" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"/><br/>
+      <b>Ben Huang</b><br/>Treasurer &amp; IT Chair
     </td>
     <td class="team-right">
-      Ed was born and raised in Puerto Rico and earned his accounting degree from the University of Puerto Rico. He studied Mandarin in Fujian and later lived in Taipei,
-      where he worked in business development, met his wife from Taichung, and deepened his Chinese skills. For the past seven years, Ed has worked in accounting
-      and now advises on mergers, restructurings, and other complex business matters. He joined TAP Boston to support the Taiwanese community and help young professionals
-      integrate into the U.S., inspired by the challenges he saw his wife face. In his free time, he enjoys cooking, baseball, and working out.<br/><br/>
+      Born and raised in Taiwan, Ben is a U.S. Certified Public Accountant (CPA) currently working in public accounting, where he provides audit,
+      financial analysis, and strategic consulting services across multiple industries. He moved to Boston to pursue his graduate studies,
+      earning a master’s degree from Northeastern University, and continues to further develop his career in finance and accounting.
+      Outside of work, Ben enjoys weight training, traveling, and exploring new coffee spots around the city.
+      He is passionate about building community among Taiwanese professionals and currently serves on the TAP-Boston Board as Treasurer and IT Chair,
+      supporting the organization’s financial operations and technology needs while helping connect more young professionals and promote cultural exchange within the Taiwanese American community.<br/><br/>
     </td>
   </tr>
 </table>
