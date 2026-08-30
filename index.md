@@ -63,17 +63,17 @@ img.index-team {
 <table class="index-team">
   <tr>
     <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-wenhung-lin.png' | relative_url }}" alt="Wen-Hung Lin"></a></td>
-    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-jane-shan.png' | relative_url }}" alt="Jane Shan"></a></td>
     <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-ming-hui-chiu.png' | relative_url }}" alt="Ming Hui Chiu"></a></td>
     <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-michael-monis.png' | relative_url }}" alt="Michael Monis"></a></td>
-    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-edwin-grafals.png?v=2' | relative_url }}" alt="Edwin (Ed) Merced Grafals"></a></td>
+    <td><a href="{{ '/about/team' | relative_url }}"><img class="index-team" src="{{ '/assets/images/team-images/team-ben-huang.png' | relative_url }}" alt="Ben Huang"></a></td>
   </tr>
   <tr class="index-team-tags">
     <td><b>Wen-Hung Lin</b><br/>President</td>
-    <td><b>Ben Huang</b><br/>Marketing Chair</td>
+    <td><b>Jane Shan</b><br/>Marketing Chair</td>
     <td><b>Ming Hui Chiu</b><br/>Program Chair</td>
     <td><b>Michael Monis</b><br/>Program Chair</td>
-    <td><b>Edwin (Ed) Merced Grafals</b><br/>Treasurer</td>
+    <td><b>Ben Huang</b><br/>Treasurer &amp; IT Chair</td>
   </tr>
 </table>
 
