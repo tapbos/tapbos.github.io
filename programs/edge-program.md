@@ -72,24 +72,21 @@ permalink: /programs/edge-program
 </div>
 
 <div class="ezcol ezcol-one-third ezcol-last">
-  <h2><strong>Sign Up</strong></h2>
+  <h2><strong>Program Details</strong></h2>
 
   <p>
-  <strong>Program Details:</strong>
   <li>
   <strong>Duration:</strong> October – December 2026
 	        </li>
 	  <li>
   <strong>Application Deadline:</strong> September 13
 	        </li>
-	       <li><strong>Fall 2026 Cohort:</strong> <a href="https://forms.gle/URALyYLndjgT9x6c6">Link <br/></li>
-  </p>
-</div>
+<li><strong>Sign Up:</strong><a href="https://forms.gle/URALyYLndjgT9x6c6">Fall 2026 Cohort </li>
 
 <div class="ezcol-divider">
 </div>
 
 <h2>Questions?</h2>
 
-Contact Jane Shan at <a href="mailto:jane.shan@tap-boston.org">jane.shan@tap-boston.org</a>
+Contact <a href="mailto:jane.shan@tap-boston.org">jane.shan@tap-boston.org</a>
 </div>
