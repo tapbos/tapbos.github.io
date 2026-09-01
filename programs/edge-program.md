@@ -1,12 +1,14 @@
 ---
-title: EDGE Program
+title: EDGE Coaching Program
 layout: default-no-bg
 permalink: /programs/edge-program
 ---
 <div class="main-contents-area">
 <h3 class="no-bg">{{ page.title }}</h3>
-<img class="edge-workshop" src="{{ site.baseurl }}/assets/images/programs-images/edge-workshop.jpg"/><br/>
-<b>TAP EDGE</b> provides a forum for college students to engage with successful young professionals in their field. Our goal is not to replace your university career center; rather, it is to offer the deep relationships and insider knowledge that they cannot otherwise have. A quality mentor is among the rarest and most valuable assets a college student can have. TAP is proud to help provide this for our community.
+<br/>
+<b>TAP EDGE</b> Empowering the next generation of Taiwanese American leaders through bi-directional learning.
+	<br/>
+<b>TAP EDGE</b> provides a vibrant platform for university students and young professionals across Greater Boston to connect with experienced professionals. Grounded in mutual exchange, our unique 2x2 framework encourages every participant to teach, learn, and grow together.
 
 <hr>
 
@@ -16,22 +18,22 @@ permalink: /programs/edge-program
       </h3>
 
   <h2 style="text-align: left;">
-      Mentees
+      For Coachees
         </h2>
 
   <p>
-      Our mentees are motivated undergraduates from local Boston universities. For the fifth year, TAP is partnering with the <a href="http://itasa.org" target="_blank">Intercollegiate Taiwanese American Students Association</a> (ITASA) to identify engaged mentees for the program.
+      Motivated students and early-career professionals across Greater Boston.
         </p>
 
   <ul>
       <li>
-            <strong>Career insight</strong> &#8211; Get a behind-the-scenes look at life in your field
+            <strong>Accelerate Skill Development</strong> &#8211; Gain targeted advice to build skills and navigate your career.
 	        </li>
 		    <li>
-		          <strong>Access to insiders</strong> &#8211; Interview prep from those who have done it
+		          <strong>Broaden Perspective</strong> &#8211; Uncover long-term career insights and strategic life planning from seasoned professionals.
 			      </li>
 			          <li>
-				        <strong>Build your network</strong> &#8211; Meet people from other schools with similar interests
+				        <strong>Expand Your Network</strong> &#8211; Build lasting connections across diverse industries in the Boston area.
 					    </li>
 					      </ul>
 					      </div>
@@ -44,22 +46,22 @@ permalink: /programs/edge-program
 	</h3>
 
   <h2 style="text-align: left;">
-      Mentors
+      For Coaches
         </h2>
 
   <p>
-      Our mentors are accomplished young professionals and graduate students in the TAP network who survived the journey from college into their post-graduate dreams and want an opportunity to pay it forward.
+      Experienced professionals looking to pay it forward and elevate future leaders.
         </p>
 
   <ul>
       <li>
-            <strong>Share your wisdom</strong> &#8211; Make a difference in the lives of deserving students
+            <strong>Share your wisdom</strong> &#8211; Make a meaningful impact on the personal and professional journeys of rising talent.
 	        </li>
 		    <li>
-		          <strong>Grow your network</strong> &#8211; Meet other successful professionals in your field
+		          <strong>Enhance Leadership & Interpersonal Skills</strong> &#8211; Coaching provides opportunities to sharpen active listening and servant leadership.
 			      </li>
 			          <li>
-				        <strong>Skill development</strong> &#8211; Mentoring is a skill that will serve you in many facets of life
+				        <strong>Connect with Peers</strong> &#8211; Expand your professional circle with fellow coaches and industry peers.
 					    </li>
 					      </ul>
 					      </div>
@@ -73,12 +75,14 @@ permalink: /programs/edge-program
   <h2><strong>Sign Up</strong></h2>
 
   <p>
-  <strong>Mentees:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfdcSBq-7pumzCfKoh8VJivq8K-ABDwAu_-WW72k6LOlnynBQ/viewform">Link <br/>
-  <strong>Mentors:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSearH861K_LKE8zTfOcRXZurt50Wsnf4g43tWKyrH9zlM4hFQ/viewform">Link </a>
-  <!--
-  <strong>Mentors:</strong> Click<a href="https://forms.gle/BH7eeMaXjHpHDGHQ9"> here</a> to see the mentor application form!<br/>
-  <strong>Mentees:</strong> See the mentee application form<a href="https://forms.gle/ud2i95hRqVtsVfoB8"> here!</a>
-  -->
+  <strong>Program Details:</strong>
+  <li>
+  <strong>Duration:</strong> October – December 2026
+	        </li>
+	  <li>
+  <strong>Application Deadline:</strong> September 13
+	        </li>
+	       <li><strong>Fall 2026 Cohort:</strong> <a href="https://forms.gle/URALyYLndjgT9x6c6">Link <br/></li>
   </p>
 </div>
 
@@ -87,5 +91,5 @@ permalink: /programs/edge-program
 
 <h2>Questions?</h2>
 
-Get in touch with us! Find us at our events or contact our EDGE Mentorship chair at <a href="mailto:sophie.lin@tap-boston.org">sophie.lin@tap-boston.org</a>
+Contact Jane Shan at <a href="mailto:jane.shan@tap-boston.org">jane.shan@tap-boston.org</a>
 </div>
